@@ -1,0 +1,23 @@
+{
+  "number": 690,
+  "labels": {
+    "true": 345,
+    "false": 345
+  },
+  "instructions": {
+    "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false.": 66,
+    "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false.": 57,
+    "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false.": 70,
+    "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false.": 55,
+    "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false.": 55,
+    "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false.": 66,
+    "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false.": 47,
+    "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false.": 54,
+    "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false.": 53,
+    "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false.": 56,
+    "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false.": 58,
+    "Recognize sarcasm or irony in the spoken words. The answer could be true or false.": 53
+  },
+  "total_audio_length": 3602.327750000001,
+  "avg_audio_length": 5.220764855072465
+}

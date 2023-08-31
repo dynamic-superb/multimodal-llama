@@ -1,0 +1,1513 @@
+{
+  "predictions": [
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "false",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "false",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic remarks in the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "false",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "false",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine if there is sarcasm or irony embedded in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Perceive the use of sarcastic or ironic expressions in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is conveyed through the spoken message. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcastic or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Determine the presence of sarcastic or ironic elements in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Detect if there are sarcastic or ironic undertones in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Detect the use of sarcasm or irony in the verbal communication. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Recognize when sarcasm or irony is employed in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": false,
+      "instruction": "Identify the presence of sarcasm or ironic expressions in the speech. The answer could be true or false."
+    },
+    {
+      "pred": "true",
+      "label": true,
+      "instruction": "Identify instances of sarcasm or irony in the spoken words. The answer could be true or false."
+    }
+  ],
+  "label_count": {
+    "false": 146,
+    "true": 154
+  },
+  "pred_count": {
+    "true": 296,
+    "false": 4
+  },
+  "accuracy": 0.0
+}

@@ -1,0 +1,27 @@
+{
+  "number": 3448,
+  "labels": {
+    "0": 711,
+    "2": 357,
+    "5": 426,
+    "3": 180,
+    "1": 1627,
+    "4": 147
+  },
+  "instructions": {
+    "I need to figure out the language in this recording. Are you able to do language identification?": 316,
+    "Can you identify the language spoken in this audio recording?": 268,
+    "Is it possible for you to recognize the language spoken in this recording?": 287,
+    "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?": 285,
+    "I'm curious about the language spoken in this audio. Could you perform language identification?": 325,
+    "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?": 270,
+    "Could you please determine the language spoken in this audio clip for me?": 264,
+    "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it.": 293,
+    "I need help determining the language used in this speech. Can you assist?": 268,
+    "Can you detect and identify the specific language spoken in this audio sample?": 258,
+    "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?": 306,
+    "I'm in need of language identification services for this spoken text. Can you help me out?": 308
+  },
+  "total_audio_length": 19530.532249999997,
+  "avg_audio_length": 5.664307497099767
+}

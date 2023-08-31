@@ -1,0 +1,1812 @@
+{
+  "predictions": [
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "five",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "five",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "five",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "text": null,
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "text": null,
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "text": null,
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "text": null,
+      "instruction": "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "text": null,
+      "instruction": "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "clean",
+      "text": null,
+      "instruction": "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "text": null,
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "text": null,
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean."
+    }
+  ],
+  "label_count": {
+    "fifteen": 60,
+    "five": 54,
+    "clean": 56,
+    "zero": 61,
+    "ten": 69
+  },
+  "accuracy": 0.4766666666666667
+}

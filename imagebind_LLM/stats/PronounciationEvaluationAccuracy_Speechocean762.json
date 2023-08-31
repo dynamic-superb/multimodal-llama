@@ -1,0 +1,35 @@
+{
+  "number": 2500,
+  "labels": {
+    "1": 1,
+    "10": 118,
+    "3": 72,
+    "4": 88,
+    "5": 96,
+    "6": 133,
+    "7": 373,
+    "8": 970,
+    "9": 649
+  },
+  "instructions": {
+    "Rate the pronunciation accuracy of the sentence on a scale of 0 to 10.": 225,
+    "Give a score on a scale of 0 to 10 for the overall accuracy of pronouncing the sentence.": 178,
+    "Assess the accuracy of pronouncing the entire sentence and rate it on a scale of 0 to 10.": 155,
+    "Evaluate the overall accuracy of the sentence's pronunciation, using a scale of 0 to 10.": 163,
+    "Assess the precision in delivering the entire sentence and assign a score from 0 to 10.": 189,
+    "Provide an evaluation of the sentence's pronunciation accuracy with a score from 0 to 10.": 82,
+    "Assign a score from 0 to 10 based on the overall accuracy of the sentence's pronunciation.": 95,
+    "Give a score from 0 to 10 based on the accuracy of the sentence's pronunciation.": 135,
+    "Evaluate how accurately the sentence is pronounced and assign a score between 0 to 10.": 115,
+    "Give a score for the proficiency in pronouncing the sentence on a scale of 0 to 10.": 148,
+    "Evaluate the proficiency in delivering the sentence's pronunciation and give a score between 0 to 10.": 163,
+    "Rate the overall pronunciation accuracy of the sentence and assign a score from 0 to 10.": 143,
+    "Evaluate how well the sentence is pronounced and provide a score between 0 to 10.": 170,
+    "Rate the overall pronunciation accuracy of the sentence, using a scale of 0 to 10.": 79,
+    "Evaluate how accurately the sentence is pronounced and provide a score between 0 to 10.": 105,
+    "Provide an evaluation of the sentence's pronunciation accuracy, using a scale of 0 to 10.": 158,
+    "Assess the precision in delivering the entire sentence and rate it from 0 to 10.": 197
+  },
+  "total_audio_length": 9688.648000000014,
+  "avg_audio_length": 3.8754592000000057
+}

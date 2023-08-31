@@ -1,0 +1,1509 @@
+{
+  "predictions": [
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Categorize the speech as either spoofed or authentic. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Categorize the speech as either spoofed or authentic. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Categorize the speech as either spoofed or authentic. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Categorize the speech as either spoofed or authentic. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify the authenticity of the speech. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Categorize the speech as either spoofed or authentic. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "authentic",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "spoofed",
+      "label": "spoofed",
+      "instruction": "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic."
+    },
+    {
+      "pred": "authentic",
+      "label": "spoofed",
+      "instruction": "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic."
+    }
+  ],
+  "label_count": {
+    "spoofed": 276,
+    "authentic": 24
+  },
+  "accuracy": 0.5233333333333333
+}

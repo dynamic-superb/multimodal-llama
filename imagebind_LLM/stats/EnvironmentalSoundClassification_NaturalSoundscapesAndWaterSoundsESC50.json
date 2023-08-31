@@ -1,0 +1,31 @@
+{
+  "number": 400,
+  "labels": {
+    "toilet flush": 40,
+    "thunderstorm": 40,
+    "crackling fire": 40,
+    "sea waves": 40,
+    "pouring water": 40,
+    "wind": 40,
+    "water drops": 40,
+    "chirping birds": 40,
+    "rain": 40,
+    "crickets": 40
+  },
+  "instructions": {
+    "The objective is to classify the sounds originating from the environment. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 44,
+    "Please classify environmental sounds. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 35,
+    "We need to classify the environmental sounds. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 44,
+    "The job is to classify the sounds associated with the environment. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 36,
+    "Please group the sounds related to the environment accordingly. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 29,
+    "Can you organize the environmental sounds by their respective categories? The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 36,
+    "We would like you to identify the environmental sounds. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 27,
+    "Task is to categorize the sounds found in the environment. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 26,
+    "Please organize the environmental sounds into categories. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 33,
+    "Kindly arrange the environmental sounds into distinct classifications. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 34,
+    "We require you to categorize the sounds that belong to the environment. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 31,
+    "Kindly categorize the sounds of the environment. The answer could be rain, sea waves, crackling fire, crickets, chirping birds, water drops, wind, pouring water, toilet flush, or thunderstorm.": 25
+  },
+  "total_audio_length": 2000.0,
+  "avg_audio_length": 5.0
+}

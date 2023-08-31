@@ -1,0 +1,23 @@
+{
+  "number": 3000,
+  "labels": {
+    "presence": 2258,
+    "absence": 742
+  },
+  "instructions": {
+    "Detect whether there are bird noises present in the speech. The answer could be presence or absence.": 289,
+    "The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.": 286,
+    "Please check for the existence of bird sounds in the speech. The answer could be presence or absence.": 212,
+    "Please detect if there are any bird calls in the speech. The answer could be presence or absence.": 210,
+    "We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.": 227,
+    "Please detect whether there is bird sound in the speech. The answer could be presence or absence.": 271,
+    "Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.": 220,
+    "Identify whether bird sounds are present in the speech. The answer could be presence or absence.": 228,
+    "Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.": 262,
+    "Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.": 274,
+    "Please determine if there are any bird noises in the speech. The answer could be presence or absence.": 263,
+    "Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.": 258
+  },
+  "total_audio_length": 30254.63004535146,
+  "avg_audio_length": 10.08487668178382
+}

@@ -1,0 +1,35 @@
+{
+  "number": 3000,
+  "labels": {
+    "spoofed": 2852,
+    "authentic": 148
+  },
+  "instructions": {
+    "Classify whether the given utterance is a spoofed voice or an authentic recording. The answer could be spoofed or authentic.": 165,
+    "Classify the provided utterance as either a spoofed voice or an authentic one. The answer could be spoofed or authentic.": 124,
+    "Verify if the provided speech is a result of voice manipulation for spoofing purposes. The answer could be spoofed or authentic.": 143,
+    "Assess whether the provided speech is a spoofed voice. The answer could be spoofed or authentic.": 141,
+    "Classify the speech as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic.": 126,
+    "Determine if the utterance is authentic or a spoof. The answer could be spoofed or authentic.": 101,
+    "Classify whether the provided speech is a synthetic voice used for spoofing or an authentic recording. The answer could be spoofed or authentic.": 106,
+    "Assess whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic.": 118,
+    "Verify the authenticity of the speech. The answer could be spoofed or authentic.": 120,
+    "Determine if the speech is a result of voice spoofing or not. The answer could be spoofed or authentic.": 128,
+    "Classify whether the given utterance is a result of voice spoofing. The answer could be spoofed or authentic.": 140,
+    "Verify whether the provided speech is an authentic recording or a spoofed one. The answer could be spoofed or authentic.": 105,
+    "Identify if the provided speech is a manipulated voice designed to deceive. The answer could be spoofed or authentic.": 138,
+    "Categorize the speech as either spoofed or authentic. The answer could be spoofed or authentic.": 142,
+    "Identify if the speech has been manipulated to deceive. The answer could be spoofed or authentic.": 130,
+    "Verify if the given speech is a product of voice manipulation for spoofing. The answer could be spoofed or authentic.": 119,
+    "Determine whether the provided utterance is a synthetic voice created for spoofing purposes. The answer could be spoofed or authentic.": 123,
+    "Verify whether the provided utterance is a synthesized voice used for spoofing purposes. The answer could be spoofed or authentic.": 143,
+    "Identify whether the provided speech recording is authentic or a spoof. The answer could be spoofed or authentic.": 118,
+    "Determine if the provided speech is a spoofed voice. The answer could be spoofed or authentic.": 106,
+    "Determine if the given speech is a spoof or not. The answer could be spoofed or authentic.": 126,
+    "Identify if the speech is a genuine recording or a spoof based on the given input. The answer could be spoofed or authentic.": 97,
+    "Classify the provided utterance as either a spoofed voice or an authentic recording. The answer could be spoofed or authentic.": 102,
+    "Classify whether the given speech is a spoofed voice or an authentic recording. The answer could be spoofed or authentic.": 139
+  },
+  "total_audio_length": 9447.06868750001,
+  "avg_audio_length": 3.149022895833337
+}

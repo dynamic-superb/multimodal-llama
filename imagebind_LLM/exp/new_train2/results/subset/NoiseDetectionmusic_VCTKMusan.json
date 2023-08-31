@@ -1,0 +1,1513 @@
+{
+  "predictions": [
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy."
+    }
+  ],
+  "label_count": {
+    "clean": 157,
+    "noisy": 143
+  },
+  "pred_count": {
+    "clean": 253,
+    "noisy": 47
+  },
+  "accuracy": 0.4666666666666667
+}

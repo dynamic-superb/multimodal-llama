@@ -1,0 +1,22 @@
+{
+  "number": 26200,
+  "labels": {
+    "clean": 13100,
+    "noisy": 13100
+  },
+  "instructions": {
+    "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 1980,
+    "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 4194,
+    "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2470,
+    "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2277,
+    "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2328,
+    "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2238,
+    "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 1890,
+    "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2306,
+    "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2330,
+    "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 2261,
+    "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy.": 1926
+  },
+  "total_audio_length": 105192.99999998623,
+  "avg_audio_length": 4.014999999999475
+}

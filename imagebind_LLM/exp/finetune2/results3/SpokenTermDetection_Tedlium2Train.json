@@ -1,0 +1,1809 @@
+{
+  "predictions": [
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the given audio clip contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine if the audio represents genuine human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Evaluate the audio and decide if it consists of real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the recording contain speech from human? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Identify if the provided audio recording contains real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Is the audio capable of being recognized as human speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the recording and judge if it consists of real human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Does the audio consist of real speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Examine the audio sample and ascertain if it contains recognizable human speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Listen to the audio and determine if it contains any verbal communication. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Listen to the audio clip and determine if it contains real speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": null,
+      "instruction": "Determine if the given audio clip is real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio and determine whether it consists of real speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Determine whether the audio contains human speech or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": null,
+      "instruction": "Analyze the audio file and decide whether it includes real spoken words. The answer could be yes or no."
+    }
+  ],
+  "label_count": {
+    "no": 161,
+    "yes": 139
+  },
+  "accuracy": 0.9433333333333334
+}

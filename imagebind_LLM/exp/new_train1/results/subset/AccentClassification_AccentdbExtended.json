@@ -1,0 +1,1532 @@
+{
+  "predictions": [
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "australian",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "telugu",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "british",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "telugu",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "indian",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "australian",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "australian",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odish",
+      "label": "telugu",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "bangla",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "malayalam",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "malayalam",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "australian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "odiya",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "telugu",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "telugu",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "chinese",
+      "label": "malayalam",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "indian",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "australian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "malayalam",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "indian",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "african",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "telugu",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "telugu",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "telugu",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "american",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "australian",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bengali",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "odiya",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "telugu",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "telugu",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odium",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "telugu",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "bangla",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bengali",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "malayalam",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "british",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "african american",
+      "label": "british",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odish",
+      "label": "malayalam",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "bangla",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "bangla",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "australian",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "telugu",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "chinese",
+      "label": "malayalam",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "telugu",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "malayalam",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "african",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "no",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "british",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "telugu",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "bangla",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "telugu",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "malayalam",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bengali",
+      "label": "odiya",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "indian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "british",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "indian",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "bangla",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odii",
+      "label": "australian",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "american",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odii",
+      "label": "australian",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "indian",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "australian",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "odiya",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "bangla",
+      "label": "bangla",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "telugu",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "bangla",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "indian",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "indian",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "bangla",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "american",
+      "instruction": "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "welsh",
+      "label": "american",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "malayalam",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "odiya",
+      "label": "malayalam",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "british",
+      "label": "bangla",
+      "instruction": "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "malayalam",
+      "instruction": "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "telugu",
+      "instruction": "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "british",
+      "instruction": "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "welsh",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "american",
+      "label": "odiya",
+      "instruction": "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "american",
+      "instruction": "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    },
+    {
+      "pred": "indian",
+      "label": "australian",
+      "instruction": "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh."
+    }
+  ],
+  "label_count": {
+    "american": 106,
+    "australian": 18,
+    "telugu": 17,
+    "indian": 26,
+    "british": 25,
+    "odiya": 13,
+    "bangla": 34,
+    "welsh": 17,
+    "malayalam": 44
+  },
+  "pred_count": {
+    "welsh": 25,
+    "indian": 183,
+    "british": 36,
+    "odiya": 11,
+    "bangla": 10,
+    "american": 21,
+    "odish": 2,
+    "chinese": 2,
+    "african": 2,
+    "bengali": 3,
+    "odium": 1,
+    "african american": 1,
+    "no": 1,
+    "odii": 2
+  },
+  "accuracy": 0.09333333333333334
+}

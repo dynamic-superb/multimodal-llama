@@ -18,7 +18,7 @@ from ImageBind.models import imagebind_model
 class LLaMA_adapter(nn.Module):
     """ Masked Autoencoder with VisionTransformer backbone
     """
-    def __init__(self, llama_ckpt_dir, llama_tokenizer, knn=False, phase="finetune", legacy_bridge=False):
+    def __init__(self, llama_ckpt_dir, llama_tokenizer, knn=False, phase="finetune", legacy_bridge=False, max_batch_size=1):
         super().__init__()
 
         # 1. imagebind and imagebind projector
@@ -57,7 +57,7 @@ class LLaMA_adapter(nn.Module):
             params = json.loads(f.read())
         bias_lora = phase == "finetune"
         model_args: ModelArgs = ModelArgs(
-            max_seq_len=512, max_batch_size=1, w_bias=bias_lora, w_lora=bias_lora,  **params
+            max_seq_len=512, max_batch_size=max_batch_size, w_bias=bias_lora, w_lora=bias_lora,  **params
         ) # max_batch_size only affects inference
         print(f"model args: {model_args}")
         model_args.vocab_size = self.tokenizer.n_words
@@ -185,7 +185,7 @@ class LLaMA_adapter(nn.Module):
         return output.float()
 
     def forward(self, tokens, labels, imgs):
-        visual_feats = self.forward_visual({'Image': [imgs, 1]})
+        visual_feats = self.forward_visual({'audio': [imgs, 1]}) # hank Image -> Audio
 
         _bsz, seqlen = tokens.shape
 
@@ -202,6 +202,7 @@ class LLaMA_adapter(nn.Module):
             self.query_layer, 1, 4096).unsqueeze(1)
         prefix_index = 0
         visual_proj = visual_feats
+        # print(visual_proj.size())
         for layer in self.llama.layers[-1 * self.query_layer:]:
             h = layer(h, 0, freqs_cis, mask, visual_proj + prefix_query[prefix_index])
             prefix_index = prefix_index + 1
@@ -295,7 +296,7 @@ def available_models():
     return list(_MODELS.keys())
 
 def load(name, llama_dir, device="cuda" if torch.cuda.is_available() else "cpu", download_root='ckpts',
-         knn=False, llama_type="7B", phase="finetune"):
+         knn=False, llama_type="7B", phase="finetune", max_batch_size=1):
     if name in _MODELS:
         model_path = download(_MODELS[name], download_root)
     elif os.path.isfile(name):
@@ -312,7 +313,7 @@ def load(name, llama_dir, device="cuda" if torch.cuda.is_available() else "cpu",
     model_cfg = adapter_ckpt.get('config', {})
 
     model = LLaMA_adapter(
-        llama_ckpt_dir, llama_tokenzier_path, knn=knn, phase=phase)
+        llama_ckpt_dir, llama_tokenzier_path, knn=knn, phase=phase, max_batch_size=max_batch_size)
 
     load_result = model.load_state_dict(adapter_ckpt['model'], strict=False)
     assert len(load_result.unexpected_keys) == 0, f"Unexpected keys: {load_result.unexpected_keys}"

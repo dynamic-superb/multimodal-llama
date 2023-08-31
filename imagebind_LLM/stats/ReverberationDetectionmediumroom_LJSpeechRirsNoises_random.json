@@ -1,0 +1,23 @@
+{
+  "number": 3000,
+  "labels": {
+    "noisy": 1493,
+    "clean": 1507
+  },
+  "instructions": {
+    "Is the utterance disturbed by reverb noise from a medium-sized room? The answer could be clean or noisy.": 263,
+    "Does the utterance exhibit noise with reverberation from a medium-sized room? The answer could be clean or noisy.": 269,
+    "Is the utterance accompanied by reverb noise resulting from a medium-sized room? The answer could be clean or noisy.": 275,
+    "Is the utterance perturbed by noise resulting from reverberation in a medium-sized room? The answer could be clean or noisy.": 211,
+    "Is the utterance affected by reverb noise present in a medium-sized room? The answer could be clean or noisy.": 202,
+    "Is the utterance impacted by reverberation noise originating from a room of medium size? The answer could be clean or noisy.": 292,
+    "Does the utterance suffer from reverb noise originating from a medium-sized room? The answer could be clean or noisy.": 239,
+    "Does the utterance have reverb noise that resembles a medium-sized room? The answer could be clean or noisy.": 229,
+    "Is the utterance affected by reverberation noise in a room of medium size? The answer could be clean or noisy.": 266,
+    "Does the utterance possess reverberation noise associated with a room of medium dimensions? The answer could be clean or noisy.": 212,
+    "Does the utterance contain noise caused by reverberation in a medium-sized room? The answer could be clean or noisy.": 272,
+    "Does the utterance exhibit reverberation noise characteristic of a room with moderate dimensions? The answer could be clean or noisy.": 270
+  },
+  "total_audio_length": 12044.999999999733,
+  "avg_audio_length": 4.014999999999911
+}

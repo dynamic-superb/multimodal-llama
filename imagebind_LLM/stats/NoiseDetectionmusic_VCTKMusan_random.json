@@ -1,0 +1,23 @@
+{
+  "number": 3000,
+  "labels": {
+    "clean": 1503,
+    "noisy": 1497
+  },
+  "instructions": {
+    "Confirm if the sentence is a clear utterance or a noisy one with music interference. The answer could be clean or noisy.": 252,
+    "Determine whether the sentence is a noise-free utterance or a noisy one with music disturbance. The answer could be clean or noisy.": 227,
+    "Confirm if the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy.": 227,
+    "Ascertain if the sentence is a clear utterance or a noisy one with music disturbance. The answer could be clean or noisy.": 273,
+    "Judge if the sentence is a clean utterance or a noisy one with music disturbance. The answer could be clean or noisy.": 257,
+    "Verify if the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy.": 252,
+    "Resolve whether the sentence is a pristine utterance or a noisy one with music disruption. The answer could be clean or noisy.": 281,
+    "Assess if the sentence is a pure utterance or a noisy one with music interference. The answer could be clean or noisy.": 293,
+    "Establish whether the sentence is a pristine utterance or a noisy one with music interference. The answer could be clean or noisy.": 259,
+    "Verify if the sentence is a clean utterance or a noisy one with music interference. The answer could be clean or noisy.": 217,
+    "Judge whether the sentence is a pure utterance or a noisy one with music disruption. The answer could be clean or noisy.": 216,
+    "Determine whether the sentence is a noise-free utterance or a noisy one with music interference. The answer could be clean or noisy.": 246
+  },
+  "total_audio_length": 12044.999999999733,
+  "avg_audio_length": 4.014999999999911
+}

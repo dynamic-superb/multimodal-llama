@@ -1,0 +1,36 @@
+{
+  "number": 2500,
+  "labels": {
+    "7": 441,
+    "8": 833,
+    "5": 113,
+    "9": 689,
+    "6": 178,
+    "4": 48,
+    "10": 179,
+    "0": 8,
+    "3": 10,
+    "2": 1
+  },
+  "instructions": {
+    "Give a score on a scale of 0 to 10 for the overall fluency of pronouncing the sentence.": 178,
+    "Rate the fluency of the sentence's pronunciation on a scale of 0 to 10.": 225,
+    "Assess the coherence and smoothness in delivering the entire sentence and assign a score from 0 to 10.": 189,
+    "Assign a score from 0 to 10 based on the overall fluency of the sentence's pronunciation.": 95,
+    "Rate the overall fluency of the sentence's pronunciation and assign a score from 0 to 10.": 143,
+    "Assess the flow and coherence in delivering the entire sentence and rate it from 0 to 10.": 197,
+    "Provide an evaluation of the sentence's pronunciation fluency, using a scale of 0 to 10.": 158,
+    "Evaluate the proficiency in delivering the sentence's pronunciation with smoothness and give a score between 0 to 10.": 163,
+    "Evaluate how well the sentence flows and provide a score between 0 to 10.": 170,
+    "Provide an evaluation of the sentence's pronunciation fluency with a score from 0 to 10.": 82,
+    "Rate the overall fluency of the sentence's pronunciation, using a scale of 0 to 10.": 79,
+    "Evaluate the overall fluency of the sentence's pronunciation, using a scale of 0 to 10.": 163,
+    "Evaluate how smoothly the sentence is pronounced and assign a score between 0 to 10.": 115,
+    "Give a score from 0 to 10 based on the fluency of the sentence's pronunciation.": 135,
+    "Evaluate how smoothly the sentence is pronounced and provide a score between 0 to 10.": 105,
+    "Give a score for the proficiency in pronouncing the sentence with fluency on a scale of 0 to 10.": 148,
+    "Assess how seamlessly the entire sentence is pronounced and rate it on a scale of 0 to 10.": 155
+  },
+  "total_audio_length": 9688.648000000007,
+  "avg_audio_length": 3.8754592000000025
+}

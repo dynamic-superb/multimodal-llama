@@ -1,0 +1,1513 @@
+{
+  "predictions": [
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain whether the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Resolve whether the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the speech utterance is a noise-free or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Establish if the speech utterance is a pristine or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a clear or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge whether the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the speech utterance is a pure or noisy utterance with Gaussian noise. The answer could be clean or noisy."
+    }
+  ],
+  "label_count": {
+    "noisy": 140,
+    "clean": 160
+  },
+  "pred_count": {
+    "noisy": 202,
+    "clean": 98
+  },
+  "accuracy": 0.7933333333333333
+}

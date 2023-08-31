@@ -1,0 +1,30 @@
+{
+  "number": 3000,
+  "labels": {
+    "american": 1050,
+    "australian": 267,
+    "telugu": 234,
+    "indian": 255,
+    "british": 260,
+    "odiya": 124,
+    "bangla": 260,
+    "welsh": 129,
+    "malayalam": 421
+  },
+  "instructions": {
+    "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 283,
+    "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 252,
+    "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 253,
+    "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 255,
+    "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 228,
+    "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 249,
+    "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 247,
+    "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 244,
+    "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 250,
+    "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 271,
+    "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 233,
+    "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 235
+  },
+  "total_audio_length": 12314.340999999993,
+  "avg_audio_length": 4.104780333333331
+}

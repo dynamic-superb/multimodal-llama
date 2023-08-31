@@ -161,3 +161,7 @@ cython_debug/
 
 # DS store
 .DS_Store
+
+*.pth
+ckpts/
+output/

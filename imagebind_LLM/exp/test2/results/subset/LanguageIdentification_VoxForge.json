@@ -1,0 +1,1597 @@
+{
+  "predictions": [
+    {
+      "pred": "Screenshot of the Linux desktop",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 2,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "C",
+      "label": 2,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "noxious",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "no",
+      "label": 4,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "can you identify the language spoken in this audio recording",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "French",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "hindi",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "one",
+      "label": 5,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "three",
+      "label": 3,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "English",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "C++",
+      "label": 0,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "Spanish",
+      "label": 2,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "1",
+      "label": 5,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "web",
+      "label": 3,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "spawn",
+      "label": 2,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "English",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "one",
+      "label": 1,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "Russian",
+      "label": 2,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "multi-screen",
+      "label": 0,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "Portuguese",
+      "label": 5,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "hindi",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "no",
+      "label": 4,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "Russian",
+      "label": 4,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "C++",
+      "label": 3,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "English",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 4,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "Screenshot_2",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "Ukrainian",
+      "label": 5,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 3,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "language identification services",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "one",
+      "label": 2,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "Fedora",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "one",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "Inspirational speech",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "Screenshot of a Linux console",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "one-way",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "one option is to draw a line in the wood",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "Spanish",
+      "label": 2,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "Chinese",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "French",
+      "label": 5,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "Fedora",
+      "label": 1,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "C/C++",
+      "label": 0,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 3,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "Spanish",
+      "label": 2,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "English",
+      "label": 2,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "British",
+      "label": 5,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "drawing",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "french",
+      "label": 0,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "France",
+      "label": 5,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "Bash",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "Cantonese",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "C++",
+      "label": 4,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "language identification",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "Latest NVIDIA binary driver",
+      "label": 0,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "spoofed",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "DotA",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "Malay",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "French",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "spoofed",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "doublespeed",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "C++",
+      "label": 5,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "French",
+      "label": 5,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "spoof, spooft",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "driving",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "dysfunctional",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "spoof.com",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "Fedora",
+      "label": 0,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "spoofication",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 3,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "blue",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "Edited",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "C++",
+      "label": 3,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "nootix",
+      "label": 2,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes, yes, yes",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "spanish",
+      "label": 2,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "Latin",
+      "label": 0,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "U.K",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 2,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "one person's comment",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "Hindi",
+      "label": 2,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "C++",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "LANGUAGE_ENG",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "screen",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "Nam",
+      "label": 0,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "one",
+      "label": 3,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "D",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 2,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "France",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "English",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 5,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "english",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "no language",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "python",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "no",
+      "label": 3,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 2,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "Fedora",
+      "label": 0,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 3,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "screen",
+      "label": 5,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "Dubfire",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "Edited",
+      "label": 0,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "a pencil",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "edelweiss",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "Korean",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 2,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "one-screenshot",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "C++",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "English",
+      "label": 0,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "i need help determining the language used in this speech",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 2,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "French",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "C++",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "spare parts\"",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "DotA",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "Fedora",
+      "label": 0,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "noisy",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "french",
+      "label": 5,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "webcam",
+      "label": 0,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "in-excursion",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "English",
+      "label": 5,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "spam",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 3,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "one",
+      "label": 4,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "German",
+      "label": 0,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 3,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 3,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "fedora",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "C/C++",
+      "label": 2,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "nox",
+      "label": 4,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "French",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "English",
+      "label": 5,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "spoof",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "language identification",
+      "label": 4,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "spoken",
+      "label": 2,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "dota2_08",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "one",
+      "label": 5,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "Fedora",
+      "label": 0,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 2,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "Dutch",
+      "label": 0,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "no",
+      "label": 4,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "Dwarven",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "spoof",
+      "label": 3,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm curious about the language spoken in this audio. Could you perform language identification?"
+    },
+    {
+      "pred": "Russian",
+      "label": 4,
+      "instruction": "I have an audio file, and I'm uncertain of the language spoken. Can you provide language identification?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "Fedora",
+      "label": 0,
+      "instruction": "Can you identify the language spoken in this audio recording?"
+    },
+    {
+      "pred": "no",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "English",
+      "label": 1,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "English",
+      "label": 1,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    },
+    {
+      "pred": "one-way",
+      "label": 1,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 3,
+      "instruction": "I need help determining the language used in this speech. Can you assist?"
+    },
+    {
+      "pred": "language identification",
+      "label": 1,
+      "instruction": "I need to figure out the language in this recording. Are you able to do language identification?"
+    },
+    {
+      "pred": "Spanish",
+      "label": 4,
+      "instruction": "Could you please determine the language spoken in this audio clip for me?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "I'm in need of language identification services for this spoken text. Can you help me out?"
+    },
+    {
+      "pred": "C++",
+      "label": 1,
+      "instruction": "Can you detect and identify the specific language spoken in this audio sample?"
+    },
+    {
+      "pred": "yes",
+      "label": 0,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "yes",
+      "label": 1,
+      "instruction": "I have a spoken conversation, and I'm uncertain of the language used. Can you provide language identification for me?"
+    },
+    {
+      "pred": "no",
+      "label": 0,
+      "instruction": "I'm looking for assistance in identifying the language used in this speech. Can you analyze it?"
+    },
+    {
+      "pred": "no",
+      "label": 5,
+      "instruction": "Is it possible for you to recognize the language spoken in this recording?"
+    },
+    {
+      "pred": "Fr",
+      "label": 5,
+      "instruction": "Could you analyze this audio recording and determine the language spoken? I'm trying to identify it."
+    }
+  ],
+  "label_count": {
+    "1": 140,
+    "2": 29,
+    "0": 69,
+    "4": 11,
+    "5": 36,
+    "3": 15
+  },
+  "pred_count": {
+    "Screenshot of the Linux desktop": 1,
+    "yes": 90,
+    "C": 1,
+    "no": 79,
+    "noxious": 1,
+    "can you identify the language spoken in this audio recording": 1,
+    "French": 6,
+    "hindi": 2,
+    "one": 7,
+    "three": 1,
+    "English": 10,
+    "C++": 9,
+    "Spanish": 4,
+    "1": 1,
+    "web": 1,
+    "spawn": 1,
+    "Russian": 3,
+    "multi-screen": 1,
+    "Portuguese": 1,
+    "Screenshot_2": 1,
+    "Ukrainian": 1,
+    "language identification services": 1,
+    "Fedora": 7,
+    "Inspirational speech": 1,
+    "Screenshot of a Linux console": 1,
+    "one-way": 2,
+    "one option is to draw a line in the wood": 1,
+    "Chinese": 1,
+    "C/C++": 2,
+    "British": 1,
+    "drawing": 1,
+    "french": 2,
+    "France": 2,
+    "Bash": 1,
+    "Cantonese": 1,
+    "language identification": 3,
+    "Latest NVIDIA binary driver": 1,
+    "spoofed": 2,
+    "DotA": 2,
+    "Malay": 1,
+    "doublespeed": 1,
+    "spoof, spooft": 1,
+    "driving": 1,
+    "dysfunctional": 1,
+    "spoof.com": 1,
+    "spoofication": 1,
+    "blue": 1,
+    "Edited": 2,
+    "nootix": 1,
+    "yes, yes, yes": 1,
+    "spanish": 1,
+    "Latin": 1,
+    "U.K": 1,
+    "one person's comment": 1,
+    "Hindi": 1,
+    "LANGUAGE_ENG": 1,
+    "screen": 2,
+    "Nam": 1,
+    "D": 1,
+    "english": 1,
+    "no language": 1,
+    "python": 1,
+    "Dubfire": 1,
+    "a pencil": 1,
+    "edelweiss": 1,
+    "Korean": 1,
+    "one-screenshot": 1,
+    "i need help determining the language used in this speech": 1,
+    "spare parts\"": 1,
+    "noisy": 1,
+    "webcam": 1,
+    "in-excursion": 1,
+    "spam": 1,
+    "German": 1,
+    "fedora": 1,
+    "nox": 1,
+    "spoof": 2,
+    "spoken": 1,
+    "dota2_08": 1,
+    "Dutch": 1,
+    "Dwarven": 1,
+    "Fr": 1
+  },
+  "accuracy": 0.0
+}

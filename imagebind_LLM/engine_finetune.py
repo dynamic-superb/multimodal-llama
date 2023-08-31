@@ -28,7 +28,17 @@ def train_one_epoch(model: LLaMA_adapter,
 
     if log_writer is not None:
         print('log_dir: {}'.format(log_writer.log_dir))
-    for data_iter_step, (examples, labels, example_mask, imgs) in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
+    for data_iter_step, batch in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
+        # hank
+        examples = batch["input_ids"]
+        labels = batch["labels"]
+        example_mask = batch["input_mask"]
+        imgs = batch["audio"]
+
+        # print(examples.size(), examples.tolist())
+        # print(labels.size(), labels.tolist())
+        # print(imgs.size())
+
         # we use a per iteration (instead of per epoch) lr scheduler
         if data_iter_step % accum_iter == 0:
             lr_sched.adjust_learning_rate(optimizer, data_iter_step / len(data_loader) + epoch, args)
@@ -75,3 +85,30 @@ def train_one_epoch(model: LLaMA_adapter,
     metric_logger.synchronize_between_processes()
     print("Averaged stats:", metric_logger)
     return {k: meter.global_avg for k, meter in metric_logger.meters.items()}
+
+
+def val_one_epoch(model: LLaMA_adapter, data_loader: Iterable, device: torch.device, epoch=0):
+    model.eval()
+    val_loss = 0
+    for data_iter_step, batch in enumerate(data_loader):
+        # hank
+        examples = batch["input_ids"]
+        labels = batch["labels"]
+        example_mask = batch["input_mask"]
+        imgs = batch["audio"]
+
+        imgs = imgs.to(device, non_blocking=True)
+        with torch.cuda.amp.autocast():
+             c_loss, m_loss = model(examples, labels, imgs)
+        loss = c_loss  + m_loss * 0
+        loss_value = loss.item()
+        c_loss_value = c_loss.item()
+        m_loss_value = m_loss
+
+        val_loss += loss_value
+
+    print(f"Validation loss: {val_loss / len(data_loader)}")
+    return {
+        "epoch": epoch, 
+        "val_loss": val_loss / len(data_loader)
+    }

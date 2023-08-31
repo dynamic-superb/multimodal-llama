@@ -1,0 +1,1533 @@
+{
+  "predictions": [
+    {
+      "pred": "dog",
+      "label": "cow",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "hen",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "hen",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "hen",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "dog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "pig",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "crow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "hen",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "hen",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "sheep",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "hen",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cows",
+      "label": "sheep",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "pig",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "frog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "hen",
+      "label": "sheep",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "sheep",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "hen",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "insects",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "rooster",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "hen",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "sheep",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "frog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "crow",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "hen",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "frog",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "hen",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "rooster",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "crow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cow",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "pig",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "crow",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "frog",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "hen",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "frog",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "pig",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "pig",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "cat",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "cow",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "insects",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cow",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "cat",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "pig",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "frog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "pig",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cow",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "frog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "rooster",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "hen",
+      "label": "sheep",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cow",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "frog",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "hen",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "rooster",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "frog",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "insects",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "sheep",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "insects",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "insects",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "crow",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "frog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "crow",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "sheep",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "pig",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "insects",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "dog",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "sheep",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "crow",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "frog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "insects",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "duck",
+      "label": "hen",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "hen",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "sheep",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cow",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "dog",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "hen",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "pig",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cow",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "crow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "dog",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "pig",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cow",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "dog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "sheep",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "cat",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "rooster",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "frog",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "pig",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cow",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "hen",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "hen",
+      "label": "cat",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "hen",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "crow",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "bird",
+      "label": "hen",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "crow",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "crow",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "cow",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "rooster",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cow",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "crow",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "cow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "sheep",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "sheep",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "pig",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "frog",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "hen",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "dog",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "pig",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "cow",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "crow",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "crow",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "rooster",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cat",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "rooster",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "cat",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "dog",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "cow",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "lion",
+      "label": "dog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "pig",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "hen",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "insect",
+      "label": "frog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "dog",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "crow",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cow",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "frog",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "insects",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cat",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "pig",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "sheep",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "pig",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "hen",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "crow",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "sheep",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "insects",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "dog",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "sheep",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cow",
+      "label": "sheep",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "bird",
+      "label": "dog",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "cow",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "sheep",
+      "label": "cow",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "sheep",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "sheep",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "rooster",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "insects",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "rooster",
+      "label": "pig",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "frog",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "pig",
+      "instruction": "Please classify environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "dog",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "hen",
+      "label": "frog",
+      "instruction": "We need to classify the environmental sounds. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "frog",
+      "label": "frog",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "insects",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "dog",
+      "label": "crow",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "crow",
+      "label": "sheep",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "pig",
+      "label": "pig",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    },
+    {
+      "pred": "cat",
+      "label": "cat",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be dog, rooster, pig, cow, frog, cat, hen, insects, sheep, or crow."
+    }
+  ],
+  "label_count": {
+    "cow": 27,
+    "rooster": 30,
+    "hen": 29,
+    "pig": 34,
+    "dog": 30,
+    "crow": 34,
+    "insects": 30,
+    "sheep": 33,
+    "frog": 27,
+    "cat": 26
+  },
+  "pred_count": {
+    "dog": 88,
+    "pig": 10,
+    "rooster": 55,
+    "cat": 63,
+    "crow": 35,
+    "frog": 20,
+    "cows": 1,
+    "hen": 4,
+    "cow": 12,
+    "sheep": 7,
+    "duck": 1,
+    "bird": 2,
+    "lion": 1,
+    "insect": 1
+  },
+  "accuracy": 0.14
+}

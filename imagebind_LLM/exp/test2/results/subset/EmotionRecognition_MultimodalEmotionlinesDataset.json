@@ -1,0 +1,1525 @@
+{
+  "predictions": [
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "neutral",
+      "label": "neutral",
+      "instruction": "Determine and classify the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "surprise",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "disgust",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "anger",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "disgust",
+      "instruction": "Identify and categorize the conveyed emotional states in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "no emotion",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "noise",
+      "label": "anger",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "surprise",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "disgust",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and categorize the conveyed emotional states in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "noisy",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "joy",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and classify the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "anger",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "anger",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "disgust",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "disgust",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "joy",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "neutral",
+      "label": "joy",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and categorize the conveyed emotional states in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "surprise",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and arrange the expressed emotions in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "shower",
+      "label": "joy",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "surprise",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "anger",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and classify the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "disgust",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and categorize the conveyed emotional states in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and arrange the expressed emotions in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "sadness",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and categorize the conveyed emotional states in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "fear",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "surprise",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "anger",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Determine and classify the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "joy",
+      "label": "anger",
+      "instruction": "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "fear",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "neutral",
+      "instruction": "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "surprise",
+      "label": "anger",
+      "instruction": "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "sadness",
+      "instruction": "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    },
+    {
+      "pred": "sadness",
+      "label": "joy",
+      "instruction": "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear."
+    }
+  ],
+  "label_count": {
+    "neutral": 146,
+    "joy": 45,
+    "anger": 42,
+    "surprise": 26,
+    "sadness": 28,
+    "disgust": 6,
+    "fear": 7
+  },
+  "pred_count": {
+    "sadness": 242,
+    "surprise": 41,
+    "neutral": 2,
+    "joy": 10,
+    "no emotion": 1,
+    "noise": 1,
+    "noisy": 1,
+    "shower": 1,
+    "fear": 1
+  },
+  "accuracy": 0.10666666666666667
+}

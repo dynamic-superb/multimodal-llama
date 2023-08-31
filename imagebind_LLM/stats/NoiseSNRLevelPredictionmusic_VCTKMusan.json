@@ -1,0 +1,32 @@
+{
+  "number": 50000,
+  "labels": {
+    "clean": 10000,
+    "fifteen": 10000,
+    "five": 10000,
+    "ten": 10000,
+    "zero": 10000
+  },
+  "instructions": {
+    "State the SNR Signal-to-Noise Ratio for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2935,
+    "Provide the SNR of the utterance influenced by music noise. The answer could be zero, five, ten, fifteen, or clean.": 2486,
+    "What is the noise level relative to the signal for the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean.": 2960,
+    "Specify the Signal-to-Noise Ratio (SNR) of the utterance affected by music noise. The answer could be zero, five, ten, fifteen, or clean.": 2457,
+    "What is the relative noise intensity compared to the signal in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean.": 2867,
+    "Provide the signal-to-noise ratio of the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2851,
+    "What is the Signal-to-Noise Ratio (SNR) of the utterance subjected to music noise? The answer could be zero, five, ten, fifteen, or clean.": 2521,
+    "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with music noise? The answer could be zero, five, ten, fifteen, or clean.": 2964,
+    "Indicate the SNR value for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2878,
+    "Determine the SNR of the utterance that's been affected by music noise. The answer could be zero, five, ten, fifteen, or clean.": 2373,
+    "Determine the SNR value for the utterance corrupted by music noise. The answer could be zero, five, ten, fifteen, or clean.": 3003,
+    "Identify the SNR of the utterance affected by music noise. The answer could be zero, five, ten, fifteen, or clean.": 2573,
+    "Specify the level of noise in relation to the signal for the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2984,
+    "Find out the SNR of the utterance influenced by music noise. The answer could be zero, five, ten, fifteen, or clean.": 2519,
+    "Specify the ratio between the signal strength and the noise level in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2935,
+    "What is the ratio of the signal strength to the noise level in the utterance with music noise? The answer could be zero, five, ten, fifteen, or clean.": 2898,
+    "Provide the noise level compared to the signal in the utterance with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2940,
+    "Determine the noise-to-signal ratio for the utterance contaminated with music noise. The answer could be zero, five, ten, fifteen, or clean.": 2856
+  },
+  "total_audio_length": 200750.0000002249,
+  "avg_audio_length": 4.015000000004498
+}

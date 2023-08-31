@@ -1,0 +1,32 @@
+{
+  "number": 50000,
+  "labels": {
+    "clean": 10000,
+    "fifteen": 10000,
+    "five": 10000,
+    "ten": 10000,
+    "zero": 10000
+  },
+  "instructions": {
+    "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean.": 2935,
+    "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2486,
+    "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2960,
+    "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean.": 2457,
+    "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2867,
+    "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2851,
+    "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2521,
+    "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean.": 2964,
+    "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean.": 2878,
+    "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2373,
+    "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 3003,
+    "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2573,
+    "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2984,
+    "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2519,
+    "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2935,
+    "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean.": 2898,
+    "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2940,
+    "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean.": 2856
+  },
+  "total_audio_length": 200750.0000002249,
+  "avg_audio_length": 4.015000000004498
+}

@@ -1,0 +1,30 @@
+{
+  "number": 17313,
+  "labels": {
+    "bangla": 1528,
+    "australian": 1484,
+    "american": 5936,
+    "malayalam": 2393,
+    "welsh": 742,
+    "telugu": 1515,
+    "odiya": 747,
+    "indian": 1484,
+    "british": 1484
+  },
+  "instructions": {
+    "The task involves the recognition and classification of specific speech accents. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1427,
+    "Recognize the accent in the speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1439,
+    "It aims to identify and distinguish different accent types. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1453,
+    "The primary objective is to identify the accent present within a given speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1557,
+    "The primary objective is to recognize and classify the accent based on these speech characteristics. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1357,
+    "Identify accent by examining the distinct speech features and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1495,
+    "The main objective is to recognize and classify the particular accent being used. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1382,
+    "The task involves detecting variations in pronunciation and intonation. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1454,
+    "The goal is to determine the regional or linguistic background of a speaker. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1437,
+    "Recognize the accent by analyzing speech patterns and pronunciation nuances. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1460,
+    "The goal is to accurately determine the regional or cultural background associated with the accent. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1386,
+    "The task involves recognizing accents present in speech. The answer could be american, australian, bangla, british, indian, malayalam, odiya, telugu, or welsh.": 1466
+  },
+  "total_audio_length": 71220.56205144548,
+  "avg_audio_length": 4.113704271440275
+}

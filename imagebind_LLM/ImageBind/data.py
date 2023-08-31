@@ -47,14 +47,14 @@ def waveform2melspec(waveform, sample_rate, num_mel_bins, target_length):
     n_frames = fbank.size(1)
     p = target_length - n_frames
     # if p is too large (say >20%), flash a warning
-    if abs(p) / n_frames > 0.2:
-        logging.warning(
-            "Large gap between audio n_frames(%d) and "
-            "target_length (%d). Is the audio_target_length "
-            "setting correct?",
-            n_frames,
-            target_length,
-        )
+    # if abs(p) / n_frames > 0.2:
+    #     logging.warning(
+    #         "Large gap between audio n_frames(%d) and "
+    #         "target_length (%d). Is the audio_target_length "
+    #         "setting correct?",
+    #         n_frames,
+    #         target_length,
+    #     )
     # cut and pad
     if p > 0:
         fbank = torch.nn.functional.pad(fbank, (0, p), mode="constant", value=0)
@@ -161,6 +161,49 @@ def load_and_transform_audio_data(
         audio_outputs.append(all_clips)
 
     return torch.stack(audio_outputs, dim=0)
+
+
+
+def my_load_and_transform_audio_data(
+    waveform,
+    num_mel_bins=128,
+    target_length=204,
+    sample_rate=16000,
+    clip_duration=2,
+    clips_per_video=3,
+    mean=-4.268,
+    std=9.138,
+):
+
+    audio_outputs = []
+    clip_sampler = ConstantClipsPerVideoSampler(
+        clip_duration=clip_duration, clips_per_video=clips_per_video
+    )
+
+    
+    all_clips_timepoints = get_clip_timepoints(
+        clip_sampler, waveform.size(1) / sample_rate
+    )
+    all_clips = []
+    for clip_timepoints in all_clips_timepoints:
+        waveform_clip = waveform[
+            :,
+            int(clip_timepoints[0] * sample_rate) : int(
+                clip_timepoints[1] * sample_rate
+            ),
+        ]
+        waveform_melspec = waveform2melspec(
+            waveform_clip, sample_rate, num_mel_bins, target_length
+        )
+        all_clips.append(waveform_melspec)
+
+    normalize = transforms.Normalize(mean=mean, std=std)
+    all_clips = [normalize(ac) for ac in all_clips]
+
+    all_clips = torch.stack(all_clips, dim=0)
+    audio_outputs.append(all_clips)
+
+    return audio_outputs
 
 def load_and_transform_point_cloud_data(point_paths, device):
     point_outputs = []

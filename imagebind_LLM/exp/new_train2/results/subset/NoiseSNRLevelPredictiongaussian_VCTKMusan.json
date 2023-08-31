@@ -1,0 +1,1519 @@
+{
+  "predictions": [
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "five",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "zero",
+      "instruction": "Determine the noise-to-signal ratio for the utterance contaminated with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "What is the SNR Signal-to-Noise Ratio for the utterance contaminated with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "What is the signal-to-noise ratio of the utterance subjected to Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "What is the noise level relative to the signal for the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "ten",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "ten",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "clean",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Provide the signal-to-noise ratio of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate the SNR of the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "fifteen",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "fifteen",
+      "instruction": "Provide the noise level compared to the signal in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "What is the relative noise intensity compared to the signal in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Indicate the SNR value for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess the SNR of the utterance influenced by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "fifteen",
+      "label": "clean",
+      "instruction": "What is the ratio of the signal strength to the noise level in the utterance with Gaussian noise? The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "State the SNR Signal-to-Noise Ratio for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Determine the SNR value for the utterance corrupted by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "ten",
+      "instruction": "Specify the level of noise in relation to the signal for the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "zero",
+      "label": "zero",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "five",
+      "instruction": "Determine the noise level in relation to the signal for the utterance that carries Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Specify the ratio between the signal strength and the noise level in the utterance with Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "five",
+      "label": "zero",
+      "instruction": "Quantify the signal-to-noise ratio of the utterance that's been subjected to Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    },
+    {
+      "pred": "ten",
+      "label": "five",
+      "instruction": "Measure the signal-to-noise ratio of the utterance affected by Gaussian noise. The answer could be zero, five, ten, fifteen, or clean."
+    }
+  ],
+  "label_count": {
+    "clean": 55,
+    "ten": 70,
+    "zero": 68,
+    "five": 54,
+    "fifteen": 53
+  },
+  "pred_count": {
+    "fifteen": 53,
+    "ten": 123,
+    "five": 88,
+    "clean": 33,
+    "zero": 3
+  },
+  "accuracy": 0.5066666666666667
+}

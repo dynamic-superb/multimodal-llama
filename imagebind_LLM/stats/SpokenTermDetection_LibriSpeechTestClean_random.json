@@ -1,0 +1,36 @@
+{
+  "number": 2620,
+  "labels": {
+    "no": 1309,
+    "yes": 1311
+  },
+  "instructions": {
+    "Identify if the word can be found within the speech. The answer could be yes or no.": 100,
+    "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no.": 102,
+    "Is the specified word included in the speech? The answer could be yes or no.": 93,
+    "Analyze the speech and ascertain whether the given word is included The answer could be yes or no.": 110,
+    "Can the provided word be found in the recording? The answer could be yes or no.": 117,
+    "Check whether the given word is present in the given speech. The answer could be yes or no.": 105,
+    "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no.": 106,
+    "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no.": 103,
+    "Check for the existence of the given word in the speech. The answer could be yes or no.": 105,
+    "Determine if the provided word is mentioned in the speech. The answer could be yes or no.": 88,
+    "Does the speech contain the given word? The answer could be yes or no.": 105,
+    "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no.": 126,
+    "Analyze the speech and identify if the word is mentioned. The answer could be yes or no.": 113,
+    "Verify if the given word is included in the speech. The answer could be yes or no.": 105,
+    "Is the word mentioned in the speech? The answer could be yes or no.": 107,
+    "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no.": 112,
+    "Analyze the speech and check whether the given word appears anywhere in it. The answer could be yes or no.": 136,
+    "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no.": 93,
+    "Verify if the given word is spoke. The answer could be yes or no.": 117,
+    "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no.": 101,
+    "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no.": 79,
+    "Examine the speech thoroughly to determine whether the given word is present. The answer could be yes or no.": 110,
+    "Identify if the given word appears anywhere within the speech. The answer could be yes or no.": 91,
+    "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no.": 99,
+    "Does the word exist in the audio? The answer could be yes or no.": 97
+  },
+  "total_audio_length": 19452.480624999993,
+  "avg_audio_length": 7.424610925572517
+}

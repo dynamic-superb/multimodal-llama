@@ -1,0 +1,1516 @@
+{
+  "predictions": [
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "sadness",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "anger",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "disgust",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please categorize the emotions in the audio recordings as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Review the audio and select the corresponding emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Review the audio and select the corresponding emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Review the audio and select the corresponding emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech in the recordings and label each emotion : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech in the recordings and label each emotion : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "anger",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to label the emotion in the audio clip as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your task is to label the emotion in the audio clip as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the content of each audio clip and assign the appropriate emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech in the recordings and label each emotion : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to label the emotion in the audio clip as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Review the audio and select the corresponding emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your objective is to listen to the speech and then determine whether the emotion is: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to label the emotion in the audio clip as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Review the audio and select the corresponding emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "anger",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify each audio snippet by identifying the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please categorize the emotions in the audio recordings as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please categorize the emotions in the audio recordings as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the audio snippets, classify the emotions as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Review the audio and select the corresponding emotion from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to label the emotion in the audio clip as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After listening to the recording, choose the correct emotion from the following options:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your goal is to determine the appropriate emotion based on the content of the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please categorize the emotions in the audio recordings as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "surprise",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech in the recordings and label each emotion : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to identify the emotion from the audio and choose from the given options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Analyze the speech and determine the appropriate emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and indicate the correct emotion out of: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your task is to perform emotion classification on the given audio samples: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen carefully to each recording and identify the corresponding emotion: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to the recordings and label the emotions : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio and categorize the emotion as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio snippets and indicate the appropriate emotion from the given choices:  The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Please listen carefully and identify the emotion in the audio: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your goal is to determine the appropriate emotion label for each audio clip: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the emotions in the audio based on their content as : The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe and analyze the audio, then choose the correct emotion category from the provided options: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please review the dialogue and select the corresponding emotion category: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen to the audio recordings and then categorize the emotions: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "Your task is to perform dialogue emotion classification by categorizing each audio clip: The answer could be question, inform, directive, or commissive: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Please transcribe the speech and then specify the emotion as: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "happiness",
+      "instruction": "After analyzing the dialogue, choose the appropriate emotion category from the following:  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Listen attentively to each recording and decide whether the emotion falls under: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise."
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "After reviewing the audio, select the appropriate emotion label: The answer could be anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    },
+    {
+      "pred": "no emotion",
+      "label": "no_emotion",
+      "instruction": "Classify the dialogue act of each audio snippet into one of the four categories: The answer could be  anger or disgust or fear or happiness or no_emotion or sadness or surprise"
+    }
+  ],
+  "label_count": {
+    "no_emotion": 241,
+    "happiness": 47,
+    "sadness": 1,
+    "surprise": 7,
+    "anger": 3,
+    "disgust": 1
+  },
+  "pred_count": {
+    "no emotion": 300
+  },
+  "accuracy": 0.0
+}

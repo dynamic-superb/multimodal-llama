@@ -1,0 +1,23 @@
+{
+  "number": 4837,
+  "labels": {
+    "no": 3209,
+    "yes": 1628
+  },
+  "instructions": {
+    "Find out if the given audio is created or modified through a speech enhancement model. The answer could be yes or no.": 363,
+    "Find out if the given audio is a product of generation by a speech enhancement model. The answer could be yes or no.": 429,
+    "Detect if the given audio is created or manipulated by a speech enhancement model. The answer could be yes or no.": 472,
+    "Find out if the given audio is created synthetically or altered through a speech enhancement model. The answer could be yes or no.": 343,
+    "Determine if the provided audio has been synthetically generated using a speech enhancement model. The answer could be yes or no.": 391,
+    "Detect if the given audio is artificially generated or manipulated by a speech enhancement model. The answer could be yes or no.": 369,
+    "Detect whether the provided audio has been produced using a speech enhancement model. The answer could be yes or no.": 404,
+    "Establish whether the provided audio is the outcome of artificial generation using a speech enhancement model. The answer could be yes or no.": 418,
+    "Establish whether the given audio is the result produced by a speech enhancement model. The answer could be yes or no.": 436,
+    "Detect if the given audio is produced by a speech enhancement model. The answer could be yes or no.": 358,
+    "Identify whether the given audio has undergone generation or processing via a speech enhancement model. The answer could be yes or no.": 429,
+    "Identify whether the given audio has been artificially produced or processed via a speech enhancement model. The answer could be yes or no.": 425
+  },
+  "total_audio_length": 30848.50137499997,
+  "avg_audio_length": 6.3776103731651785
+}

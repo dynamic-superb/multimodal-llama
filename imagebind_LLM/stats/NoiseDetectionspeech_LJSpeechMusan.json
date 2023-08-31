@@ -1,0 +1,23 @@
+{
+  "number": 26200,
+  "labels": {
+    "clean": 13100,
+    "noisy": 13100
+  },
+  "instructions": {
+    "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be clean or noisy.": 1980,
+    "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be clean or noisy.": 1958,
+    "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be clean or noisy.": 2470,
+    "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be clean or noisy.": 2277,
+    "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be clean or noisy.": 2328,
+    "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be clean or noisy.": 2238,
+    "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be clean or noisy.": 1890,
+    "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be clean or noisy.": 2306,
+    "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be clean or noisy.": 2330,
+    "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be clean or noisy.": 2261,
+    "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be clean or noisy.": 2236,
+    "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be clean or noisy.": 1926
+  },
+  "total_audio_length": 105192.99999998623,
+  "avg_audio_length": 4.014999999999475
+}

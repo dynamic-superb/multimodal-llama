@@ -1,0 +1,1809 @@
+{
+  "predictions": [
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THESE PERSONS THEN DISPLAYED TOWARDS EACH OTHER PRECISELY THE SAME PUERILE JEALOUSIES WHICH ANIMATE THE MEN OF DEMOCRACIES THE SAME EAGERNESS TO SNATCH THE SMALLEST ADVANTAGES WHICH THEIR EQUALS CONTESTED AND THE SAME DESIRE TO PARADE OSTENTATIOUSLY THOSE OF WHICH THEY WERE IN POSSESSION",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AN EXTRAORDINARY WAVE OF EMOTION SWEPT OVER THE SOUTH CARRYING EVERYBODY WITH IT",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YOU TAKE THIS TO THIS ADDRESS HE SAID HANDING HIM THE ENVELOPE AND GIVE IT TO MISSUS HURSTWOOD YES SIR SAID THE BOY",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOW HARRY SAID MY UNCLE RUBBING HIS HANDS AN GOES WELL THE WORSE DIFFICULTY IS NOW OVER",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THERE IS THIS DECEPTION BETWEEN ME AND EVERYTHING",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT WAS PLAIN THAT HIS CASTANET GIRL HIS MOTHER AND SISTER TOOK A PLEASURE IN CREDITING HER DAILY WITH SOME FRESH AND UNPLEASING INSTRUMENT COULD HAVE HAD NEITHER TASTE MONEY NOR HONESTY TO SUCH A POINT AS THIS",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHEN THE THREE INGREDIENTS ARE PROPERLY PREPARED POUND THEM ALTOGETHER IN A MORTAR FOR SOME TIME FOR THE MORE QUENELLES ARE POUNDED THE MORE DELICATE THEY ARE",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BY THE SIDE OF THE DOOR WAS CONSTRUCTED OFF HAND BY MEANS OF AN EMPTY BARREL A BOX FOR THE MONEY TAKER WHO WAS SOMETIMES FIBI AND SOMETIMES VINOS",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IF IT SHOULD BE IN AN UNSOUND STATE IT MUST BE ON NO ACCOUNT MADE USE OF",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE MOVEMENT SENT HIS BODY SWAYING GIDDILY FROM SIDE TO SIDE",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE IS OLD AS WELL AS POOR SHE SAID",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHE SMILED A LITTLE SADLY AT TROT SEEMED TO APPROVE BUTTON BRIGHT'S OPEN FRANK FACE AND WAS QUITE SURPRISED BECAUSE CAP'N BILL WAS SO MUCH BIGGER THAN HER OWN PEOPLE",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT'S SURELY A TERRIBLE STORM OUTSIDE SAID THE MERCHANT'S ELDEST DAUGHTER AS THE WIND RATTLED THE TILES OF THE ROOF AND THE RAIN BEAT IN TORRENTS AGAINST THE DOORS AND WINDOWS",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE WAS WISE IN HIS OWN CONCEIT",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT I DID ONCE HAVE THE LUCK TO HEAR AND SEE THE LADY PLAYED IN ENTIRETY THE CHILDREN HAD BEEN GRANTED LEAVE TO PLAY JUST ONE MORE GAME BEFORE BED TIME AND OF COURSE THEY CHOSE THE LONGEST AND PLAYED IT WITHOUT MISSING A SYLLABLE",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT THE VATICAN RECEIVED WITH OPEN ARMS THE MESSENGERS OF EGYPT",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LATER HOWEVER HIS OLD DISCRETION ASSERTED ITSELF",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT WAS YOUTH AND POVERTY AND PROXIMITY AND EVERYTHING WAS YOUNG AND KINDLY",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AND NOW IT HAD COME TO PASS THAT HIS SOLE REMAINING ALLY MISTER SAMUEL BOZZLE THE EX POLICEMAN WAS BECOMING WEARY OF HIS SERVICE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BED TIME CHILDREN",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ABOUT DAYLIGHT ON SUNDAY MORNING CHALMERS BRIGADE RELIEVED GLADDEN'S",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NO ONE WHO IS HIMSELF HONEST WILL DOUBT MY BEING SO",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MISTER SWIFT'S EYES TWINKLED",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I CAN ASSURE YOU THAT THIS IS A MODERN FACE AND ONE WHICH YOU WILL VERY PROBABLY MEET",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I SAW BUT FEW INHABITANTS DURING MY EXCURSION BUT I MET A CROWD ON THE BEACH DRYING SALTING AND LOADING CODFISH THE PRINCIPAL ARTICLE OF EXPORTATION",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ONLY HIS HEART AND LUNGS WORKED ON AT A STRONG MEASURED RATE",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DOCTOR WE ALL HAVE OUR CROSSES HAVE WE NOT",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE GLARED AT ME AS IF HE DIDN'T KNOW WHO I WAS WHEN I WENT DOWNSTAIRS",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BRION SAW SOMETHING CLOSE TO PANIC ON HIS OPPONENT'S FACE WHEN THE MAN FINALLY RECOGNIZED HIS ERROR",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ABOUT DAYLIGHT ON SUNDAY MORNING CHALMERS BRIGADE RELIEVED GLADDEN'S",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOW YOU MAY PLAY A SERENA SINGER A DREAM OF NIGHT FOR AN APPLE GOLD LADY FOR THE FRUIT IS NOW ON THE APPLE BOUGH AND THE MOON IS UP AND THE LAWN IS SHADY SINGER SINGER WANDERING SINGER O MY HONEY SWEET SINGER",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ON WEDNESDAY HE RECEIVED ANOTHER POLITE NOTE FROM MC GREGOR JAMES AND HAY IT READ",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "DO DRINK THIS AND THEN TELL ME PERHAPS I CAN HELP YOU",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WHAT DO YOU MEAN SIR",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ANOTHER FAMOUS MEDICINE MAN WAS BORN ON THE RUM RIVER ABOUT ONE HUNDRED AND FIFTY YEARS AGO AND LIVED TO BE OVER A CENTURY OLD",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT AS FOR THIS HERE CHILD B",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I PROMISE YOU I WILL DO YOU NO HARM",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT RELIEVED HIM FOR A WHILE",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEY KEPT THEMSELVES ALIVE UNQUESTIONABLY AND LAID NOW AND THEN AN EGG AND HATCHED A CHICKEN NOT FOR ANY PLEASURE OF THEIR OWN BUT THAT THE WORLD MIGHT NOT ABSOLUTELY LOSE WHAT HAD ONCE BEEN SO ADMIRABLE A BREED OF FOWLS",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT IT IS QUITE PLAIN TO ME THAT ALL THE ARRANGEMENTS FOR MY WEDDING ARE GOING TO BE MADE BY THE SNELLINGS",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THERE APPEARED TO BE NO KNOCKER THOUGH WHETHER IT HAD BEEN TWISTED OFF WAS MORE THAN I COULD SAY",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I SOON FOUND OUT THAT HE HAD CAUGHT SIGHT OF THE RELIEF ON THE ROAD AND WAS AFRAID TO SHOOT I QUICKLY MADE UP MY MIND",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE HAS THE STRANGEST FITS AT TIMES",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "PLACE IT OVER THE FIRE KEEP CONSTANTLY STIRRING TO PREVENT ITS BURNING AND WHEN QUITE DRY PUT IN A SMALL PIECE OF BUTTER",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE HAD GAMBLED AND LOST A GREAT DEAL AND HIS BROTHER WAS HIS MOST BITTER ENEMY BECAUSE HE WAS INFATUATED WITH THE IDEA THAT HE HAD TRIED TO POISON HIM",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE METAL FOREST IS IN THE GREAT DOMED CAVERN THE LARGEST IN ALL OUR DOMINIONS REPLIED KALIKO",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AS THEY SAT DOWN A BURST OF APPLAUSE DREW ALEXANDER'S ATTENTION TO THE STAGE",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE SUGGESTION HE HAD LAUGHED AT WAS NOT SO ENTIRELY FOOLISH AS HE HAD BEEN PLEASED TO CONSIDER IT",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE BOYS WERE NOW ALL ANXIETY TO START WHILE THE PONIES AFTER THEIR SUNDAY REST WERE ALMOST AS FULL OF LIFE AS WERE THEIR OWNERS",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AFTER A TIME HE GAVE UP WAITING AND DREARILY HEADED FOR THE MADISON CAR",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I SHOULD LIKE TO SEE THE DESK YOU SPEAK OF AND THE SPOT WHERE SHE FELL",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOU SEE PAPA'S SO VERY RICH AND AT HOME THEY EXPECT ME TO TO GET ACQUAINTED WITH DUKES AND THINGS AND SHE STOPPED",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MEBBY YOU THINK HE'S HAVING SOME SORT OF A PICNIC DOWN THERE EH GLARED LIGE",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HERE THE HOLY PRELATE OF FERNS MET HIM AND RELATED A VISION IN WHICH HE HAD BEEN INSTRUCTED TO DEMAND THE ABOLITION OF THE IMPOST",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE HAD PAID HER SIX MONTHS IN ADVANCE AND HAD COMMISSIONED THE OLD WOMAN TO FURNISH THE CHAMBER AND DRESSING ROOM AS WE HAVE SEEN",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE LIGHT THROWN DOWN BY THE SHADE FELL DAZZLINGLY ON THE WHITE PILLOW SUNK BY THE WEIGHT OF HER HEAD REPOSING WITH CLOSED EYES AND DARK HAIR DONE UP IN SEVERAL PLAITS FOR THE NIGHT",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "OH MISTER NORTH SAYS KIRKLAND WHY DID YOU STOP ME",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LACRIMA CHRISTI A STILL WINE OF EXCELLENT FLAVOR AND BOUQUET",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I KNEW YOU WOULD GO I SAW YOU GETTING READY AND I MADE UP MY MIND TO FOLLOW",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MY YOUNG PLANTS REQUIRE HEAT OR THEY WOULD NOT LIVE AND THE POTS WE ARE KEPT IN PROTECT US FROM THOSE CRUEL WIRE WORMS WHO DELIGHT TO DESTROY OUR ROOTS",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I HOPE YOU'LL LIKE HIM BETTER THAN THE FROST BITTEN OLD DAVID YOU FIRST KNEW AND WERE KIND ENOUGH TO LOVE",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I DIDN'T THINK A DECENT MAN COULD DO SUCH THINGS SHE WAS PULLING ON HER GLOVES GO HOME AND GLOAT OVER IT ALL",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEN YOU DON'T KNOW WHAT YOU'RE TALKING ABOUT",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I LOOKED AT IT PRETTY CLOSE AND I SAID GREAT GOD",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WE WOULD VERY OFTEN SPEND THE WHOLE NIGHT RAMBLING ABOUT THE CITY INVENTING AND CARRYING INTO EXECUTION THE MOST IMPERTINENT PRACTICAL JOKES",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT AT THE URGENT ENTREATY OF THE PRINCESS OF KHOSALA WHO LOVED BHUNDA CHAND VAINLY HE GAVE HER A LOCK OF HIS LONG BLACK HAIR AS A TOKEN OF REMEMBRANCE",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MY OWN REGIMENT WAS IN THE ADVANCE",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SHE ENTERED AND THE SERVANTS SOFT FOOTED AND SILENT WERE BUSY CARRYING AWAY THE VESSELS OF HOSPITALITY AND RESTORING ORDER AS IF ALREADY THEY PREPARED FOR ANOTHER COMPANY ON THE MORROW NO ONE HEEDED HER",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BESIDES THIS HE HARANGUED LIKE CICERO AS WE HAVE JUST SEEN SOLD HIS DRUGS ATTENDED SICKNESS AND EVEN HEALED THE SICK",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WE WOULD FIGHT TO THE DEATH OF COURSE BUT AFTER THAT",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NOTHING CAN PART US ANY MORE NOT EVEN DEATH FOR LOVE LIKE OURS WILL LAST FOR EVER",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT IN REALITY HANSEL WAS NOT LOOKING AT A CAT BUT EVERY TIME HE STOPPED HE DROPPED A PEBBLE OUT OF HIS POCKET UPON THE PATH",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I HAVE REMAINED A PRISONER ONLY BECAUSE I WISHED TO BE ONE AND WITH THIS HE STEPPED FORWARD AND BURST THE STOUT CHAINS AS EASILY AS IF THEY HAD BEEN THREADS",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE WOMEN DROPPED THEIR WORK TO LOOK AND LISTEN FOR HIS VISITS WERE FEW AND SHORT AND EVERY INSTANT WAS PRECIOUS",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT HAS CHANGED FROM WHAT IT WAS IN THE OLD DAYS BUT IS STILL AN EXCELLENT PLACE TO DINE",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TO HER I WEND ALONG IN WHOSE MUCH STRENGTH MY WEAKNESS IS MADE STRONG",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SUCH IS THE SELFISHNESS OF HUMAN NATURE",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MOST OF MY LIKENESSES DO LOOK UNAMIABLE BUT THE VERY SUFFICIENT REASON I FANCY IS BECAUSE THE ORIGINALS ARE SO",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEN BOZZLE CAME FORWARD AND INTRODUCED HIS WIFE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOU ARE NOT LIKE MY PEOPLE THE PINKIES AND THERE IS NO PLACE FOR YOU IN OUR COUNTRY",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE DISTINCTIONS OF MORAL VALUES HAVE EITHER ORIGINATED IN A RULING CASTE PLEASANTLY CONSCIOUS OF BEING DIFFERENT FROM THE RULED OR AMONG THE RULED CLASS THE SLAVES AND DEPENDENTS OF ALL SORTS",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MISS WOODLEY DID NOT RECOLLECT HERSELF SO BUT WAS SO IN REALITY IN HER PEACE AND CHARITY WERE INSTINCTIVE VIRTUES ACCIDENT COULD NOT INCREASE THEM",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "HE STRUCK AMBROSCH ON THE BACK AND THE BOY SMILED KNOWINGLY",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT IS HARDIER THAN THE ORANGE AND AS ONE OF THE CITRON TRIBE WAS BROUGHT INTO EUROPE BY THE ARABIANS",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE CLOSED THE DOOR BEHIND THEIR BACKS WITH RESTRAINED VIOLENCE TURNED THE KEY SHOT THE BOLT",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE COULD STAND RIGHT UP AND TALK TO YOU HE COULD DID HE FIGHT HARD",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MARTHA REMEMBERED THE CLOSED DOOR ON THE FIRST SURVEY THEY HADN'T ATTEMPTED OPENING IT",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE DOES AND FOR ONCE I WIN A ROUND I KEEP MUSIC FOR THIS SEMESTER",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "COSETTE WAS NO LONGER IN RAGS SHE WAS IN MOURNING",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE LONG GRAY SLOPES LEADING UP TO THE GLACIER SEEM REMARKABLY SMOOTH AND UNBROKEN",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "STEVIE ACCUSTOMED TO MOVE ABOUT DISREGARDED HAD GOT UP FROM THE KITCHEN TABLE CARRYING OFF HIS DRAWING TO BED WITH HIM",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I UNDERSTAND BARTLEY I WAS WRONG",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OF COURSE I KNOW BARTLEY SHE SAID AT LAST THAT AFTER THIS YOU WON'T OWE ME THE LEAST CONSIDERATION BUT WE SAIL ON TUESDAY",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IN IT I WAS DEPOSITED WITH MY LUGGAGE",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE SKY WAS VISIBLE THROUGH SEVERAL GAPING HOLES IN THE ROOF WHICH WAS SAGGING DANGEROUSLY ON ITS SUPPORTING TRUSSES",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DURING THE AUCTION HE WENT ABOUT WITH HIS HEAD DOWN AND NEVER LIFTED HIS EYES",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HEAVEN HELP THAT BODY WHICH A LITTLE MIND HOUSED IN A HEAD LACKING EARS TONGUE AND EYES AND SENSELESS BUT FOR SMELL CAN TYRANNISE",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT DID NOT FALL UPON THE FLOOR AROUND HER THEREFORE IT FLEW THROUGH ONE OF THOSE OPENINGS INTO THE LOBBY AND THERE IT EITHER WILL BE OR HAS BEEN FOUND",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE LEMON WAS FIRST CULTIVATED IN ENGLAND IN THE BEGINNING OF THE SEVENTEENTH CENTURY AND IS NOW OFTEN TO BE FOUND IN OUR GREEN HOUSES",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DAVID CAUGHT THE EXALTATION AND GAVE NO FURTHER THOUGHT TO ANY THING BUT THE DUTY OF THE HOUR FINDING HIMSELF STRONGER AND BRAVER FOR THAT LONG LOOK INTO THE ILLUMINATED FACE OF THE WOMAN HE LOVED",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "HE HURRIEDLY CUT CAKE AND PRESSED IT UPON HER",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ITALIAN MILLET OR GREAT INDIAN MILLET IS CULTIVATED IN EGYPT AND NUBIA WHERE IT IS CALLED DHOURRA AND IS USED AS HUMAN FOOD AS WELL AS FOR THE FERMENTATION OF BEER",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IN JAMAICA IT FLOWERS ABOUT AUGUST OR SEPTEMBER FADING ABOUT THE END OF THE YEAR",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHAT WOULD SHE DO ABOUT THAT THE CONFOUNDED WRETCH",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "OTHERS HAD DIED BEFORE DURING THE TWENTIES AND DEATH DURING THE LAST ROUND WAS IN SOME WAYS EASIER THAN DEFEAT",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE HAD LITTLE ENOUGH TO BREAK OR BITE AND ONCE WHEN THERE WAS A GREAT FAMINE IN THE LAND HE COULD HARDLY PROCURE EVEN HIS DAILY BREAD AND AS HE LAY THINKING IN HIS BED ONE NIGHT HE SIGHED AND SAID TO HIS WIFE WHAT WILL BECOME OF US",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THIS FORTUNE HAD ALLOWED URSUS WHO WAS THE ADMINISTRATOR OF GWYNPLAINE'S SUCCESS TO HAVE THE CHARIOT OF HIS DREAMS CONSTRUCTED THAT IS TO SAY A CARAVAN LARGE ENOUGH TO CARRY A THEATRE AND TO SOW SCIENCE AND ART IN THE HIGHWAYS",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOW EVERY MISSIONARY THAT EVER WENT OUT FROM IONA HAD TAUGHT THAT TO REDUCE CHRISTIANS TO SLAVERY WAS WHOLLY INCONSISTENT WITH A BELIEF IN THE DOCTRINES OF THE GOSPEL",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ONE OF THE SQUIRES OBSERVED IN HIS MIXTURE OF GASCON AND CATALAN THIS CAPTAIN OF OURS WOULD MAKE A BETTER FRIAR THAN HIGHWAYMAN IF HE WANTS TO BE SO GENEROUS ANOTHER TIME LET IT BE WITH HIS OWN PROPERTY AND NOT OURS",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHO IS TOUCHING ME AND UNTRUSSING ME",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "A LITTLE LONGER AND SHE WAS COMPELLED TO YIELD AND THE SILENT TEARS FLOWED FREELY",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHE LISTENED INTENTLY BUT SHE HEARD NOTHING BUT THE CREAKING OF HIS CHAIR",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THIS BOND IS BETWEEN MAN AND MAN IS USUALLY FORMED IN EARLY YOUTH AND CAN ONLY BE BROKEN BY DEATH",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE BUZZER'S WHIRR TRIGGERED HIS MUSCLES INTO COMPLETE RELAXATION",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BECAUSE YOU WERE SLEEPING INSTEAD OF CONQUERING THE LOVELY ROSE PRINCESS HAS BECOME A FIDDLE WITHOUT A BOW WHILE POOR SHAGGY SITS THERE A COOING DOVE",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT MIGHT JUST AS WELL BE SOME ONE ELSE'S WEDDING SO UNIMPORTANT IS THE PART WHICH I AM SET TO PLAY IN IT",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "POUR MAYONNAISE OVER ALL CHILL AND SERVE",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SEVENTEEN EIGHTEEN",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "INQUIRED SHAGGY IN THE METAL FOREST",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE TWO GIRLS WERE AS MUCH UPSET AS TOM'S MOTHER TOM LAUGHED",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OH REJOINED THE DAGUERREOTYPIST BECAUSE LIKE AN OLD LADY'S CUP OF TEA IT IS WATER BEWITCHED",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT THE JUSTICE AND GENEROSITY OF SUCH A DESERTION ARE STRONGLY QUESTIONABLE AND THE FATE OF AN INNOCENT MARTYR AT FIRST IMPELLED AND AT LENGTH ABANDONED BY HIS DIVINE COMPANION MIGHT PROVOKE THE PITY AND INDIGNATION OF THE PROFANE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT HE LOOKED BACK AT CHARLESTON THE GAY THE VOLATILE AND THE BEAUTIFUL WITH REAL AFFECTION",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THERE WAS THE OLD IMPERIOUS NOTE IN HIS FAILING WHISPER",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE CAPTAINS SHOWED PLAINLY THE CONCERN THEY FELT THE REGENT'S LADY WAS DOWNCAST AND THE PILGRIMS DID NOT AT ALL ENJOY SEEING THEIR PROPERTY CONFISCATED",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEN THERE WAS SILENCE THEN A SIGH AND THE SOUND OF LIGHT MOVING FEET ON THE GRAVEL",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IF HE DIDN'T GO AND SEE THEM THEY WOULD SUE HIM PROMPTLY",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEY MADE ME THINK OF DEFEATED ARMIES RETREATING OR OF GHOSTS WHO WERE TRYING DESPERATELY TO GET IN FOR SHELTER AND THEN WENT MOANING ON",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE DID NOT COME EVERY EVENING BUT WHEN HE CAME HE LED THE PUBLIC APPLAUSE GREW INTO ACCLAMATION SUCCESS ROSE NOT TO THE ROOF FOR THERE WAS NONE BUT TO THE CLOUDS FOR THERE WERE PLENTY OF THEM",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GWYNPLAINE WAS A MOUNTEBANK",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LIGE QUICKLY MADE FAST THE LINE TO A TREE",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "STACY BROWN PROVED THE ONLY GRUMBLER IN THE LOT DECLARING THAT HE COULD NOT SLEEP A WINK ON SUCH A BED AS THAT",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WE LAY STILL AND DID NOT TALK",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WE WERE NOT TWENTY YARDS OFF FROM THE YANKEES AND THEY WERE POURING THE HOT SHOT AND SHELLS RIGHT INTO OUR RANKS AND EVERY MAN WAS YELLING AT THE TOP OF HIS VOICE CEASE FIRING YOU ARE FIRING ON YOUR OWN MEN CEASE FIRING YOU ARE FIRING ON YOUR OWN MEN",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I SHOULD HAVE A VIOLENT ATTACK OF THE CRAMP IF I WERE NOT TO HAVE SOME SORT OF EXERCISE",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SUCH CRIMES WOULD HAVE DESERVED THE ANIMADVERSION OF THE MAGISTRATE BUT IN THIS PROMISCUOUS OUTRAGE THE INNOCENT WERE CONFOUNDED WITH THE GUILTY AND ALEXANDRIA WAS IMPOVERISHED BY THE LOSS OF A WEALTHY AND INDUSTRIOUS COLONY",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT GAVE AN IMPOSING APPEARANCE TO MOST OF THE WHOLESALE HOUSES WHOSE OFFICES WERE UPON THE GROUND FLOOR AND IN PLAIN VIEW OF THE STREET",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I'LL REPORT THIS TO THE GOVERNMENT",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NO ONE COULD ESCAPE FROM THIS RICTUS",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ON MONDAY MORNING I TOO CAPTURED ME A MULE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE LEMON WAS FIRST CULTIVATED IN ENGLAND IN THE BEGINNING OF THE SEVENTEENTH CENTURY AND IS NOW OFTEN TO BE FOUND IN OUR GREEN HOUSES",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SOMEONE SNIGGERED",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE HAD NO TIME TO THINK BUT HE WAS AWARE THAT THIS WAS THE MOST EXCITING ADVENTURE THAT HAD EVER HAPPENED TO HIM",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE WAS YOUNG NO SPEAR HAD TOUCHED HIM NO POISON LURKED IN HIS WINE",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT AS I SAID BEFORE READER A PRIVATE SOLDIER IS BUT AN AUTOMATON AND KNOWS NOTHING OF WHAT IS GOING ON AMONG THE GENERALS AND I AM ONLY GIVING THE CHRONICLES OF LITTLE THINGS AND EVENTS THAT CAME UNDER MY OWN OBSERVATION AS I SAW THEM THEN AND REMEMBER THEM NOW",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SO HE'S A FRIEND OF YOURS EH",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AS FOR ETCHINGS THEY ARE OF TWO KINDS BRITISH AND FOREIGN",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WE HAVE ALL BEEN GIVING MARY ANN PRESENTS AND I SUPPOSE YOU MISTER WHITING HAVE BEEN GIVING HER SOMETHING TOO",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IF IT IS DECREED THAT WE DIE TO MORROW LET US DIE BRAVELY LIKE CHRISTIAN MEN READY TO APPEAR WITHOUT TERROR BEFORE THE SUPREME JUDGE",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE BUZZER'S WHIRR TRIGGERED HIS MUSCLES INTO COMPLETE RELAXATION",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE HOUSE WHICH SEEMED TO CONSIST OF TWO OR THREE HIGH NARROW AND STEEP ROOFED BUILDINGS PROJECTING FROM EACH OTHER AT RIGHT ANGLES FORMED ONE SIDE OF THE INCLOSURE",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I CAN ASSURE YOU THAT THIS IS A MODERN FACE AND ONE WHICH YOU WILL VERY PROBABLY MEET",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE HELPLESS MANAGER PACED THE FLOOR AND GRIMLY ENDURED THE GLOOM OF DEFEAT",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SEVENTEEN TWENTY FOUR",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IN THE HALF LIGHT HE LOOKED ABOUT AT THE STALLS AND BOXES AND SMILED A LITTLE CONSCIOUSLY RECALLING WITH AMUSEMENT SIR HARRY'S JUDICIAL FROWN",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEN SHE TURNED TOWARDS THE QUARTER INDICATED AND DISAPPEARED ROUND THE LAUREL BUSHES",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THREE DAYS LATER MINNETAKI BECAME NEWSOME'S WIFE AT THE HUDSON BAY POST",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "QUINCI IMPARA A STUPIRTI",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THIS IS A MISTAKE THOUGH A PERFECTLY NATURAL ONE",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEN THE MOTHER LIFTED UP HER VOICE AND WEPT",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "VERY SORRY YOUR REVERENCE BUT YOUR REVERENCE KNOWS THAT I DAREN'T DO SUCH A THING",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE DID NOT SAY THE LAST AS A BOAST BUT MERELY AS AN ASSURANCE TO THE LIVERYMAN WHO HE SAW WAS ANXIOUS ON HIS ACCOUNT",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT THE FACES OF THE MEN WERE ROSY AND THE GOBLETS BY THEM HAD A FEW DROPS OF WINE LEFT",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SHORTLY AFTER PASSING ONE OF THESE CHAPELS WE CAME SUDDENLY UPON A VILLAGE WHICH STARTED UP OUT OF THE MIST AND I WAS ALARMED LEST I SHOULD BE MADE AN OBJECT OF CURIOSITY OR DISLIKE",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOUR APARTMENT IS READY YOU MAY SEND YOUR CLOTHES YOU SHALL HAVE A SERVANT A GONDOLA AT YOUR ORDERS MY OWN TABLE AND TEN SEQUINS A MONTH",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE QUEEN HAS NOTHING BUT THE POWER TO EXECUTE THE LAWS TO ADJUST GRIEVANCES AND TO COMPEL ORDER",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THERE WERE ALSO A FEW SPECIES OF ANTIQUE AND HEREDITARY FLOWERS IN NO VERY FLOURISHING CONDITION BUT SCRUPULOUSLY WEEDED AS IF SOME PERSON EITHER OUT OF LOVE OR CURIOSITY HAD BEEN ANXIOUS TO BRING THEM TO SUCH PERFECTION AS THEY WERE CAPABLE OF ATTAINING",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FORGIVE THE DUTIES OF MY OFFICE AND BELIEVE THAT NO ONE IS HALF SO MUCH CONCERNED IF IT ROBS YOU OF ANY DEGREE OF HAPPINESS AS I MYSELF AM",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WHEN ARE YOU GETTING RID OF THESE CATS I'M NOT FIXING TO START AN ANNEX TO KATE'S CAT HOME",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AS FOR THE EUCHARIST TRANSUBSTANTIATION THE REAL PRESENCE IT WAS ALL NO MYSTERY TO THEM BUT PALPABLE EVIDENCE AND YET THEY WERE NOT JESUITS",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE ENCLOSURE HAD FORMERLY BEEN VERY EXTENSIVE BUT WAS NOW CONTRACTED WITHIN SMALL COMPASS AND HEMMED ABOUT PARTLY BY HIGH WOODEN FENCES AND PARTLY BY THE OUTBUILDINGS OF HOUSES THAT STOOD ON ANOTHER STREET",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "IT IS NONSENSE SAID PHOEBE A LITTLE IMPATIENTLY FOR US TO TALK ABOUT A PICTURE WHICH YOU HAVE NEVER SEEN",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEY FELT MY PULSE THEY LOOKED AT MY TONGUE THEY LISTENED AT MY CHEST THEY FELT ALL MY MUSCLES AND AT THE END OF EACH OPERATION THEY LOOKED AT THE CHIEF AND NODDED AND SAID SOMETHING IN A TONE QUITE PLEASANT AS THOUGH I WERE ALL RIGHT",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CELERY AND NUT SALAD CUT ENOUGH CELERY FINE TO MEASURE TWO CUPS ADD ONE CUP OF FINELY SHREDDED OR SHAVED CABBAGE AND ONE AND ONE HALF CUPS OF WALNUT MEATS BROKEN IN SMALL PIECES BUT NOT CHOPPED",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HOW DO YOU KNOW ASKED THEIR FATHER I AM OLDER AND WISER THAN YOU ARE AND I KNOW THAT THERE ARE MANY EVILS WHICH MIGHT COME UPON YOU",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YES NOT AT ALL WELL",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHE WAS GOING TO REPLY BUT FOUND SHE COULD NOT WITHOUT ACCOMPANYING HER WORDS WITH TEARS THEREFORE AFTER THE FIRST ATTEMPT SHE DESISTED",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHEN MORNING CAME THE FIRING OPENED AND FOR ALL THAT DAY THE BATTLE RAGED FIERCELY AT THE LEFT AND CENTER LEFT WE GETTING THE WORST OF IT TOO",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THAT ENCHANTMENT HAD POSSESSED HIM USURPING AS IT WERE THE THRONE OF HIS LIFE AND DISPLACING IT WHEN IT CEASED HE WAS NOT HIS OWN MASTER",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE BOY HASTENED AWAY AND THE MANAGER FELL TO HIS MUSINGS",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HILDA WATCHED HIM FROM HER CORNER TREMBLING AND SCARCELY BREATHING DARK SHADOWS GROWING ABOUT HER EYES",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOU SEE PAPA'S SO VERY RICH AND AT HOME THEY EXPECT ME TO TO GET ACQUAINTED WITH DUKES AND THINGS AND SHE STOPPED",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE TWO DOCTORS THEREFORE ENTERED THE ROOM ALONE",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BENNET WILL TAKE THE GARDEN AND GREEN HOUSE OFF MY HANDS THIS AUTUMN FOR A YEAR OR LONGER IF I LIKE",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT HE STOPPED ON THE LANDING HE HAD NOT THE COURAGE TO AGAIN VISIT THE DEATH CHAMBER",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHOM IS HE GOING TO FLOG NOW",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEIR CHURCHES HAVE DISAPPEARED THEIR BOOKS ARE OBLITERATED THEIR OBSCURE FREEDOM MIGHT ALLOW A LATITUDE OF FAITH AND THE SOFTNESS OF THEIR INFANT CREED WOULD BE VARIOUSLY MOULDED BY THE ZEAL OR PRUDENCE OF THREE HUNDRED YEARS",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ON THE DAIS UNDER THE GOLDEN DOME THE KING CRIED OUT AGAIN RACKED BY AWFUL PAROXYSMS",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEN BIDDING THE BOYS RIDE UP NEAR THE SPOT TO WATCH HIM HE DREW OFF SOME TEN RODS AND WHEELING SPURRED HIS PONY TO A RUN",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT'S YOUR FAULT MOP IT UP YOURSELF",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IF YOU KNOW HOW TO ORDER AND DO NOT CARE TO COUNT THE COST WHEN YOU ORDER PROBABLY THE BEST DINNER AT THESE RESTAURANTS CAN BE HAD AT EITHER BLANCO'S OR THE POODLE DOG",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IN THE ACT OF RECOVERING HIMSELF HE HEARD THE NECK OF HIS INSTRUMENT PART FROM THE BODY WITH A TEARING DISCORDANT CRY LIKE THE SOUND OF THE RUIN OF A LIVING WORLD",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YES I HAD THE TIME TO THINK THINGS OUT A LITTLE HE ADDED WITHOUT EMPHASIS",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEN DON'T YOU INTERFERE WITH ME SIR",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "A SOB LIKE A BIRD NEW BORN BURST FROM MARY'S BOSOM",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I AM GOING SIR AND I DO NOT HESITATE TO SAY THAT NO PRAYERS WILL BE MORE FERVENT THAN MINE",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE PAUSED AND PUT HIS HAND TO HIS FEVERED HEAD",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WHO MAY CONDEMN HIS SUPERSTITION",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MAKING A SORT OF EDDYING CIRCUIT ROUND THE GARDEN HE KNOCKED OVER THE CONVOLVULUS POLE TORE THE STRIPS FROM THE STICK THAT HELD UP THE WHITE LILY LOOSED ALL THE CARNATION FLOWERS FROM THEIR FASTENINGS BROKE THE ROSE TREE DOWN AND LEVELLED THE SWEET PEAS TO THE GROUND",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE WAITER OF THE MAGAZZINO CAME TO BE PAID AND OUR CHIEF GAVE HIM WHAT WAS DUE ENJOINING SILENCE UNDER PENALTY OF DEATH",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IN FACT THERE IS NOTHING HE CAN DO IN THESE DOMINIONS AS WELL AS OUR NOMES WHOSE NUMBERS ARE SO GREAT THAT IT WORRIES US TO KEEP THEM ALL BUSY",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT YOU SEE A BODY NEVER KNOWS WHAT TRAITS POVERTY MIGHT BRING OUT IN EM",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WHILE THE LIBERATED EXILES REJOICED ON THE PLAIN OF MEATH THE TENT OF THE ABBOT OF IONA WAS PITCHED ON THE RATH OF TARA A FACT WHICH WOULD SEEM TO INDICATE THAT ALREADY IN LITTLE MORE THAN A CENTURY SINCE THE INTERDICT HAD FALLEN ON IT THE EDIFICES WHICH MADE SO FINE A SHOW IN THE DAYS OF PATRICK WERE RUINED AND UNINHABITABLE",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MOTHER SAYS I'VE GONE BACK TO THE TIME BEFORE WE LOST LETTY AND I SOMETIMES FEEL AS IF I HAD",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I CANNOT PRETEND TO EXPLAIN WHY EXCEPT ON THE SUPPOSITION THAT ROMANCE IS DEAD AT LEAST IN THAT CIRCLE OF SOCIETY IN WHICH THE SNELLINGS MOVE",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IN ABOUT AN HOUR AND THREE QUARTERS THE BOY RETURNED",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LOOKS LIKE A CLUMP OF BUSHES DOWN THERE BUT I AIN'T SURE CAN YOU MAKE IT OUT",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BEAUREGARD AT ONCE WROTE AN ORDER",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I SUPPOSE SEVERITY IS NECESSARY RETURNED MEEKIN THOUGH TO MY EARS A FLOGGING SOUNDS A LITTLE DISTASTEFUL",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AND AS SOON AS THEIR PARENTS HAD GONE TO SLEEP HE GOT UP PUT ON HIS COAT AND UNBARRING THE BACK DOOR WENT OUT",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT THEY'LL PUT A MAN ON FOR YOU",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE BELL REVERBERATED THROUGH WHAT SEEMED LIKE AN EMPTY HOUSE",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE LAST STRAINS OF THE ILL TREATED ILL FATED INTERMEZZO HAD DIED AWAY AND AFTER THEM HAD DIED AWAY ALSO THE RUMBLING OF THE WHEELS OF THE MURDEROUS BARREL ORGAN THAT HAD SO GAILY EXECUTED THAT ALONG WITH THE NINE OTHER TUNES OF ITS REPERTORY TO THE ADMIRATION OF THE HOUSEMAID AT THE WINDOW OF THE HOUSE OPPOSITE AND THE CROWING DELIGHT OF THE TWO BABIES NEXT DOOR",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GWYNPLAINE HAD YELLOW HAIR",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEN WHY INDULGE IN PROPHETIC PHANTASIES",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I WAS PERSUADED THAT SOMEBODY BESIDES THAT COUSIN GOT A PROFIT OUT OF MARY ANN'S ENGAGEMENT RING BUT I HANDED OVER THE AMOUNT",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE CAN'T SUCKLE EM CAN HE",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "OF COURSE IT AIN'T SAID MISSUS BOZZLE",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT IS MUCH MORE DESIRABLE TO BE A PRIVATE CITIZEN HAPPY AND CARE FREE",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HARRY FEELING PRIDE BUT NOT SHOWING IT SALUTED AND LEFT THE ROOM GOING AT ONCE TO MADAME DELAUNAY'S WHERE HE HAD LEFT HIS BAGGAGE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MY GUIDES HOWEVER WERE WELL KNOWN AND THE NATURAL POLITENESS OF THE PEOPLE PREVENTED THEM FROM PUTTING ME TO ANY INCONVENIENCE BUT THEY COULD NOT HELP EYEING ME NOR I THEM",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "COSETTE ON HER SIDE HAD ALSO UNKNOWN TO HERSELF BECOME ANOTHER BEING POOR LITTLE THING",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT SHE LEFT HIM NO PEACE TILL HE CONSENTED SAYING AH BUT I SHALL MISS THE POOR CHILDREN",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GRUB PI LE GRUB PI LE",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHOULD YOU DESIRE TO FIND OUT MORE ABOUT THE BATTLE I REFER YOU TO HISTORY",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "DO YOU THINK I'M NOT SORRY NOW",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE OLD TERRORIST TURNED SLOWLY HIS HEAD ON HIS SKINNY NECK FROM SIDE TO SIDE",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WHATEVER HER SWEET EYES ARE TURNED UPON SPIRITS OF LOVE DO ISSUE THENCE IN FLAME WHICH THROUGH THEIR EYES WHO THEN MAY LOOK ON THEM PIERCE TO THE HEART'S DEEP CHAMBER EVERY ONE",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ILLUSTRATION THE CUCUMBER",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUT BY AND BY THEY CAME TO MY WATCH WHICH I HAD HIDDEN AWAY IN THE INMOST POCKET THAT I HAD AND HAD FORGOTTEN WHEN THEY BEGAN THEIR SEARCH",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MISTER POWER IS WAITING ARE YOU READY LOVE QUITE READY",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ARE YOU A GIANT",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "WHEN MORNING CAME THE FIRING OPENED AND FOR ALL THAT DAY THE BATTLE RAGED FIERCELY AT THE LEFT AND CENTER LEFT WE GETTING THE WORST OF IT TOO",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHAT THEN MY LORD",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BUT INSTEAD OF A TEMPORARY AND OCCASIONAL ALLIANCE THEY ESTABLISHED AND WE STILL EMBRACE THE SUBSTANTIAL INDISSOLUBLE AND EVERLASTING UNION OF A PERFECT GOD WITH A PERFECT MAN OF THE SECOND PERSON OF THE TRINITY WITH A REASONABLE SOUL AND HUMAN FLESH",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I TOOK QUITE A FANCY TO HIM WHY",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TWENTY THIRTY ENOUGH",
+      "instruction": "Determine if the speech faithfully represents the information and language used in the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "POP GOES RIGHT ON TUNING HIS CHANNEL",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE WHOLE OF EXISTENCE RESEMBLES A LETTER MODIFIED IN THE POSTSCRIPT",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THERE'S MORE TROUBLE WITH YOU BLOODY ARISTOCRATS THAN ENOUGH LIE QUIET",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I ORDER YOU SIR NORTH CRIED INDIGNANT",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TWENTY THIRTY ENOUGH",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BESIDES WHICH WE CAN ALWAYS SELL THE COUPONS AND RAILWAY PASSES WHICH WE DON'T USE",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DAMN YOUR IMPERTINENCE SIR BURST OUT BURGESS",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEY SAW HIS LONG HAIR ALMOST BRUSH THE GRASS ONE OF HIS HANDS SWEPT DOWN AND UP AND ONCE MORE TAD BUTLER ROSE STANDING IN HIS STIRRUPS UTTERING A COWBOY YELL AS HE WAVED THE SOMBRERO ON HIGH",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE COULD NOT FLATTER HIMSELF THAT HE INDEED MERITED SUCH SINGULAR BLESSINGS AND YET WITH ALL HIS FAULTS WHICH WITH HIM WERE BUT THE CONSEQUENCES OF HIS FIERY YOUTH FERDINAND HAD BEEN FAITHFUL TO HENRIETTA",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "PRESIDENT BROWN I WITHDRAW MY CRITICISM I OFFER YOU MY HUMBLE APOLOGIES",
+      "instruction": "Determine if the spoken content and the given text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE FAMOUS TERRORIST HAD NEVER IN HIS LIFE RAISED PERSONALLY AS MUCH AS HIS LITTLE FINGER AGAINST THE SOCIAL EDIFICE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE SEEMED TO BE THINKING OF SOMETHING ELSE",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MISTER VERLOC WAS FULLY RESPONSIVE NOW",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE OLD WOMAN BEHAVED VERY KINDLY TO THEM BUT IN REALITY SHE WAS A WICKED OLD WITCH WHO WAY LAID CHILDREN AND BUILT THE BREADHOUSE IN ORDER TO ENTICE THEM IN BUT AS SOON AS THEY WERE IN HER POWER SHE KILLED THEM COOKED AND ATE THEM AND MADE A GREAT FESTIVAL OF THE DAY",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "I ASKED AS SOON AS GEORGE HAD RETURNED TO MY SIDE",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHAT DO YOU MAKE OF IT GRYCE",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SO LEAVING KIND MESSAGES TO GEORGE AND JANE WILSON AND HESITATING WHETHER SHE MIGHT DARE TO SEND A FEW KIND WORDS TO JEM AND DECIDING THAT SHE HAD BETTER NOT SHE STEPPED OUT INTO THE BRIGHT MORNING LIGHT SO FRESH A CONTRAST TO THE DARKENED ROOM WHERE DEATH HAD BEEN",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ARE YOU REALLY GOING TO THROW ME OVER FOR A THING LIKE THIS",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "YOU DISTRESS ME HERBERT MORE THAN WORDS CAN SAY",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SET INTO A COLD PLACE TO CHILL AND BECOME FIRM",
+      "instruction": "Determine whether the given speech and text pair are a match or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE LAID DOWN HIS VIOLIN AND SEATED HIMSELF WHERE MARY TOLD HIM IN HER FATHER'S ARM CHAIR BY THE FIRE",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEN CAPTAIN BURGESS CRIED NORTH HIS PALE FACE FLUSHING I TELL YOU THE BOY'S BLOOD WILL BE ON YOUR HEAD",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT IS DISGRACEFUL",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IN FACT CONFORMABLY TO THE SLOW RISE OF THE DEMOCRATIC SOCIAL ORDER AND ITS CAUSE THE BLENDING OF THE BLOOD OF MASTERS AND SLAVES THE ORIGINALLY NOBLE AND RARE IMPULSE OF THE MASTERS TO ASSIGN A VALUE TO THEMSELVES AND TO THINK WELL OF THEMSELVES WILL NOW BE MORE AND MORE ENCOURAGED AND EXTENDED BUT IT HAS AT ALL TIMES AN OLDER AMPLER AND MORE RADICALLY INGRAINED PROPENSITY OPPOSED TO IT AND IN THE PHENOMENON OF VANITY THIS OLDER PROPENSITY OVERMASTERS THE YOUNGER",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AFTER THAT I HAD HER MOTHER'S AUTHORITY FOR TELLING KITTY THAT SHE WOULD NEVER SEE HER FATHER AGAIN",
+      "instruction": "Determine if the speech and text convey the same information. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ALL AFTERNOON HE SAT IN THE DINING ROOM",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SUFFICIENT HALF THIS QUANTITY FOR TWO SLICES OF SALMON",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SINCE HIS BIRTH HE HAS BEEN GUARDED SO CLOSELY THAT THE CLEVEREST POISONERS OF THE EAST COULD NOT REACH HIM",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SHE WAS DESTROYED NOT MERELY BY THE UNCONSIDERED UNDISCIPLINED PASSIONS OF HER HUSBAND AND HER LOVER BUT BY THE VAST TRADITION THAT SUSTAINS AND ENFORCES THE SUBJUGATION OF HER SEX",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THE WHOLE THING WAS A TRIFLE ODD",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WITH AN EDUCATION WHICH OUGHT TO HAVE ENSURED ME AN HONOURABLE STANDING IN THE WORLD WITH SOME INTELLIGENCE WIT GOOD LITERARY AND SCIENTIFIC KNOWLEDGE AND ENDOWED WITH THOSE ACCIDENTAL PHYSICAL QUALITIES WHICH ARE SUCH A GOOD PASSPORT INTO SOCIETY I FOUND MYSELF AT THE AGE OF TWENTY THE MEAN FOLLOWER OF A SUBLIME ART IN WHICH IF GREAT TALENT IS RIGHTLY ADMIRED MEDIOCRITY IS AS RIGHTLY DESPISED",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HER MEETING WITH LETTY WAS INDESCRIBABLY TENDER AND THE DAYS THAT FOLLOWED WERE PRETTY EQUALLY DIVIDED BETWEEN HER AND HER BROTHER IN NURSING THE ONE AND LOVING THE OTHER",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ONLY UNFORTUNATELY HIS OWN WORK NEVER DOES GET GOOD",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SHE LISTENED INTENTLY BUT SHE HEARD NOTHING BUT THE CREAKING OF HIS CHAIR",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOUR APARTMENT IS READY YOU MAY SEND YOUR CLOTHES YOU SHALL HAVE A SERVANT A GONDOLA AT YOUR ORDERS MY OWN TABLE AND TEN SEQUINS A MONTH",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YES NOT AT ALL WELL",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHE POINTED INTO THE GOLD COTTONWOOD TREE BEHIND WHOSE TOP WE STOOD AND SAID AGAIN WHAT NAME",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOU ASK ME TO STAY AWAY FROM YOU BECAUSE YOU WANT ME",
+      "instruction": "Determine if the speech and text are matched. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHEN THE MESSIAH WAS DELIVERED INTO THE HANDS OF THE JEWS THE CHRIST AN IMMORTAL AND IMPASSIBLE BEING FORSOOK HIS EARTHLY TABERNACLE FLEW BACK TO THE PLEROMA OR WORLD OF SPIRITS AND LEFT THE SOLITARY JESUS TO SUFFER TO COMPLAIN AND TO EXPIRE",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HIS VISION OF TRUTH HAD GROWN SO INTENSE THAT THE SOUND OF A STRANGE VOICE FAILED TO ROUT IT THIS TIME",
+      "instruction": "Is the speech and text paired? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HER HANDS AND FEET WERE ACHING WITH COLD",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BUD THREW UP HIS ARMS TO PROTECT HIMSELF BUT TOO LATE",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YOU DON'T MEAN TO SAY HE'S GOING TO FLOG KIRKLAND",
+      "instruction": "Decide if the speech and text are consistent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AND THE GLANCE SHE CAST HIM WHILE NOT MEETING HIS EYE SHOWED THAT SHE UNDERSTOOD THE IMPORTANCE OF THE ADMISSION",
+      "instruction": "Check if the speech and text are paired. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CAPTAIN FRERE SAYS THAT THE SCENERY IS DELIGHTFUL",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ILLUSTRATION BASIL",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SO CHRISTIE TURNED A DEAF EAR TO HER PROPHETIC SOUL AND GAVE HERSELF UP TO THE BLISSFUL HOLIDAY THAT HAD COME AT LAST",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YOU'LL ALL BE OVER IF YOU DON'T HAVE A CARE",
+      "instruction": "Does the speech accurately represent the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT'S JUST LIKE HIM HE MURMURED",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE HAD BEEN A PRISONER HIMSELF",
+      "instruction": "Decide if the speech closely matches the content and structure of the provided text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SUFFICIENT HALF THIS QUANTITY FOR TWO SLICES OF SALMON",
+      "instruction": "Determine if the speech aligns with the intended message of the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE CHILDREN PROVED THEMSELVES UNUSUALLY BRIGHT PUPILS AND BY THE TIME WABI WAS SIXTEEN AND MINNETAKI TWELVE ONE WOULD NOT HAVE KNOWN FROM THEIR MANNER OF SPEECH THAT INDIAN BLOOD RAN IN THEIR VEINS",
+      "instruction": "Verify if the speech and text are congruent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ONCE MORE THE SINGER PLAYS AND THE LADIES DANCE BUT ONE BY ONE THEY FALL ASLEEP TO THE DROWSY MUSIC AND THEN THE SINGER STEPS INTO THE RING AND UNLOCKS THE TOWER AND KISSES THE EMPEROR'S DAUGHTER",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHE ASKED DIRECTLY IF HER FATHER WAS DEAD",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HE MIGHT BE ENCHANTED BUT THAT WAS THE TALISMAN",
+      "instruction": "Determine if the speech and text are coherent. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YES I KNOW VERY WELL",
+      "instruction": "Evaluate if the speech accurately represents the text. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ASPARAGUS SALAD COOK THE ASPARAGUS IN SALTED WATER DRAIN AND CHILL",
+      "instruction": "Judge if the speech and the text express the same ideas. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THE FAMOUS TERRORIST HAD NEVER IN HIS LIFE RAISED PERSONALLY AS MUCH AS HIS LITTLE FINGER AGAINST THE SOCIAL EDIFICE",
+      "instruction": "Does the speech match the text? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "DURING A BUSY PERIOD OF THREE MONTHS THE EMPEROR TRIED EVERY METHOD EXCEPT THE MOST EFFECTUAL MEANS OF INDIFFERENCE AND CONTEMPT TO RECONCILE THIS THEOLOGICAL QUARREL",
+      "instruction": "Does the speech align with the intended message of the text? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "WHEN THE BUZZER SOUNDED HE PULLED HIS FOIL FROM HIS SECOND'S STARTLED GRASP AND RAN FORWARD",
+      "instruction": "Verify if the speech and text match each other. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "UNDER SUCH CIRCUMSTANCES SHE WAS HARDLY LIKELY TO BE LIVELY HERSELF BUT HER NAME WAS MADGE AND IT WAS THE ACCIDENT OF HER CHRISTIAN NAME WHICH DECIDED ME TO GO",
+      "instruction": "Assess whether the speech and  text share the same underlying message or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HOCHHEIMER A LIGHT PLEASING AND WHOLESOME WINE",
+      "instruction": "Decide if the speech maintains the organization of the written content. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YOUR CRY AND THE GRIP OF YOUR FINGERS BROUGHT ME BACK BUT I AM GOING FAST",
+      "instruction": "Decide if the speech and text match each other precisely. The answer could be yes or no."
+    }
+  ],
+  "label_count": {
+    "yes": 137,
+    "no": 163
+  },
+  "accuracy": 0.47
+}

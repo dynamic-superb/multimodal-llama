@@ -1,0 +1,26 @@
+{
+  "number": 2000,
+  "labels": {
+    "five": 405,
+    "four": 428,
+    "one": 396,
+    "three": 351,
+    "two": 420
+  },
+  "instructions": {
+    "Identify the total number of speakers in the audio. The answer could be one, two, three, four, or five.": 174,
+    "Determine the number of speakers detected in the audio recording. The answer could be one, two, three, four, or five.": 174,
+    "Count the distinct voices present in the audio recording. The answer could be one, two, three, four, or five.": 151,
+    "Identify the count of unique speakers in the audio. The answer could be one, two, three, four, or five.": 148,
+    "Count the number of unique individuals speaking in the audio clip. The answer could be one, two, three, four, or five.": 172,
+    "Count the number of speakers in the given audio recording. The answer could be one, two, three, four, or five.": 159,
+    "Determine the number of distinct speakers in the given audio sample. The answer could be one, two, three, four, or five.": 180,
+    "Identify the number of unique individuals speaking in the audio. The answer could be one, two, three, four, or five.": 154,
+    "Determine the total count of speakers speaking in the provided audio. The answer could be one, two, three, four, or five.": 166,
+    "Determine the total number of speakers detected in the audio. The answer could be one, two, three, four, or five.": 195,
+    "Determine the total count of speakers in the provided audio. The answer could be one, two, three, four, or five.": 151,
+    "Identify how many individuals are speaking. The answer could be one, two, three, four, or five.": 176
+  },
+  "total_audio_length": 9359.32791666668,
+  "avg_audio_length": 4.6796639583333395
+}

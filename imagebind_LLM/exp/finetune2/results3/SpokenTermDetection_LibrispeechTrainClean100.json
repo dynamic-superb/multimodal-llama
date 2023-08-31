@@ -1,0 +1,1809 @@
+{
+  "predictions": [
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YEAR",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AN",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TILL",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THAT",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NEAR",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CRY",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "COMPANY",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DOOR",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HAS",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "FAITH",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SAID",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CAP'N",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ADD",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ABOVE",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CHILDREN",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LONGER",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AGAIN",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FIRING",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BACK",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "REASON",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ON",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "FORCE",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "HIS",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "STREET",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FRACTION",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "JUST",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ANOTHER",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ONE",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CAMP",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OF",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HEAR",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THREE",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WAY",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DO",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ONLY",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "B",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AGAINST",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GOOD",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "UNDER",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEY",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HAVING",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LIVING",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "STRANGEST",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "WELL",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ITSELF",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ARE",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AS",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BEEN",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TELL",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HARKNESS",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GARDEN",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SEE",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DRINKING",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MISS",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LIVING",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DOWN",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HOT",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WINE",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "READY",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SINGER",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IS",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HAD",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ALL",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LONGER",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ALREADY",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HE",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHOLE",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WIGWAM",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THOUGH",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LOOKED",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ANY",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BACK",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ANY",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SUCCESS",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "STRONG",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BREAD",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "OFF",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOW",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CASES",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DISTINCT",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "VOICE",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "DAY",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "KEPT",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "UNDER",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GIRL",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TIME",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WITH",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WAS",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NEED",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DRAWING",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WALL",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "EXCEPT",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CHANCE",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TOGETHER",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ANY",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "A",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "JUST",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TELL",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TAKEN",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "WHAT",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TEN",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "FLOUR",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "QUICKLY",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NOT",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NEED",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TO",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NOR",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MIXTURE",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "APPLE",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LIVING",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HIS",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WANTED",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MAN",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LIFE",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MIGHT",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NOWHERE",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FOREST",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TWO",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LIKE",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BEGAN",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "BROWN",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WITH",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "FAITH",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LADY",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "GIVE",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WANTED",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TO",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "PUT",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HOUR",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "GOD",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AND",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THOUGHT",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "A",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IN",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHETHER",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEN",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WERE",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WERE",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AFOOT",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THOSE",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WHY",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GIRL",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OF",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BIG",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HAVE",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LET",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FABER",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AND",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YOU",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OF",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TILL",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FOR",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "QUARTER",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ASK",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "AS",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CONTAMINATED",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ALL",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SORRY",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CLOSE",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "UNDERSTAND",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FIFTY",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WITHIN",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HUSBAND",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TOWARD",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SO",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I'M",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "COLORS",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TREES",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "WATER",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ONLY",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LET",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHE",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ALL",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HEART",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WITHOUT",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WANTS",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AWAY",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BEGAN",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "CERTAIN",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THOU",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HANDS",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MODE",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HIMSELF",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CRIED",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "FOOTED",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AS",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IN",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "RACE",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SHALL",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MINUTE",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DON'T",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OVERLOOKING",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "EVERY",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "PUT",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CONDEMN",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TOWARD",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WHAT",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "GOVERNMENT",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HIS",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "APPEARED",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OUT",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THEE",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DEAD",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MORE",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "NOW",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DISTASTEFUL",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MAN'S",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THAT'S",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HOUSE",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AFFECTED",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ENOUGH",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HER",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MARY",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YEARS",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "SEE",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "TREE",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "HIM",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LIVING",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TO",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LEFT",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THINK",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GIVEN",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OF",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "GET",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THROUGH",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MAY",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TO",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WITH",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ARE",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "PROMISE",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "DON'T",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "A",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "WITHOUT",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HAD",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "RIGHT",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "A",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "REST",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "I",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LAST",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOT",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "MILES",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MORNING",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HIS",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MY",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SHIFT",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ROOM",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "DONE",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "YES",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WALK",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YES",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "COMPANY",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "OVER",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "text": "WITH",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "WERE",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOTHING",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THEN",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IN",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IN",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "OVER",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "FORWARD",
+      "instruction": "Can the provided word be found in the recording? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "SINGER",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THOUSAND",
+      "instruction": "Listen closely to the speech and determine if the provided word is spoken. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "THAT",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ACCOUNT",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ART",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "LIVING",
+      "instruction": "Evaluate the speech and indicate whether the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "THOSE",
+      "instruction": "Analyze the speech and ascertain whether the given word is included The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "READY",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NOTHING",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TOM",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "ONCE",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AN",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "text": "WALK",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "WAS",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "AND",
+      "instruction": "Examine the speech thoroughly and determine if the given word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "CAN'T",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "GOING",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "TO",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "LONG",
+      "instruction": "Check whether the given word is present in the given speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "MUST",
+      "instruction": "Does the word exist in the audio? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "DEAF",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "YOU'LL",
+      "instruction": "Examine the speech to ascertain if the given word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT'S",
+      "instruction": "Identify if the given word appears anywhere within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "STARTED",
+      "instruction": "Verify if the given word is included in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "NAME",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "HIS",
+      "instruction": "Analyze the speech and indicate whether the word is mentioned. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "ASLEEP",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IF",
+      "instruction": "Examine the speech and identify if the given word is mentioned or not. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SAUCE",
+      "instruction": "Determine if the provided word is mentioned in the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "PLAIN",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "SALAD",
+      "instruction": "Is the word mentioned in the speech? The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "DID",
+      "instruction": "Identify if the word can be found within the speech. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "BEHIND",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "AM",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "CIRCUMSTANCES",
+      "instruction": "Listen attentively to the speech and identify if the specified word is used. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "text": "IT'S",
+      "instruction": "Focus on the content of the speech and indicate whether the provided word is present. The answer could be yes or no."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "text": "IT",
+      "instruction": "Analyze the content of the speech and determine if the given word can be identified within it The answer could be yes or no."
+    }
+  ],
+  "label_count": {
+    "no": 145,
+    "yes": 155
+  },
+  "accuracy": 0.5333333333333333
+}

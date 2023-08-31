@@ -1,0 +1,23 @@
+{
+  "number": 3000,
+  "labels": {
+    "noisy": 1525,
+    "clean": 1475
+  },
+  "instructions": {
+    "Is the utterance affected by reverberation noise in a large room? The answer could be clean or noisy.": 257,
+    "Is the utterance impacted by reverberation noise originating from a large room? The answer could be clean or noisy.": 285,
+    "Is the utterance contaminated by noise resulting from reverberation in a large room? The answer could be clean or noisy.": 209,
+    "Does the utterance possess reverberation noise associated with a large room? The answer could be clean or noisy.": 221,
+    "Is the utterance accompanied by reverb noise resulting from a large room? The answer could be clean or noisy.": 270,
+    "Does the utterance have reverb noise from a large room? The answer could be clean or noisy.": 260,
+    "Does the utterance exhibit noise with reverberation from a large room? The answer could be clean or noisy.": 259,
+    "Does the utterance contain noise caused by reverberation in a large room? The answer could be clean or noisy.": 289,
+    "Is the utterance contaminated with reverb noise originating from a large room? The answer could be clean or noisy.": 217,
+    "Does the utterance have reverb noise that resembles a large room? The answer could be clean or noisy.": 245,
+    "Is the utterance affected by reverb noise present in a large room? The answer could be clean or noisy.": 229,
+    "Does the utterance exhibit reverberation noise characteristic of a large room? The answer could be clean or noisy.": 259
+  },
+  "total_audio_length": 12044.999999999733,
+  "avg_audio_length": 4.014999999999911
+}

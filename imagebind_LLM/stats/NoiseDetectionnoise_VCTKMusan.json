@@ -1,0 +1,23 @@
+{
+  "number": 88484,
+  "labels": {
+    "clean": 44242,
+    "noisy": 44242
+  },
+  "instructions": {
+    "Resolve if the sentence is a pure speech or a noisy speech. The answer could be clean or noisy.": 7954,
+    "Establish whether the sentence is a clear utterance or a noisy utterance. The answer could be clean or noisy.": 7591,
+    "Check if the sentence is a clean utterance or a noisy sound. The answer could be clean or noisy.": 6572,
+    "Ascertain if the sentence is a pristine utterance or a noisy sound. The answer could be clean or noisy.": 6687,
+    "Verify whether the sentence is a pure utterance or a noisy utterance. The answer could be clean or noisy.": 7726,
+    "Determine whether the sentence is a clear utterance or a noisy sound. The answer could be clean or noisy.": 6422,
+    "Determine whether the sentence is a clean speech or a noisy speech. The answer could be clean or noisy.": 7779,
+    "Confirm whether the sentence is a pristine speech or a noisy speech. The answer could be clean or noisy.": 7789,
+    "Judge if the sentence is a clear speech or a noisy speech. The answer could be clean or noisy.": 7776,
+    "Ascertain if the sentence is a pristine utterance or a noisy utterance. The answer could be clean or noisy.": 7781,
+    "Evaluate whether the sentence is a noise-free speech or a noisy speech. The answer could be clean or noisy.": 6727,
+    "Assess if the sentence is a noise-free utterance or a noisy utterance. The answer could be clean or noisy.": 7680
+  },
+  "total_audio_length": 355263.26000076253,
+  "avg_audio_length": 4.015000000008618
+}

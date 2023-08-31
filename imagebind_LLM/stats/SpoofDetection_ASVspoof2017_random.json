@@ -1,0 +1,32 @@
+{
+  "number": 3000,
+  "labels": {
+    "spoofed": 2728,
+    "authentic": 272
+  },
+  "instructions": {
+    "Categorize the utterance as spoofed or originating from an authentic speaker, considering potential replay attacks. The answer could be spoofed or authentic.": 151,
+    "Classify the utterance as potentially spoofed due to replay attacks or originating from an authentic source. The answer could be spoofed or authentic.": 129,
+    "Classify the utterance as either a replay attack or an authentic recording. The answer could be spoofed or authentic.": 128,
+    "Categorize the utterance as spoofed due to replay attacks or originating from an authentic speaker. The answer could be spoofed or authentic.": 120,
+    "Categorize the utterance as spoofed or originating from an original source, considering the possibility of a replay attack. The answer could be spoofed or authentic.": 132,
+    "Detect whether the utterance has been artificially generated through a replay attack. The answer could be spoofed or authentic.": 146,
+    "Detect whether the utterance has been tampered with through a replay attack. The answer could be spoofed or authentic.": 150,
+    "Detect whether the given utterance is artificially produced by replaying a recorded voice for spoofing. The answer could be spoofed or authentic.": 143,
+    "Detect whether the given utterance is a result of a replay attack. The answer could be spoofed or authentic.": 160,
+    "Classify the utterance as spoofed or authentic, specifically focusing on replay attacks. The answer could be spoofed or authentic.": 160,
+    "Determine the authenticity of the utterance by detecting signs of replay attacks. The answer could be spoofed or authentic.": 131,
+    "Identify if the utterance is a fabricated audio generated through a replay attack. The answer could be spoofed or authentic.": 131,
+    "Determine if the utterance is authentic or spoofed through a replay attack. The answer could be spoofed or authentic.": 164,
+    "Detect whether the given utterance has been manipulated through replay attacks or is an original recording. The answer could be spoofed or authentic.": 119,
+    "Detect whether the utterance is generated through replay attacks. The answer could be spoofed or authentic.": 134,
+    "Determine if the provided utterance is a result of playback manipulation due to a replay attack or authentic. The answer could be spoofed or authentic.": 172,
+    "Classify the provided utterance as either an authentic recording or a replayed one due to a replay attack. The answer could be spoofed or authentic.": 176,
+    "Determine if the utterance exhibits signs of replay manipulation or represents an original voice. The answer could be spoofed or authentic.": 126,
+    "Classify the utterance as either a replayed voice or an authentic recording, considering possible replay attacks. The answer could be spoofed or authentic.": 130,
+    "Identify if the utterance is a product of a replay attack or represents an authentic voice. The answer could be spoofed or authentic.": 149,
+    "Classify the utterance as spoofed or authentic, considering the possibility of a replay attack. The answer could be spoofed or authentic.": 149
+  },
+  "total_audio_length": 9686.760624999999,
+  "avg_audio_length": 3.228920208333333
+}

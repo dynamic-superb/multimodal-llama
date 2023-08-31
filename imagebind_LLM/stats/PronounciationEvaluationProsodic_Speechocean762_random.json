@@ -1,0 +1,36 @@
+{
+  "number": 2500,
+  "labels": {
+    "6": 273,
+    "8": 862,
+    "5": 137,
+    "7": 519,
+    "9": 557,
+    "10": 56,
+    "4": 67,
+    "0": 8,
+    "3": 19,
+    "2": 2
+  },
+  "instructions": {
+    "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10.": 225,
+    "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10.": 115,
+    "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10.": 197,
+    "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence.": 178,
+    "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10.": 79,
+    "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10.": 189,
+    "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10.": 163,
+    "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10.": 148,
+    "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation.": 95,
+    "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10.": 163,
+    "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10.": 143,
+    "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation.": 135,
+    "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10.": 158,
+    "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10.": 170,
+    "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10.": 105,
+    "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10.": 82,
+    "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10.": 155
+  },
+  "total_audio_length": 9688.64800000001,
+  "avg_audio_length": 3.875459200000004
+}

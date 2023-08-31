@@ -1,0 +1,1816 @@
+{
+  "predictions": [
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "5",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "5",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "5",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "5",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "5",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "3",
+      "label": "1",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "5",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "4",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "3",
+      "label": "4",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "6",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "6",
+      "label": "5",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "5",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "5",
+      "label": "4",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "10",
+      "label": "10",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "5",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "5",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "10",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "6",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "4",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "5",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "4",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "4",
+      "label": "4",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "5",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "10",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "5",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "6",
+      "label": "4",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "5",
+      "label": "5",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "5",
+      "label": "4",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "6",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence is pronounced in terms of prosody and provide a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "2",
+      "label": "2",
+      "text": null,
+      "instruction": "Assign a score from 0 to 10 based on the overall prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "10",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "4",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "6",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how effectively the sentence conveys intonation, rhythm, and stress, and provide a score between 0 to 10."
+    },
+    {
+      "pred": "6",
+      "label": "6",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the overall prosody of the sentence's pronunciation, using a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "5",
+      "text": null,
+      "instruction": "Assess the intonation, rhythm, and stress in delivering the entire sentence and rate it from 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody with a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score for the proficiency in pronouncing the sentence with appropriate prosody on a scale of 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Rate the prosody of the sentence's pronunciation on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Provide an evaluation of the sentence's pronunciation prosody, using a scale of 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "7",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "5",
+      "label": "6",
+      "text": null,
+      "instruction": "Give a score from 0 to 10 based on the prosody of the sentence's pronunciation."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Give a score on a scale of 0 to 10 for the overall prosody of pronouncing the sentence."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess the overall intonation, rhythm, and stress in delivering the entire sentence and assign a score from 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "7",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Rate the overall prosody of the sentence's pronunciation and assign a score from 0 to 10."
+    },
+    {
+      "pred": "8",
+      "label": "8",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate how well the sentence conveys intonation, rhythm, and stress, and assign a score between 0 to 10."
+    },
+    {
+      "pred": "7",
+      "label": "8",
+      "text": null,
+      "instruction": "Evaluate the proficiency in delivering the sentence's pronunciation with appropriate prosody and give a score between 0 to 10."
+    },
+    {
+      "pred": "9",
+      "label": "9",
+      "text": null,
+      "instruction": "Assess how well the entire sentence is pronounced in terms of prosody and rate it on a scale of 0 to 10."
+    }
+  ],
+  "label_count": {
+    "9": 65,
+    "7": 63,
+    "5": 15,
+    "8": 116,
+    "6": 26,
+    "1": 1,
+    "4": 9,
+    "10": 4,
+    "2": 1
+  },
+  "accuracy": 0.46
+}

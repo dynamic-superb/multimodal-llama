@@ -1,0 +1,1544 @@
+{
+  "predictions": [
+    {
+      "pred": "no",
+      "label": "down",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "marvin",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "house",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "house",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "two",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "tree",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "up",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "off",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "happy",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "tree",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "dog",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "happy",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "one",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "go",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "eight",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "stop",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "happy",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "marvin",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "stop",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "on",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "happy",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "tree",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "down",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "left",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "happy",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "sheila",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "nine",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "wow",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "six",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "marvin",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "left",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "zero",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "marvin",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "on",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "eight",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "eight",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "right",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "off",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "nine",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "off",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "three",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "left",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "marvin",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "stop",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "down",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "tree",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "right",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "four",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "one",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "two",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "right",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "one",
+      "label": "left",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "one",
+      "label": "bird",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "two",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "three",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "four",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "five",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "up",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "right",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "nine",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "stop",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "stop",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "six",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "eight",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "sheila",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "up",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "right",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "one",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "tree",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "zero",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "wow",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "right",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "down",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "wow",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "six",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "on",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "zero",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "house",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "marvin",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "two",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "left",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "one",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "six",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "on",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "up",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "happy",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "happy",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "eight",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "cat",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "bed",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "house",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "one",
+      "label": "marvin",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "yes",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "house",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "one",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bird",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "eight",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "left",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "right",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "house",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "go",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "marvin",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "right",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "three",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "up",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "bed",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "left",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "happy",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "go",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "five",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "silence",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "zero",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "cat",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "eight",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "no",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "house",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "three",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "off",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "eight",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "up",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bird",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "tree",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "nine",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "seven",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "zero",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "nine",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "house",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "up",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "bed",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "eight",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bird",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "one",
+      "label": "left",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "eight",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "no",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "marvin",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "house",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "six",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "two",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "one",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "zero",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "up",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "left",
+      "instruction": "Perceive and understand the command given through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "nine",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "go",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "yes",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "dog",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "happy",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "on",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "bed",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "three",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "on",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "left",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "two",
+      "label": "seven",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "off",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "four",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "house",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "three",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "nine",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "three",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Recognize the command in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "down",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "tree",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "five",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "wow",
+      "instruction": "Identify the spoken command. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "up",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "five",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "nine",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "up",
+      "instruction": "Understand and recognize the command expressed in speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "cat",
+      "instruction": "Identify and grasp the spoken command accurately. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "stop",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "sheila",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "down",
+      "instruction": "Identify and comprehend the command spoken aloud. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "go",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "house",
+      "instruction": "Recognize and interpret the directive in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "five",
+      "instruction": "Acknowledge and process the command given verbally. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "six",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "two",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "wow",
+      "instruction": "Comprehend and grasp the command presented in the speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "zero",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "up",
+      "instruction": "Perceive and respond to the command articulated in spoken language. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree,, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "seven",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "no",
+      "label": "marvin",
+      "instruction": "Discern and grasp the command within the spoken words. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    },
+    {
+      "pred": "yes",
+      "label": "down",
+      "instruction": "Grasp and identify the command expressed through speech. The answer could be yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine, bed, bird, cat, dog, happy, house, marvin, sheila, tree, wow, or silence."
+    }
+  ],
+  "label_count": {
+    "down": 16,
+    "marvin": 10,
+    "house": 11,
+    "five": 12,
+    "two": 13,
+    "tree": 7,
+    "up": 11,
+    "off": 14,
+    "happy": 9,
+    "yes": 18,
+    "six": 12,
+    "dog": 8,
+    "one": 6,
+    "go": 12,
+    "eight": 10,
+    "seven": 19,
+    "on": 13,
+    "stop": 12,
+    "left": 10,
+    "no": 10,
+    "sheila": 3,
+    "nine": 8,
+    "wow": 5,
+    "four": 9,
+    "bed": 12,
+    "zero": 7,
+    "right": 8,
+    "three": 7,
+    "bird": 4,
+    "cat": 3,
+    "silence": 1
+  },
+  "pred_count": {
+    "no": 161,
+    "yes": 134,
+    "one": 4,
+    "two": 1
+  },
+  "accuracy": 0.05333333333333334
+}

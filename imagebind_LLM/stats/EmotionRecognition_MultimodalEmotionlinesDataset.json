@@ -1,0 +1,28 @@
+{
+  "number": 3426,
+  "labels": {
+    "fear": 87,
+    "sadness": 250,
+    "neutral": 1656,
+    "joy": 544,
+    "anger": 391,
+    "surprise": 412,
+    "disgust": 86
+  },
+  "instructions": {
+    "Identify and sort the conveyed emotions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 375,
+    "Recognize and categorize the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 393,
+    "Identify and classify the emotions conveyed through spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 407,
+    "Recognize and organize the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 432,
+    "Recognize and differentiate the expressed feelings in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 385,
+    "Identify and label the emotions conveyed through verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 442,
+    "Determine and categorize the emotional expressions in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 374,
+    "Recognize and group the expressed emotions in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 400,
+    "Recognize and arrange the expressed emotions in the spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 50,
+    "Identify and categorize the conveyed emotional states in verbal communication. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 65,
+    "Determine and sort the emotional expressions in the spoken words. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 53,
+    "Determine and classify the emotions expressed in spoken language. The answer could be anger, disgust, sadness, joy, neutral, surprise, or fear.": 50
+  },
+  "total_audio_length": 10861.355166666672,
+  "avg_audio_length": 3.1702729616656953
+}

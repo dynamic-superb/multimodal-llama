@@ -1,0 +1,2017 @@
+{
+  "predictions": [
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "mouse click",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "washing machine",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door wood creaks",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "vacuum cleaner",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "mouse click",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "keyboard typing",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door wood creaks",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "The job is to classify the sounds associated with the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "door or wood knock",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "can opening",
+      "instruction": "Kindly arrange the environmental sounds into distinct classifications. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "keyboard typing",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "Kindly categorize the sounds of the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock alarm",
+      "instruction": "We require you to categorize the sounds that belong to the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Please organize the environmental sounds into categories. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "glass breaking",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "door or wood knock",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "vacuum cleaner",
+      "instruction": "Can you organize the environmental sounds by their respective categories? The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "clock tick",
+      "instruction": "Task is to categorize the sounds found in the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "washing machine",
+      "instruction": "We would like you to identify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "glass breaking",
+      "instruction": "Please classify environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door",
+      "label": "can opening",
+      "instruction": "Please group the sounds related to the environment accordingly. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock tick",
+      "instruction": "The objective is to classify the sounds originating from the environment. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    },
+    {
+      "pred": "door wood creaks",
+      "label": "clock alarm",
+      "instruction": "We need to classify the environmental sounds. The answer could be door or wood knock, mouse click, keyboard typing, door wood creaks, can opening, washing machine, vacuum cleaner, clock alarm, clock tick, or glass breaking."
+    }
+  ],
+  "label_count": {
+    "clock tick": 40,
+    "glass breaking": 40,
+    "door wood creaks": 40,
+    "door or wood knock": 40,
+    "keyboard typing": 40,
+    "clock alarm": 40,
+    "washing machine": 40,
+    "mouse click": 40,
+    "can opening": 40,
+    "vacuum cleaner": 40
+  },
+  "accuracy": 0.0425
+}

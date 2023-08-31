@@ -1,0 +1,1509 @@
+{
+  "predictions": [
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "noisy",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Evaluate if the audio is a noise-free speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Confirm whether the audio is a pure speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a noise-free utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Verify if the audio is a pure utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Determine if the audio is a clear utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "clean",
+      "instruction": "Verify if the audio is a pure utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Ascertain if the audio is a pristine speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Assess whether the audio is a pristine utterance or a noisy utterance with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Judge if the audio is a clear speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "clean",
+      "label": "clean",
+      "instruction": "Check whether the audio is a clean utterance or a noisy sound with speech noise. The answer could be noisy or clean."
+    },
+    {
+      "pred": "noisy",
+      "label": "noisy",
+      "instruction": "Determine whether the audio is a clean speech or a noisy speech with speech noise. The answer could be noisy or clean."
+    }
+  ],
+  "label_count": {
+    "clean": 130,
+    "noisy": 170
+  },
+  "accuracy": 0.76
+}
