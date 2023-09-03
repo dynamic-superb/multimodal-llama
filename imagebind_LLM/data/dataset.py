@@ -11,6 +11,7 @@ import pandas as pd
 import random
 from pytorchvideo.data.clip_sampling import ConstantClipsPerVideoSampler
 import torchaudio
+import whisper
 
 try:
     from torchvision.transforms import InterpolationMode
@@ -159,13 +160,35 @@ class PretrainDataset(Dataset):
 
 
 # Hank
+import torch
+import yaml
+from torch.utils.data import Dataset
+from PIL import Image
+import json
+import llama.utils
+from llama import Tokenizer
+import copy
+import torchvision.transforms as transforms
+import pandas as pd
+import random
+from pytorchvideo.data.clip_sampling import ConstantClipsPerVideoSampler
+import torchaudio
+
+
+try:
+    from torchvision.transforms import InterpolationMode
+    BICUBIC = InterpolationMode.BICUBIC
+except ImportError:
+    BICUBIC = Image.BICUBIC
+
 class BigSuperbDataset(Dataset):
-    def __init__(self,data_path, tokenizer, data_path2=None, max_length=128, used_data_split="train"):
+    def __init__(self, data_path, tokenizer, data_path2=None, max_length=128, used_data_split="train", audio_input_type="imagebind"):
         self.max_length = max_length
         self.tokenizer = tokenizer
         self.datas = []
         self.used_datasets = []
         self.used_data_split = used_data_split
+        self.audio_input_type = audio_input_type
 
         for task_path in data_path.iterdir():
             if self._filter_dataset(task_path):
@@ -215,8 +238,8 @@ class BigSuperbDataset(Dataset):
             clip_duration=2, clips_per_video=3
         )
         print("Used datasets", len(self.used_datasets), self.used_datasets)
-        
         print(len(self.datas))
+
     def __len__(self):
         return len(self.datas)
 
@@ -255,15 +278,38 @@ class BigSuperbDataset(Dataset):
         new_data["labels"] = labels
         new_data["input_mask"] = input2_mask
 
-        
-        if data.get("file2"):
-            audio = self._load_and_transform_audio([data["file"], data["file2"]])
-        else:
-            audio = self._load_and_transform_audio([data["file"]])
+        if self.audio_input_type == "imagebind":
+            if data.get("file2"):
+                audio = self._load_and_transform_audio([data["file"], data["file2"]])
+            else:
+                audio = self._load_and_transform_audio([data["file"]])
+                
             
+        elif self.audio_input_type == "whisper":
+            if data.get("file2"):
+                audio = self._load_whisper_audio([data["file"], data["file2"]])
+            else:
+                audio = self._load_whisper_audio([data["file"]])
         new_data["audio"] = audio
-        
         return new_data
+    
+    def _load_whisper_audio(self, audio_paths):
+        wavforms = []
+        for audio_path in audio_paths:
+            waveform = torch.tensor(whisper.load_audio(audio_path))
+            if waveform.size(0) == 0:
+                waveform = torch.zeros([16000*3])
+                print(audio_path)
+            
+            wavforms.append(
+                waveform
+            )
+        audio = torch.cat(wavforms, dim=0)
+        audio = whisper.pad_or_trim(audio)
+        mel = whisper.log_mel_spectrogram(audio)
+        
+        return mel
+
     
     def _load_and_transform_audio(self, 
             audio_paths,

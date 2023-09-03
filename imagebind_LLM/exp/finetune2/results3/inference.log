@@ -1,0 +1,323 @@
+[2023-08-02 16:18:06] [INFO] Start BigSuperbPrivate/SpoofDetection_Asvspoof2017
+[2023-08-02 16:18:19] [WARNING] Large gap between audio n_frames(138) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:19] [WARNING] Large gap between audio n_frames(138) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:19] [WARNING] Large gap between audio n_frames(138) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:21] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:21] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:21] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:21] [WARNING] Large gap between audio n_frames(130) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:21] [WARNING] Large gap between audio n_frames(130) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:21] [WARNING] Large gap between audio n_frames(130) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:27] [WARNING] Large gap between audio n_frames(169) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:27] [WARNING] Large gap between audio n_frames(169) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:27] [WARNING] Large gap between audio n_frames(169) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:28] [WARNING] Large gap between audio n_frames(167) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:28] [WARNING] Large gap between audio n_frames(167) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:28] [WARNING] Large gap between audio n_frames(167) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:29] [WARNING] Large gap between audio n_frames(158) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:29] [WARNING] Large gap between audio n_frames(158) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:29] [WARNING] Large gap between audio n_frames(158) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:31] [WARNING] Large gap between audio n_frames(127) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:31] [WARNING] Large gap between audio n_frames(127) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:31] [WARNING] Large gap between audio n_frames(127) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:34] [WARNING] Large gap between audio n_frames(163) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:34] [WARNING] Large gap between audio n_frames(163) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:34] [WARNING] Large gap between audio n_frames(163) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:37] [WARNING] Large gap between audio n_frames(147) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:37] [WARNING] Large gap between audio n_frames(147) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:37] [WARNING] Large gap between audio n_frames(147) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:40] [WARNING] Large gap between audio n_frames(135) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:40] [WARNING] Large gap between audio n_frames(135) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:40] [WARNING] Large gap between audio n_frames(135) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:42] [WARNING] Large gap between audio n_frames(101) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:42] [WARNING] Large gap between audio n_frames(101) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:42] [WARNING] Large gap between audio n_frames(101) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:45] [WARNING] Large gap between audio n_frames(160) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:45] [WARNING] Large gap between audio n_frames(160) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:45] [WARNING] Large gap between audio n_frames(160) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:47] [WARNING] Large gap between audio n_frames(165) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:47] [WARNING] Large gap between audio n_frames(165) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:47] [WARNING] Large gap between audio n_frames(165) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:50] [WARNING] Large gap between audio n_frames(131) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:50] [WARNING] Large gap between audio n_frames(131) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:50] [WARNING] Large gap between audio n_frames(131) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:54] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:54] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:54] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:55] [WARNING] Large gap between audio n_frames(127) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:55] [WARNING] Large gap between audio n_frames(127) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:55] [WARNING] Large gap between audio n_frames(127) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:59] [WARNING] Large gap between audio n_frames(110) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:59] [WARNING] Large gap between audio n_frames(110) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:18:59] [WARNING] Large gap between audio n_frames(110) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:00] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:00] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:00] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:04] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:04] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:04] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:04] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:04] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:04] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:05] [WARNING] Large gap between audio n_frames(136) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:05] [WARNING] Large gap between audio n_frames(136) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:05] [WARNING] Large gap between audio n_frames(136) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:05] [WARNING] Large gap between audio n_frames(148) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:05] [WARNING] Large gap between audio n_frames(148) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:05] [WARNING] Large gap between audio n_frames(148) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:09] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:09] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:09] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(122) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(122) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(122) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(151) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(151) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:14] [WARNING] Large gap between audio n_frames(151) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:19:16] [INFO] 212 / 300
+[2023-08-02 16:19:16] [INFO] {'spoofed': 167, 'authentic': 133}
+[2023-08-02 16:19:16] [INFO] Start BigSuperbPrivate/DailyTalk_DialogueActClassification
+[2023-08-02 16:20:36] [INFO] 121 / 300
+[2023-08-02 16:20:36] [INFO] {'question': 106, 'inform': 121, 'commissive': 33, 'directive': 40}
+[2023-08-02 16:20:36] [INFO] Start BigSuperbPrivate/PronounciationEvaluationProsodic_Speechocean762
+[2023-08-02 16:21:24] [INFO] 138 / 300
+[2023-08-02 16:21:24] [INFO] {'9': 65, '7': 63, '5': 15, '8': 116, '6': 26, '1': 1, '4': 9, '10': 4, '2': 1}
+[2023-08-02 16:21:24] [INFO] Start BigSuperbPrivate/PronounciationEvaluationFluency_Speechocean762
+[2023-08-02 16:22:14] [INFO] 137 / 300
+[2023-08-02 16:22:14] [INFO] {'9': 81, '7': 57, '4': 12, '3': 1, '8': 106, '6': 12, '1': 1, '5': 15, '10': 14, '2': 1}
+[2023-08-02 16:22:14] [INFO] Start BigSuperbPrivate/PronounciationEvaluationOverall_Speechocean762
+[2023-08-02 16:23:04] [INFO] 126 / 300
+[2023-08-02 16:23:04] [INFO] {'9': 49, '7': 74, '4': 13, '8': 121, '6': 19, '5': 16, '10': 1, '3': 6, '2': 1}
+[2023-08-02 16:23:04] [INFO] Start BigSuperbPrivate/PronounciationEvaluationAccuracy_Speechocean762
+[2023-08-02 16:23:54] [INFO] 142 / 300
+[2023-08-02 16:23:54] [INFO] {'9': 93, '7': 32, '4': 10, '8': 127, '5': 13, '10': 5, '6': 14, '3': 6}
+[2023-08-02 16:23:54] [INFO] Start BigSuperbPrivate/HowFarAreYou_DeeplyParentChildVocalInteraction
+[2023-08-02 16:23:55] [INFO] Start BigSuperbPrivate/HowFarAreYou_KoreanReadSpeechCorpus
+[2023-08-02 16:23:55] [INFO] Start BigSuperbPrivate/SpeakerVerification_Tedlium2Train
+[2023-08-02 16:24:30] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:24:30] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:24:30] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:03] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:03] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:03] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:12] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:12] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:12] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:19] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:19] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:19] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:25:37] [INFO] 159 / 300
+[2023-08-02 16:25:37] [INFO] {'yes': 159, 'no': 141}
+[2023-08-02 16:25:37] [INFO] Start BigSuperbPrivate/SpeechDetection_Aishell1Train
+[2023-08-02 16:26:51] [INFO] 298 / 300
+[2023-08-02 16:26:51] [INFO] {'no': 151, 'yes': 149}
+[2023-08-02 16:26:51] [INFO] Start BigSuperbPrivate/SpeakerVerification_LibrispeechTrainClean100
+[2023-08-02 16:27:55] [INFO] 160 / 300
+[2023-08-02 16:27:55] [INFO] {'yes': 162, 'no': 138}
+[2023-08-02 16:27:55] [INFO] Start BigSuperbPrivate/SpeakerVerification_Aishell1Train
+[2023-08-02 16:29:24] [INFO] 142 / 300
+[2023-08-02 16:29:24] [INFO] {'yes': 142, 'no': 158}
+[2023-08-02 16:29:24] [INFO] Start BigSuperbPrivate/SpeechDetection_Voxceleb1Train
+[2023-08-02 16:30:30] [INFO] 260 / 300
+[2023-08-02 16:30:30] [INFO] {'yes': 157, 'no': 143}
+[2023-08-02 16:30:30] [INFO] Start BigSuperbPrivate/SpeakerVerification_Voxceleb1Train
+[2023-08-02 16:31:31] [INFO] 172 / 300
+[2023-08-02 16:31:31] [INFO] {'no': 124, 'yes': 176}
+[2023-08-02 16:31:31] [INFO] Start BigSuperbPrivate/SpokenTermDetection_Tedlium2Train
+[2023-08-02 16:31:55] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:31:55] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:31:55] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:27] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:27] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:27] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:34] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:34] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:34] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:38] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:38] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:38] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:32:52] [INFO] 283 / 300
+[2023-08-02 16:32:52] [INFO] {'no': 161, 'yes': 139}
+[2023-08-02 16:32:52] [INFO] Start BigSuperbPrivate/NoiseSNRLevelPredictionSpeech_VoxcelebMusan
+[2023-08-02 16:33:59] [INFO] 97 / 300
+[2023-08-02 16:33:59] [INFO] {'fifteen': 60, 'five': 54, 'clean': 56, 'zero': 61, 'ten': 69}
+[2023-08-02 16:33:59] [INFO] Start BigSuperbPrivate/SpeechDetection_LibrispeechTrainClean100
+[2023-08-02 16:35:06] [INFO] 278 / 300
+[2023-08-02 16:35:06] [INFO] {'yes': 142, 'no': 158}
+[2023-08-02 16:35:06] [INFO] Start BigSuperbPrivate/NoiseSNRLevelPredictionNoise_VoxcelebMusan
+[2023-08-02 16:36:24] [INFO] 96 / 300
+[2023-08-02 16:36:24] [INFO] {'fifteen': 60, 'five': 54, 'clean': 56, 'zero': 61, 'ten': 69}
+[2023-08-02 16:36:24] [INFO] Start BigSuperbPrivate/SpeechDetection_Tedlium2Train
+[2023-08-02 16:36:48] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:36:48] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:36:48] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:21] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:21] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:21] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:28] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:28] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:28] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:32] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:32] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:32] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:37:46] [INFO] 283 / 300
+[2023-08-02 16:37:46] [INFO] {'no': 161, 'yes': 139}
+[2023-08-02 16:37:46] [INFO] Start BigSuperbPrivate/EnhancementDetection_LibrittsTrainClean360Wham
+[2023-08-02 16:38:38] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:38] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:38] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:38] [WARNING] Large gap between audio n_frames(144) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:38] [WARNING] Large gap between audio n_frames(144) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:38] [WARNING] Large gap between audio n_frames(144) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:45] [WARNING] Large gap between audio n_frames(113) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:45] [WARNING] Large gap between audio n_frames(113) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:45] [WARNING] Large gap between audio n_frames(113) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:45] [WARNING] Large gap between audio n_frames(161) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:45] [WARNING] Large gap between audio n_frames(161) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:45] [WARNING] Large gap between audio n_frames(161) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:50] [WARNING] Large gap between audio n_frames(145) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:50] [WARNING] Large gap between audio n_frames(145) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:50] [WARNING] Large gap between audio n_frames(145) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:51] [WARNING] Large gap between audio n_frames(81) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:51] [WARNING] Large gap between audio n_frames(81) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:51] [WARNING] Large gap between audio n_frames(81) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:52] [WARNING] Large gap between audio n_frames(98) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:52] [WARNING] Large gap between audio n_frames(98) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:52] [WARNING] Large gap between audio n_frames(98) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:53] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:53] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:53] [WARNING] Large gap between audio n_frames(140) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:55] [WARNING] Large gap between audio n_frames(120) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:55] [WARNING] Large gap between audio n_frames(120) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:55] [WARNING] Large gap between audio n_frames(120) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:56] [WARNING] Large gap between audio n_frames(100) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:56] [WARNING] Large gap between audio n_frames(100) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:56] [WARNING] Large gap between audio n_frames(100) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:56] [WARNING] Large gap between audio n_frames(141) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:56] [WARNING] Large gap between audio n_frames(141) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:56] [WARNING] Large gap between audio n_frames(141) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:59] [WARNING] Large gap between audio n_frames(109) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:59] [WARNING] Large gap between audio n_frames(109) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:38:59] [WARNING] Large gap between audio n_frames(109) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:07] [WARNING] Large gap between audio n_frames(82) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:07] [WARNING] Large gap between audio n_frames(82) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:07] [WARNING] Large gap between audio n_frames(82) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:08] [WARNING] Large gap between audio n_frames(151) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:08] [WARNING] Large gap between audio n_frames(151) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:08] [WARNING] Large gap between audio n_frames(151) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:11] [WARNING] Large gap between audio n_frames(74) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:11] [WARNING] Large gap between audio n_frames(74) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:11] [WARNING] Large gap between audio n_frames(74) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:15] [WARNING] Large gap between audio n_frames(99) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:15] [WARNING] Large gap between audio n_frames(99) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:15] [WARNING] Large gap between audio n_frames(99) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:24] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:24] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:24] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:24] [WARNING] Large gap between audio n_frames(100) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:24] [WARNING] Large gap between audio n_frames(100) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:24] [WARNING] Large gap between audio n_frames(100) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:26] [WARNING] Large gap between audio n_frames(150) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:26] [WARNING] Large gap between audio n_frames(150) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:26] [WARNING] Large gap between audio n_frames(150) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:27] [WARNING] Large gap between audio n_frames(166) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:27] [WARNING] Large gap between audio n_frames(166) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:27] [WARNING] Large gap between audio n_frames(166) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:39:29] [INFO] 299 / 300
+[2023-08-02 16:39:29] [INFO] {'no': 185, 'yes': 115}
+[2023-08-02 16:39:29] [INFO] Start BigSuperbPrivate/SpeakerCounting_LibrittsTrainClean100
+[2023-08-02 16:40:24] [INFO] 76 / 300
+[2023-08-02 16:40:24] [INFO] {'two': 60, 'five': 69, 'three': 61, 'four': 59, 'one': 51}
+[2023-08-02 16:40:24] [INFO] Start BigSuperbPrivate/NoiseSNRLevelPredictionGaussian_VoxcelebMusan
+[2023-08-02 16:41:31] [INFO] 151 / 300
+[2023-08-02 16:41:31] [INFO] {'fifteen': 60, 'five': 54, 'clean': 56, 'zero': 61, 'ten': 69}
+[2023-08-02 16:41:31] [INFO] Start BigSuperbPrivate/NoiseSNRLevelPredictionMusic_VoxcelebMusan
+[2023-08-02 16:42:39] [INFO] 124 / 300
+[2023-08-02 16:42:39] [INFO] {'fifteen': 60, 'five': 54, 'clean': 56, 'zero': 61, 'ten': 69}
+[2023-08-02 16:42:39] [INFO] Start BigSuperbPrivate/SpeechTextMatching_Tedlium2Train
+[2023-08-02 16:43:04] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:04] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:04] [WARNING] Large gap between audio n_frames(126) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:36] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:36] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:36] [WARNING] Large gap between audio n_frames(45) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:44] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:44] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:44] [WARNING] Large gap between audio n_frames(108) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:47] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:47] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:43:47] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:44:02] [INFO] 156 / 300
+[2023-08-02 16:44:02] [INFO] {'no': 143, 'yes': 157}
+[2023-08-02 16:44:02] [INFO] Start BigSuperbPrivate/ReverberationDetectionSmallRoom_VoxcelebRirsNoises
+[2023-08-02 16:45:11] [INFO] 232 / 300
+[2023-08-02 16:45:11] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:45:11] [INFO] Start BigSuperbPrivate/ReverberationDetectionMediumRoom_VoxcelebRirsNoises
+[2023-08-02 16:46:19] [INFO] 215 / 300
+[2023-08-02 16:46:19] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:46:19] [INFO] Start BigSuperbPrivate/SpokenTermDetection_LibrispeechTrainClean100
+[2023-08-02 16:47:23] [INFO] 160 / 300
+[2023-08-02 16:47:23] [INFO] {'no': 145, 'yes': 155}
+[2023-08-02 16:47:23] [INFO] Start BigSuperbPrivate/ReverberationDetectionLargeRoom_VoxcelebRirsNoises
+[2023-08-02 16:48:33] [INFO] 213 / 300
+[2023-08-02 16:48:33] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:48:33] [INFO] Start BigSuperbPrivate/NoiseDetectionSpeech_VoxcelebMusan
+[2023-08-02 16:49:38] [INFO] 227 / 300
+[2023-08-02 16:49:38] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:49:38] [INFO] Start BigSuperbPrivate/NoiseDetectionNoise_VoxcelebMusan
+[2023-08-02 16:50:45] [INFO] 220 / 300
+[2023-08-02 16:50:45] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:50:45] [INFO] Start BigSuperbPrivate/NoiseDetectionMusic_VoxcelebMusan
+[2023-08-02 16:51:50] [INFO] 251 / 300
+[2023-08-02 16:51:50] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:51:50] [INFO] Start BigSuperbPrivate/NoiseDetectionGaussian_VoxcelebMusan
+[2023-08-02 16:52:55] [INFO] 289 / 300
+[2023-08-02 16:52:55] [INFO] {'clean': 130, 'noisy': 170}
+[2023-08-02 16:52:55] [INFO] Start BigSuperbPrivate/SpoofDetection_ASVspoof2015
+[2023-08-02 16:53:09] [WARNING] Large gap between audio n_frames(144) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:09] [WARNING] Large gap between audio n_frames(144) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:09] [WARNING] Large gap between audio n_frames(144) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:13] [WARNING] Large gap between audio n_frames(167) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:13] [WARNING] Large gap between audio n_frames(167) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:13] [WARNING] Large gap between audio n_frames(167) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:15] [WARNING] Large gap between audio n_frames(138) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:15] [WARNING] Large gap between audio n_frames(138) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:15] [WARNING] Large gap between audio n_frames(138) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:15] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:15] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:15] [WARNING] Large gap between audio n_frames(139) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:28] [WARNING] Large gap between audio n_frames(157) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:28] [WARNING] Large gap between audio n_frames(157) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:28] [WARNING] Large gap between audio n_frames(157) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:34] [WARNING] Large gap between audio n_frames(146) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:34] [WARNING] Large gap between audio n_frames(146) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:34] [WARNING] Large gap between audio n_frames(146) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:46] [WARNING] Large gap between audio n_frames(156) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:46] [WARNING] Large gap between audio n_frames(156) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:46] [WARNING] Large gap between audio n_frames(156) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:50] [WARNING] Large gap between audio n_frames(145) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:50] [WARNING] Large gap between audio n_frames(145) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:50] [WARNING] Large gap between audio n_frames(145) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:58] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:58] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:53:58] [WARNING] Large gap between audio n_frames(164) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:04] [WARNING] Large gap between audio n_frames(160) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:04] [WARNING] Large gap between audio n_frames(160) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:04] [WARNING] Large gap between audio n_frames(160) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:05] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:05] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:05] [WARNING] Large gap between audio n_frames(152) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:14] [WARNING] Large gap between audio n_frames(154) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:14] [WARNING] Large gap between audio n_frames(154) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:14] [WARNING] Large gap between audio n_frames(154) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:20] [WARNING] Large gap between audio n_frames(157) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:20] [WARNING] Large gap between audio n_frames(157) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:20] [WARNING] Large gap between audio n_frames(157) and target_length (204). Is the audio_target_length setting correct?
+[2023-08-02 16:54:35] [INFO] 289 / 300
+[2023-08-02 16:54:35] [INFO] {'spoofed': 276, 'authentic': 24}
+[2023-08-02 16:54:35] [INFO] Start BigSuperbPrivate/SpeechTextMatching_LibrispeechTrainClean100
+[2023-08-02 16:55:38] [INFO] 141 / 300
+[2023-08-02 16:55:38] [INFO] {'yes': 137, 'no': 163}

@@ -52,7 +52,8 @@ def train_one_epoch(model: LLaMA_adapter,
         m_loss_value = m_loss
         if not math.isfinite(loss_value):
             print("Loss is {}, stopping training".format(loss_value))
-            sys.exit(1)
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0)
+            # sys.exit(1)
 
         loss /= accum_iter
         loss_scaler(loss, optimizer, parameters=model.parameters(),

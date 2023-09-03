@@ -1,0 +1,299 @@
+[2023-08-25 06:05:02] [INFO] pretrained_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/checkpoint-4.pth
+[2023-08-25 06:05:02] [INFO] result_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/results/subset
+[2023-08-25 06:05:02] [INFO] is_decode_300: True
+[2023-08-25 06:38:05] [INFO] pretrained_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/checkpoint-3.pth
+[2023-08-25 06:38:05] [INFO] result_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/results/subset
+[2023-08-25 06:38:05] [INFO] is_decode_300: True
+[2023-08-25 06:39:12] [INFO] Reloaded SentencePiece model from /home/u8915687/lab/big-superb/Macaw-LLM2/weights/llama/tokenizer.model
+[2023-08-25 06:39:12] [INFO] #words: 32000 - BOS ID: 1 - EOS ID: 2
+[2023-08-25 06:39:31] [INFO] Loading faiss with AVX2 support.
+[2023-08-25 06:39:31] [INFO] Successfully loaded faiss with AVX2 support.
+[2023-08-25 06:40:19] [INFO] SpeechBigBench/AccentClassification_AccentdbExtended
+[2023-08-25 22:30:55] [INFO] pretrained_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/checkpoint-3.pth
+[2023-08-25 22:30:55] [INFO] result_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/results/subset
+[2023-08-25 22:30:55] [INFO] is_decode_300: True
+[2023-08-25 22:32:01] [INFO] Reloaded SentencePiece model from /home/u8915687/lab/big-superb/Macaw-LLM2/weights/llama/tokenizer.model
+[2023-08-25 22:32:01] [INFO] #words: 32000 - BOS ID: 1 - EOS ID: 2
+[2023-08-25 22:32:19] [INFO] Loading faiss with AVX2 support.
+[2023-08-25 22:32:20] [INFO] Successfully loaded faiss with AVX2 support.
+[2023-08-25 22:32:38] [INFO] SpeechBigBench/AccentClassification_AccentdbExtended
+[2023-08-25 22:33:36] [INFO] 25 / 300
+[2023-08-25 22:33:36] [INFO] ====================================================================================================
+[2023-08-25 22:33:36] [INFO] SpeechBigBench/BirdSoundDetection_Warblrb10k
+[2023-08-25 22:34:53] [INFO] 151 / 300
+[2023-08-25 22:34:53] [INFO] ====================================================================================================
+[2023-08-25 22:34:53] [INFO] SpeechBigBench/ChordClassification_AcousticGuitarAndPiano
+[2023-08-25 22:35:20] [INFO] 161 / 300
+[2023-08-25 22:35:20] [INFO] ====================================================================================================
+[2023-08-25 22:35:20] [INFO] SpeechBigBench/Deeply_Parent_Child_Vocal_Interaction
+[2023-08-25 22:35:21] [INFO] Error SpeechBigBench/Deeply_Parent_Child_Vocal_Interaction, column not found
+[2023-08-25 22:35:21] [INFO] SpeechBigBench/DialogueActClassification_DailyTalk
+[2023-08-25 22:36:10] [INFO] 133 / 300
+[2023-08-25 22:36:10] [INFO] ====================================================================================================
+[2023-08-25 22:36:10] [INFO] SpeechBigBench/DialogueEmotionClassification_DailyTalk
+[2023-08-25 22:37:00] [INFO] 240 / 300
+[2023-08-25 22:37:00] [INFO] ====================================================================================================
+[2023-08-25 22:37:00] [INFO] SpeechBigBench/EmotionRecognition_MultimodalEmotionlinesDataset
+[2023-08-25 22:37:43] [INFO] 32 / 300
+[2023-08-25 22:37:43] [INFO] ====================================================================================================
+[2023-08-25 22:37:43] [INFO] SpeechBigBench/EnhancementDetection_LibrittsTestCleanWham
+[2023-08-25 22:38:21] [INFO] 241 / 300
+[2023-08-25 22:38:21] [INFO] ====================================================================================================
+[2023-08-25 22:38:21] [INFO] SpeechBigBench/EnvironmentalSoundClassification_AnimalsESC50
+[2023-08-25 22:39:09] [INFO] 42 / 300
+[2023-08-25 22:39:09] [INFO] ====================================================================================================
+[2023-08-25 22:39:09] [INFO] SpeechBigBench/EnvironmentalSoundClassification_ExteriorAndUrbanNoisesESC50
+[2023-08-25 22:39:58] [INFO] 57 / 300
+[2023-08-25 22:39:58] [INFO] ====================================================================================================
+[2023-08-25 22:39:58] [INFO] SpeechBigBench/EnvironmentalSoundClassification_HumanAndNonSpeechSoundsESC50
+[2023-08-25 22:40:47] [INFO] 15 / 300
+[2023-08-25 22:40:47] [INFO] ====================================================================================================
+[2023-08-25 22:40:47] [INFO] SpeechBigBench/EnvironmentalSoundClassification_InteriorAndDomesticSoundsESC50
+[2023-08-25 22:41:33] [INFO] 20 / 300
+[2023-08-25 22:41:33] [INFO] ====================================================================================================
+[2023-08-25 22:41:33] [INFO] SpeechBigBench/EnvironmentalSoundClassification_NaturalSoundscapesAndWaterSoundsESC50
+[2023-08-25 22:42:23] [INFO] 41 / 300
+[2023-08-25 22:42:23] [INFO] ====================================================================================================
+[2023-08-25 22:42:23] [INFO] SpeechBigBench/HowFarAreYou_3DSpeaker
+[2023-08-25 22:42:26] [INFO] Error SpeechBigBench/HowFarAreYou_3DSpeaker
+[2023-08-25 22:42:26] [INFO] SpeechBigBench/IntentClassification_FluentSpeechCommands
+[2023-08-25 22:42:29] [INFO] Error SpeechBigBench/IntentClassification_FluentSpeechCommands, column not found
+[2023-08-25 22:42:29] [INFO] SpeechBigBench/Korean_Read_Speech_Corpus
+[2023-08-25 22:42:29] [INFO] Error SpeechBigBench/Korean_Read_Speech_Corpus, column not found
+[2023-08-25 22:42:29] [INFO] SpeechBigBench/LanguageIdentification_VoxForge
+[2023-08-25 22:43:10] [INFO] 0 / 300
+[2023-08-25 22:43:10] [INFO] ====================================================================================================
+[2023-08-25 22:43:10] [INFO] SpeechBigBench/NoiseDetectiongaussian_LJSpeechMusan
+[2023-08-25 22:43:46] [INFO] 214 / 300
+[2023-08-25 22:43:46] [INFO] ====================================================================================================
+[2023-08-25 22:43:46] [INFO] SpeechBigBench/NoiseDetectiongaussian_VCTKMusan
+[2023-08-25 22:44:05] [INFO] Error SpeechBigBench/NoiseDetectiongaussian_VCTKMusan
+[2023-08-25 22:44:05] [INFO] SpeechBigBench/NoiseDetectionmusic_LJSpeechMusan
+[2023-08-25 22:44:40] [INFO] 142 / 300
+[2023-08-25 22:44:40] [INFO] ====================================================================================================
+[2023-08-25 22:44:40] [INFO] SpeechBigBench/NoiseDetectionmusic_VCTKMusan
+[2023-08-25 22:45:00] [INFO] Error SpeechBigBench/NoiseDetectionmusic_VCTKMusan
+[2023-08-25 22:45:00] [INFO] SpeechBigBench/NoiseDetectionnoise_LJSpeechMusan
+[2023-08-25 22:45:34] [INFO] 141 / 300
+[2023-08-25 22:45:34] [INFO] ====================================================================================================
+[2023-08-25 22:45:34] [INFO] SpeechBigBench/NoiseDetectionnoise_VCTKMusan
+[2023-08-25 22:45:54] [INFO] Error SpeechBigBench/NoiseDetectionnoise_VCTKMusan
+[2023-08-25 22:45:54] [INFO] SpeechBigBench/NoiseDetectionspeech_LJSpeechMusan
+[2023-08-25 22:46:30] [INFO] 228 / 300
+[2023-08-25 22:46:30] [INFO] ====================================================================================================
+[2023-08-25 22:46:30] [INFO] SpeechBigBench/NoiseDetectionspeech_VCTKMusan
+[2023-08-25 22:46:50] [INFO] Error SpeechBigBench/NoiseDetectionspeech_VCTKMusan
+[2023-08-25 22:46:50] [INFO] SpeechBigBench/NoiseSNRLevelPredictiongaussian_VCTKMusan
+[2023-08-25 22:47:10] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictiongaussian_VCTKMusan
+[2023-08-25 22:47:10] [INFO] SpeechBigBench/NoiseSNRLevelPredictionmusic_VCTKMusan
+[2023-08-25 22:47:29] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictionmusic_VCTKMusan
+[2023-08-25 22:47:29] [INFO] SpeechBigBench/NoiseSNRLevelPredictionnoise_VCTKMusan
+[2023-08-25 22:47:49] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictionnoise_VCTKMusan
+[2023-08-25 22:47:49] [INFO] SpeechBigBench/NoiseSNRLevelPredictionspeech_VCTKMusan
+[2023-08-25 22:48:09] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictionspeech_VCTKMusan
+[2023-08-25 22:48:09] [INFO] SpeechBigBench/ReverberationDetectionlargeroom_LJSpeechRirsNoises
+[2023-08-25 22:48:38] [INFO] 138 / 300
+[2023-08-25 22:48:38] [INFO] ====================================================================================================
+[2023-08-25 22:48:38] [INFO] SpeechBigBench/ReverberationDetectionlargeroom_VCTKRirsNoises
+[2023-08-25 22:49:05] [INFO] 225 / 300
+[2023-08-25 22:49:05] [INFO] ====================================================================================================
+[2023-08-25 22:49:05] [INFO] SpeechBigBench/ReverberationDetectionmediumroom_LJSpeechRirsNoises
+[2023-08-25 22:49:35] [INFO] 142 / 300
+[2023-08-25 22:49:35] [INFO] ====================================================================================================
+[2023-08-25 22:49:35] [INFO] SpeechBigBench/ReverberationDetectionmediumroom_VCTKRirsNoises
+[2023-08-25 22:50:02] [INFO] 218 / 300
+[2023-08-25 22:50:02] [INFO] ====================================================================================================
+[2023-08-25 22:50:02] [INFO] SpeechBigBench/ReverberationDetectionsmallroom_LJSpeechRirsNoises
+[2023-08-25 22:50:31] [INFO] 142 / 300
+[2023-08-25 22:50:31] [INFO] ====================================================================================================
+[2023-08-25 22:50:31] [INFO] SpeechBigBench/ReverberationDetectionsmallroom_VCTKRirsNoises
+[2023-08-25 22:50:58] [INFO] 215 / 300
+[2023-08-25 22:50:58] [INFO] ====================================================================================================
+[2023-08-25 22:50:58] [INFO] SpeechBigBench/SarcasmDetection_Mustard
+[2023-08-25 22:51:23] [INFO] 0 / 300
+[2023-08-25 22:51:23] [INFO] ====================================================================================================
+[2023-08-25 22:51:23] [INFO] SpeechBigBench/SpeakerCounting_LibriTTSTestClean
+[2023-08-25 22:51:59] [INFO] 76 / 300
+[2023-08-25 22:51:59] [INFO] ====================================================================================================
+[2023-08-25 22:51:59] [INFO] SpeechBigBench/SpeechCommandRecognition_GoogleSpeechCommandsV1
+[2023-08-25 22:52:25] [INFO] 10 / 300
+[2023-08-25 22:52:25] [INFO] ====================================================================================================
+[2023-08-25 22:52:25] [INFO] SpeechBigBench/SpeechDetection_LJSpeech
+[2023-08-25 22:53:15] [INFO] 285 / 300
+[2023-08-25 22:53:15] [INFO] ====================================================================================================
+[2023-08-25 22:53:15] [INFO] SpeechBigBench/SpeechDetection_LibriSpeechTestClean
+[2023-08-25 22:54:00] [INFO] 276 / 300
+[2023-08-25 22:54:00] [INFO] ====================================================================================================
+[2023-08-25 22:54:00] [INFO] SpeechBigBench/SpeechDetection_LibriSpeechTestOther
+[2023-08-25 22:54:39] [INFO] 253 / 300
+[2023-08-25 22:54:39] [INFO] ====================================================================================================
+[2023-08-25 22:54:39] [INFO] SpeechBigBench/SpeechTextMatching_LJSpeech
+[2023-08-25 22:55:39] [INFO] 155 / 300
+[2023-08-25 22:55:39] [INFO] ====================================================================================================
+[2023-08-25 22:55:39] [INFO] SpeechBigBench/SpeechTextMatching_LibriSpeechTestClean
+[2023-08-25 22:57:04] [INFO] 146 / 300
+[2023-08-25 22:57:04] [INFO] ====================================================================================================
+[2023-08-25 22:57:04] [INFO] SpeechBigBench/SpeechTextMatching_LibriSpeechTestOther
+[2023-08-25 22:58:29] [INFO] 150 / 300
+[2023-08-25 22:58:29] [INFO] ====================================================================================================
+[2023-08-25 22:58:29] [INFO] SpeechBigBench/SpokenTermDetection_LJSpeech
+[2023-08-25 22:59:19] [INFO] 181 / 300
+[2023-08-25 22:59:19] [INFO] ====================================================================================================
+[2023-08-25 22:59:19] [INFO] SpeechBigBench/SpokenTermDetection_LibriSpeechTestClean
+[2023-08-25 23:00:04] [INFO] 143 / 300
+[2023-08-25 23:00:04] [INFO] ====================================================================================================
+[2023-08-25 23:00:04] [INFO] SpeechBigBench/SpokenTermDetection_LibriSpeechTestOther
+[2023-08-25 23:00:52] [INFO] 148 / 300
+[2023-08-25 23:00:52] [INFO] ====================================================================================================
+[2023-08-25 23:00:52] [INFO] SpeechBigBench/SpoofDetection_ASVspoof2015
+[2023-08-25 23:01:11] [INFO] Error SpeechBigBench/SpoofDetection_ASVspoof2015
+[2023-08-25 23:01:11] [INFO] SpeechBigBench/SpoofDetection_ASVspoof2017
+[2023-08-25 23:01:48] [INFO] 128 / 300
+[2023-08-25 23:01:48] [INFO] ====================================================================================================
+[2023-08-25 23:01:48] [INFO] SpeechBigBench/StressDetection_MIRSD
+[2023-08-25 23:02:24] [INFO] 62 / 300
+[2023-08-25 23:02:24] [INFO] ====================================================================================================
+[2023-08-28 21:35:07] [INFO] pretrained_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/checkpoint-3.pth
+[2023-08-28 21:35:07] [INFO] result_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/results/subset
+[2023-08-28 21:35:07] [INFO] is_decode_300: True
+[2023-08-28 21:36:32] [INFO] Reloaded SentencePiece model from /home/u8915687/lab/big-superb/Macaw-LLM2/weights/llama/tokenizer.model
+[2023-08-28 21:36:32] [INFO] #words: 32000 - BOS ID: 1 - EOS ID: 2
+[2023-08-28 21:36:56] [INFO] Loading faiss with AVX2 support.
+[2023-08-28 21:36:57] [INFO] Successfully loaded faiss with AVX2 support.
+[2023-08-28 21:37:12] [INFO] SpeechBigBench/AccentClassification_AccentdbExtended
+[2023-08-28 21:37:24] [INFO] SpeechBigBench/BirdSoundDetection_Warblrb10k
+[2023-08-28 21:37:34] [INFO] SpeechBigBench/ChordClassification_AcousticGuitarAndPiano
+[2023-08-28 21:37:35] [INFO] SpeechBigBench/Deeply_Parent_Child_Vocal_Interaction
+[2023-08-28 21:37:35] [INFO] SpeechBigBench/DialogueActClassification_DailyTalk
+[2023-08-28 21:37:37] [INFO] SpeechBigBench/DialogueEmotionClassification_DailyTalk
+[2023-08-28 21:37:39] [INFO] SpeechBigBench/EmotionRecognition_MultimodalEmotionlinesDataset
+[2023-08-28 21:37:48] [INFO] SpeechBigBench/EnhancementDetection_LibrittsTestCleanWham
+[2023-08-28 21:37:50] [INFO] SpeechBigBench/EnvironmentalSoundClassification_AnimalsESC50
+[2023-08-28 21:37:51] [INFO] SpeechBigBench/EnvironmentalSoundClassification_ExteriorAndUrbanNoisesESC50
+[2023-08-28 21:37:51] [INFO] SpeechBigBench/EnvironmentalSoundClassification_HumanAndNonSpeechSoundsESC50
+[2023-08-28 21:37:52] [INFO] SpeechBigBench/EnvironmentalSoundClassification_InteriorAndDomesticSoundsESC50
+[2023-08-28 21:37:52] [INFO] SpeechBigBench/EnvironmentalSoundClassification_NaturalSoundscapesAndWaterSoundsESC50
+[2023-08-28 21:37:52] [INFO] SpeechBigBench/HowFarAreYou_3DSpeaker
+[2023-08-28 21:37:55] [INFO] Error SpeechBigBench/HowFarAreYou_3DSpeaker
+[2023-08-28 21:37:55] [INFO] SpeechBigBench/IntentClassification_FluentSpeechCommands
+[2023-08-28 21:37:58] [INFO] SpeechBigBench/Korean_Read_Speech_Corpus
+[2023-08-28 21:37:59] [INFO] SpeechBigBench/LanguageIdentification_VoxForge
+[2023-08-28 21:38:08] [INFO] SpeechBigBench/NoiseDetectiongaussian_LJSpeechMusan
+[2023-08-28 21:38:13] [INFO] SpeechBigBench/NoiseDetectiongaussian_VCTKMusan
+[2023-08-28 21:38:33] [INFO] Error SpeechBigBench/NoiseDetectiongaussian_VCTKMusan
+[2023-08-28 21:38:33] [INFO] SpeechBigBench/NoiseDetectionmusic_LJSpeechMusan
+[2023-08-28 21:38:37] [INFO] SpeechBigBench/NoiseDetectionmusic_VCTKMusan
+[2023-08-28 21:38:58] [INFO] Error SpeechBigBench/NoiseDetectionmusic_VCTKMusan
+[2023-08-28 21:38:58] [INFO] SpeechBigBench/NoiseDetectionnoise_LJSpeechMusan
+[2023-08-28 21:39:03] [INFO] SpeechBigBench/NoiseDetectionnoise_VCTKMusan
+[2023-08-28 21:39:24] [INFO] Error SpeechBigBench/NoiseDetectionnoise_VCTKMusan
+[2023-08-28 21:39:24] [INFO] SpeechBigBench/NoiseDetectionspeech_LJSpeechMusan
+[2023-08-28 21:39:29] [INFO] SpeechBigBench/NoiseDetectionspeech_VCTKMusan
+[2023-08-28 21:39:50] [INFO] Error SpeechBigBench/NoiseDetectionspeech_VCTKMusan
+[2023-08-28 21:39:50] [INFO] SpeechBigBench/NoiseSNRLevelPredictiongaussian_VCTKMusan
+[2023-08-28 21:40:11] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictiongaussian_VCTKMusan
+[2023-08-28 21:40:11] [INFO] SpeechBigBench/NoiseSNRLevelPredictionmusic_VCTKMusan
+[2023-08-28 21:40:32] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictionmusic_VCTKMusan
+[2023-08-28 21:40:32] [INFO] SpeechBigBench/NoiseSNRLevelPredictionnoise_VCTKMusan
+[2023-08-28 21:40:53] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictionnoise_VCTKMusan
+[2023-08-28 21:40:53] [INFO] SpeechBigBench/NoiseSNRLevelPredictionspeech_VCTKMusan
+[2023-08-28 21:41:13] [INFO] Error SpeechBigBench/NoiseSNRLevelPredictionspeech_VCTKMusan
+[2023-08-28 21:41:13] [INFO] SpeechBigBench/ReverberationDetectionlargeroom_LJSpeechRirsNoises
+[2023-08-28 21:41:18] [INFO] SpeechBigBench/ReverberationDetectionlargeroom_VCTKRirsNoises
+[2023-08-28 21:41:23] [INFO] SpeechBigBench/ReverberationDetectionmediumroom_LJSpeechRirsNoises
+[2023-08-28 21:41:28] [INFO] SpeechBigBench/ReverberationDetectionmediumroom_VCTKRirsNoises
+[2023-08-28 21:41:32] [INFO] SpeechBigBench/ReverberationDetectionsmallroom_LJSpeechRirsNoises
+[2023-08-28 21:41:37] [INFO] SpeechBigBench/ReverberationDetectionsmallroom_VCTKRirsNoises
+[2023-08-28 21:41:41] [INFO] SpeechBigBench/SarcasmDetection_Mustard
+[2023-08-28 21:41:41] [INFO] SpeechBigBench/SpeakerCounting_LibriTTSTestClean
+[2023-08-28 21:41:42] [INFO] SpeechBigBench/SpeechCommandRecognition_GoogleSpeechCommandsV1
+[2023-08-28 21:41:45] [INFO] SpeechBigBench/SpeechDetection_LJSpeech
+[2023-08-28 21:41:51] [INFO] SpeechBigBench/SpeechDetection_LibriSpeechTestClean
+[2023-08-28 21:41:51] [INFO] SpeechBigBench/SpeechDetection_LibriSpeechTestOther
+[2023-08-28 21:41:52] [INFO] SpeechBigBench/SpeechTextMatching_LJSpeech
+[2023-08-28 21:41:57] [INFO] SpeechBigBench/SpeechTextMatching_LibriSpeechTestClean
+[2023-08-28 21:41:58] [INFO] SpeechBigBench/SpeechTextMatching_LibriSpeechTestOther
+[2023-08-28 21:41:59] [INFO] SpeechBigBench/SpokenTermDetection_LJSpeech
+[2023-08-28 21:42:04] [INFO] SpeechBigBench/SpokenTermDetection_LibriSpeechTestClean
+[2023-08-28 21:42:05] [INFO] SpeechBigBench/SpokenTermDetection_LibriSpeechTestOther
+[2023-08-28 21:42:06] [INFO] SpeechBigBench/SpoofDetection_ASVspoof2015
+[2023-08-28 21:42:27] [INFO] Error SpeechBigBench/SpoofDetection_ASVspoof2015
+[2023-08-28 21:42:27] [INFO] SpeechBigBench/SpoofDetection_ASVspoof2017
+[2023-08-28 21:42:29] [INFO] SpeechBigBench/StressDetection_MIRSD
+[2023-08-28 21:48:35] [INFO] pretrained_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/checkpoint-3.pth
+[2023-08-28 21:48:35] [INFO] result_path: /home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/test2/results/subset
+[2023-08-28 21:48:35] [INFO] is_decode_300: True
+[2023-08-28 21:50:07] [INFO] Reloaded SentencePiece model from /home/u8915687/lab/big-superb/Macaw-LLM2/weights/llama/tokenizer.model
+[2023-08-28 21:50:07] [INFO] #words: 32000 - BOS ID: 1 - EOS ID: 2
+[2023-08-28 21:50:31] [INFO] Loading faiss with AVX2 support.
+[2023-08-28 21:50:32] [INFO] Successfully loaded faiss with AVX2 support.
+[2023-08-28 21:50:51] [INFO] SpeechBigBench/AccentClassification_AccentdbExtended
+[2023-08-28 21:51:02] [INFO] SpeechBigBench/BirdSoundDetection_Warblrb10k
+[2023-08-28 21:51:12] [INFO] SpeechBigBench/ChordClassification_AcousticGuitarAndPiano
+[2023-08-28 21:51:13] [INFO] SpeechBigBench/Deeply_Parent_Child_Vocal_Interaction
+[2023-08-28 21:51:13] [INFO] SpeechBigBench/DialogueActClassification_DailyTalk
+[2023-08-28 21:51:16] [INFO] SpeechBigBench/DialogueEmotionClassification_DailyTalk
+[2023-08-28 21:51:18] [INFO] SpeechBigBench/EmotionRecognition_MultimodalEmotionlinesDataset
+[2023-08-28 21:51:26] [INFO] SpeechBigBench/EnhancementDetection_LibrittsTestCleanWham
+[2023-08-28 21:51:28] [INFO] SpeechBigBench/EnvironmentalSoundClassification_AnimalsESC50
+[2023-08-28 21:51:29] [INFO] SpeechBigBench/EnvironmentalSoundClassification_ExteriorAndUrbanNoisesESC50
+[2023-08-28 21:51:29] [INFO] SpeechBigBench/EnvironmentalSoundClassification_HumanAndNonSpeechSoundsESC50
+[2023-08-28 21:51:30] [INFO] SpeechBigBench/EnvironmentalSoundClassification_InteriorAndDomesticSoundsESC50
+[2023-08-28 21:51:30] [INFO] SpeechBigBench/EnvironmentalSoundClassification_NaturalSoundscapesAndWaterSoundsESC50
+[2023-08-28 21:51:30] [INFO] SpeechBigBench/HowFarAreYou_3DSpeaker
+[2023-08-28 21:52:13] [INFO] 0 / 300
+[2023-08-28 21:52:13] [INFO] ====================================================================================================
+[2023-08-28 21:52:13] [INFO] SpeechBigBench/IntentClassification_FluentSpeechCommands
+[2023-08-28 21:52:16] [INFO] SpeechBigBench/Korean_Read_Speech_Corpus
+[2023-08-28 21:52:17] [INFO] SpeechBigBench/LanguageIdentification_VoxForge
+[2023-08-28 21:52:26] [INFO] SpeechBigBench/NoiseDetectiongaussian_LJSpeechMusan
+[2023-08-28 21:52:31] [INFO] SpeechBigBench/NoiseDetectiongaussian_VCTKMusan
+[2023-08-28 21:53:20] [INFO] 284 / 300
+[2023-08-28 21:53:20] [INFO] ====================================================================================================
+[2023-08-28 21:53:20] [INFO] SpeechBigBench/NoiseDetectionmusic_LJSpeechMusan
+[2023-08-28 21:53:25] [INFO] SpeechBigBench/NoiseDetectionmusic_VCTKMusan
+[2023-08-28 21:54:14] [INFO] 229 / 300
+[2023-08-28 21:54:14] [INFO] ====================================================================================================
+[2023-08-28 21:54:14] [INFO] SpeechBigBench/NoiseDetectionnoise_LJSpeechMusan
+[2023-08-28 21:54:19] [INFO] SpeechBigBench/NoiseDetectionnoise_VCTKMusan
+[2023-08-28 21:55:08] [INFO] 196 / 300
+[2023-08-28 21:55:08] [INFO] ====================================================================================================
+[2023-08-28 21:55:08] [INFO] SpeechBigBench/NoiseDetectionspeech_LJSpeechMusan
+[2023-08-28 21:55:13] [INFO] SpeechBigBench/NoiseDetectionspeech_VCTKMusan
+[2023-08-28 21:56:01] [INFO] 263 / 300
+[2023-08-28 21:56:01] [INFO] ====================================================================================================
+[2023-08-28 21:56:01] [INFO] SpeechBigBench/NoiseSNRLevelPredictiongaussian_VCTKMusan
+[2023-08-28 21:56:57] [INFO] 168 / 300
+[2023-08-28 21:56:57] [INFO] ====================================================================================================
+[2023-08-28 21:56:57] [INFO] SpeechBigBench/NoiseSNRLevelPredictionmusic_VCTKMusan
+[2023-08-28 21:57:50] [INFO] 112 / 300
+[2023-08-28 21:57:50] [INFO] ====================================================================================================
+[2023-08-28 21:57:50] [INFO] SpeechBigBench/NoiseSNRLevelPredictionnoise_VCTKMusan
+[2023-08-28 21:58:44] [INFO] 84 / 300
+[2023-08-28 21:58:44] [INFO] ====================================================================================================
+[2023-08-28 21:58:44] [INFO] SpeechBigBench/NoiseSNRLevelPredictionspeech_VCTKMusan
+[2023-08-28 21:59:37] [INFO] 124 / 300
+[2023-08-28 21:59:37] [INFO] ====================================================================================================
+[2023-08-28 21:59:37] [INFO] SpeechBigBench/ReverberationDetectionlargeroom_LJSpeechRirsNoises
+[2023-08-28 21:59:42] [INFO] SpeechBigBench/ReverberationDetectionlargeroom_VCTKRirsNoises
+[2023-08-28 21:59:45] [INFO] SpeechBigBench/ReverberationDetectionmediumroom_LJSpeechRirsNoises
+[2023-08-28 21:59:51] [INFO] SpeechBigBench/ReverberationDetectionmediumroom_VCTKRirsNoises
+[2023-08-28 21:59:55] [INFO] SpeechBigBench/ReverberationDetectionsmallroom_LJSpeechRirsNoises
+[2023-08-28 22:00:00] [INFO] SpeechBigBench/ReverberationDetectionsmallroom_VCTKRirsNoises
+[2023-08-28 22:00:04] [INFO] SpeechBigBench/SarcasmDetection_Mustard
+[2023-08-28 22:00:04] [INFO] SpeechBigBench/SpeakerCounting_LibriTTSTestClean
+[2023-08-28 22:00:05] [INFO] SpeechBigBench/SpeechCommandRecognition_GoogleSpeechCommandsV1
+[2023-08-28 22:00:08] [INFO] SpeechBigBench/SpeechDetection_LJSpeech
+[2023-08-28 22:00:13] [INFO] SpeechBigBench/SpeechDetection_LibriSpeechTestClean
+[2023-08-28 22:00:14] [INFO] SpeechBigBench/SpeechDetection_LibriSpeechTestOther
+[2023-08-28 22:00:15] [INFO] SpeechBigBench/SpeechTextMatching_LJSpeech
+[2023-08-28 22:00:21] [INFO] SpeechBigBench/SpeechTextMatching_LibriSpeechTestClean
+[2023-08-28 22:00:21] [INFO] SpeechBigBench/SpeechTextMatching_LibriSpeechTestOther
+[2023-08-28 22:00:22] [INFO] SpeechBigBench/SpokenTermDetection_LJSpeech
+[2023-08-28 22:00:28] [INFO] SpeechBigBench/SpokenTermDetection_LibriSpeechTestClean
+[2023-08-28 22:00:28] [INFO] SpeechBigBench/SpokenTermDetection_LibriSpeechTestOther
+[2023-08-28 22:00:29] [INFO] SpeechBigBench/SpoofDetection_ASVspoof2015
+[2023-08-28 22:01:22] [INFO] 263 / 300
+[2023-08-28 22:01:22] [INFO] ====================================================================================================
+[2023-08-28 22:01:22] [INFO] SpeechBigBench/SpoofDetection_ASVspoof2017
+[2023-08-28 22:01:24] [INFO] SpeechBigBench/StressDetection_MIRSD
