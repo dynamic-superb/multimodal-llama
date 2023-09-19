@@ -93,7 +93,7 @@ class LLaMA_adapter(nn.Module):
         if phase == 'finetune':
             for name, para in self.named_parameters():
                 if name.startswith("llama."):
-                    if 'norm' in name or 'bias' in name or 'lora' in name:
+                    if 'norm' in name or 'bias' in name or 'lora' in name or "gate" in name:
                         trainable[name] = para
         elif phase == 'pretrain':
             for name, para in self.named_parameters():

@@ -173,7 +173,7 @@ import pandas as pd
 import random
 from pytorchvideo.data.clip_sampling import ConstantClipsPerVideoSampler
 import torchaudio
-
+import whisper
 
 try:
     from torchvision.transforms import InterpolationMode
@@ -182,16 +182,18 @@ except ImportError:
     BICUBIC = Image.BICUBIC
 
 class BigSuperbDataset(Dataset):
-    def __init__(self, data_path, tokenizer, data_path2=None, max_length=128, used_data_split="train", audio_input_type="imagebind"):
+    def __init__(self, data_path, tokenizer, data_path2=None, max_length=128, used_data_split="train", phase="train", audio_input_type="imagebind", allowed_datasets=[]):
         self.max_length = max_length
         self.tokenizer = tokenizer
         self.datas = []
         self.used_datasets = []
         self.used_data_split = used_data_split
         self.audio_input_type = audio_input_type
+        self.allowed_datasets = allowed_datasets
+        self.phase = phase
 
         for task_path in data_path.iterdir():
-            if self._filter_dataset(task_path):
+            if not self.check_allowed_datasets(task_path):
                 continue
             
             self.used_datasets.append(task_path.stem)
@@ -201,24 +203,29 @@ class BigSuperbDataset(Dataset):
                     continue
                 
                 json_data = json.load((data_split/"metadata.json").open())
-                for d in json_data.values():
-                    d["file"] = str(data_split/d["file"])
+                for filename, d in json_data.items():
+                    d["id"] = filename
+                    d["file"] = f"{data_split}/{filename}"
+
                     if d.get("file2"):
-                        if "." not in d["file2"]:
-                            d["file2"] = d["file2"] + ".wav"
-                            
-                        if (data_split/d["file2"]).exists():
-                            d["file2"] = str(data_split/d["file2"])
-                        elif (task_path/"missing_files"/d["file2"]).exists():
-                            d["file2"] = str(task_path/"missing_files"/d["file2"])
-                        else:
-                            assert False, d["file2"]
+                        filename2 = filename.replace(".wav", "_pair.wav").replace(".flac", "_pair.flac")
+                        d["file2"] = f"{data_split}/{filename2}"
+                        # assert Path(d["file2"]).exists(), d["file2"]
+                        # if "." not in d["file2"]:
+                        #     d["file2"] = d["file2"] + ".wav"
+                        
+                        # if (data_split/f"{task_path.stem}_{self.used_data_split}_{d['file2']}").exists():
+                        #     d["file2"] = f"{data_split}/{task_path.stem}_{self.used_data_split}_{d['file2']}"
+                        # elif (task_path/"missing_files"/d["file2"]).exists():
+                        #     d["file2"] = str(task_path/"missing_files"/d["file2"])
+                        # else:
+                        #     assert False, f"{task_path}"+ d["file2"]
                             
                     self.datas.append(d)
         # exclude
         if data_path2 is not None:
             for task_path in data_path2.iterdir():
-                if self._filter_dataset(task_path):
+                if not self.check_allowed_datasets(task_path):
                     continue
                 
                 self.used_datasets.append(task_path.stem)
@@ -246,45 +253,65 @@ class BigSuperbDataset(Dataset):
     def __getitem__(self, idx):
         data = self.datas[idx]
         new_data = {}
+        new_data["id"] = data["id"]
+        
+        # Text 
+        if self.used_data_split == "train":
+            instruction = data["instruction"].lower()
+            text = data["text"].lower() if data.get("text") else None
+            input1 = llama.format_prompt(instruction, text)
+            input2 = input1 + data["label"]
 
-        instruction = data["instruction"].lower()
-        text = data["text"].lower() if data.get("text") else None
-        input1 = llama.format_prompt(instruction, text)
-        input2 = input1 + data["label"]
-        
-        input1 = torch.tensor(
-            self.tokenizer.encode(input1, bos=True, eos=False), dtype=torch.long
-        )
-        input2 = torch.tensor(self.tokenizer.encode(input2, bos=True, eos=True), dtype=torch.long)
-        padding = self.max_length - input2.size(0)
-        if padding > 0:
-            input2 = torch.cat((input2, torch.zeros(padding, dtype=torch.long) - 1))
-        else:
-            input2 = input2[:self.max_length]
-        
-        labels = copy.deepcopy(input2)
-        labels[:input1.size(0)] = -1
-        
-        input2_mask = input2.ge(0)
-        label_mask = labels.ge(0)
-        input2[~input2_mask] = 0
-        labels[~label_mask] = 0
-        
-        input2_mask = input2_mask.float()
-        label_mask = label_mask.float()
-        
-        new_data["instruction"] = data["instruction"]
-        new_data["input_ids"] = input2
-        new_data["labels"] = labels
-        new_data["input_mask"] = input2_mask
+            input1 = torch.tensor(
+                self.tokenizer.encode(input1, bos=True, eos=False), dtype=torch.long
+            )
+            input2 = torch.tensor(self.tokenizer.encode(input2, bos=True, eos=True), dtype=torch.long)
+            padding = self.max_length - input2.size(0)
+            if padding > 0:
+                input2 = torch.cat((input2, torch.zeros(padding, dtype=torch.long) - 1))
+            else:
+                input2 = input2[:self.max_length]
 
+            labels = copy.deepcopy(input2)
+            labels[:input1.size(0)] = -1
+
+            input2_mask = input2.ge(0)
+            label_mask = labels.ge(0)
+            input2[~input2_mask] = 0
+            labels[~label_mask] = 0
+
+            input2_mask = input2_mask.float()
+            label_mask = label_mask.float()
+
+            new_data["instruction"] = data["instruction"]
+            new_data["input_ids"] = input2
+            new_data["labels"] = labels
+            new_data["input_mask"] = input2_mask
+
+            # for inference training set
+            if self.phase == "inference":
+                instruction = data["instruction"].lower()
+                text = data["text"].lower() if data.get("text") else None
+                input1 = llama.format_prompt(instruction, text)
+
+                new_data["prompt"] = input1
+                new_data["instruction"] = data["instruction"]
+                new_data["label"] = data["label"]
+        elif self.used_data_split == "test":
+            instruction = data["instruction"].lower()
+            text = data["text"].lower() if data.get("text") else None
+            input1 = llama.format_prompt(instruction, text)
+            
+            new_data["prompt"] = input1
+            new_data["instruction"] = data["instruction"]
+            new_data["label"] = data["label"]
+
+        # Load Audio
         if self.audio_input_type == "imagebind":
             if data.get("file2"):
-                audio = self._load_and_transform_audio([data["file"], data["file2"]])
+                audio = self._load_imagebind_audio([data["file"], data["file2"]])
             else:
-                audio = self._load_and_transform_audio([data["file"]])
-                
-            
+                audio = self._load_imagebind_audio([data["file"]])
         elif self.audio_input_type == "whisper":
             if data.get("file2"):
                 audio = self._load_whisper_audio([data["file"], data["file2"]])
@@ -294,24 +321,28 @@ class BigSuperbDataset(Dataset):
         return new_data
     
     def _load_whisper_audio(self, audio_paths):
-        wavforms = []
+
+        waveforms = []
         for audio_path in audio_paths:
             waveform = torch.tensor(whisper.load_audio(audio_path))
             if waveform.size(0) == 0:
                 waveform = torch.zeros([16000*3])
                 print(audio_path)
             
-            wavforms.append(
+            if len(audio_paths) == 2:
+                # pad_or_trim to 15 seconds for tasks have 2 audio.
+                waveform = whisper.pad_or_trim(waveform, length=15*16000)
+            waveforms.append(
                 waveform
             )
-        audio = torch.cat(wavforms, dim=0)
+        audio = torch.cat(waveforms, dim=0)
         audio = whisper.pad_or_trim(audio)
         mel = whisper.log_mel_spectrogram(audio)
         
         return mel
 
     
-    def _load_and_transform_audio(self, 
+    def _load_imagebind_audio(self, 
             audio_paths,
             num_mel_bins=128,
             target_length=204,
@@ -336,6 +367,14 @@ class BigSuperbDataset(Dataset):
                 waveform = torchaudio.functional.resample(
                     waveform, orig_freq=sr, new_freq=sample_rate
                 )
+
+            if len(audio_paths) == 2:
+                if waveform.size(1) < 5*16000:
+                    waveform = torch.cat(
+                        [waveform, torch.zeros([1, 5*16000 - waveform.size(1)])], dim=1
+                    )
+                else:
+                    waveform = waveform[:, :5*16000]
 
             waveforms.append(waveform)
         waveform = torch.cat(waveforms, dim=1)
@@ -392,15 +431,7 @@ class BigSuperbDataset(Dataset):
         # Pad to target_length
         n_frames = fbank.size(1)
         p = target_length - n_frames
-        # if p is too large (say >20%), flash a warning
-        # if abs(p) / n_frames > 0.2:
-            # logging.warning(
-            #     "Large gap between audio n_frames(%d) and "
-            #     "target_length (%d). Is the audio_target_length "
-            #     "setting correct?",
-            #     n_frames,
-            #     target_length,
-            # )
+        
         # cut and pad
         if p > 0:
             fbank = torch.nn.functional.pad(fbank, (0, p), mode="constant", value=0)
@@ -410,9 +441,10 @@ class BigSuperbDataset(Dataset):
         # channel image
         fbank = fbank.unsqueeze(0)
         return fbank
-    
-    def _filter_dataset(self, task_path):
-        if task_path.stem.startswith("HowFarAreYou"):
-            return True
-        else:
-            return False
+
+    def check_allowed_datasets(self, task_path):
+        for d in self.allowed_datasets:
+            if task_path.stem.lower() in d.lower():
+                return True
+        # print(f"find {task_path.stem} not in allowed list.")
+        return False

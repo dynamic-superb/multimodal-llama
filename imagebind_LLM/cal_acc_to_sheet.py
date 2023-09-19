@@ -1,59 +1,13 @@
 from pathlib import Path
 import json
+import argparse
 
-all_datasets = """BirdSoundDetection_Warblrb10k
-ChordClassification_AcousticGuitarAndPiano
-EnvironmentalSoundClassification_AnimalsESC50
-EnvironmentalSoundClassification_ExteriorAndUrbanNoisesESC50
-EnvironmentalSoundClassification_HumanAndNonSpeechSoundsESC50
-EnvironmentalSoundClassification_InteriorAndDomesticSoundsESC50
-EnvironmentalSoundClassification_NaturalSoundscapesAndWaterSoundsESC50
-SpeechDetection_LJSpeech
-SpeechDetection_LibriSpeechTestClean
-SpeechDetection_LibriSpeechTestOther
-SpeechTextMatching_LJSpeech
-SpeechTextMatching_LibriSpeechTestClean
-SpeechTextMatching_LibriSpeechTestOther
-SpokenTermDetection_LJSpeech
-SpokenTermDetection_LibriSpeechTestClean
-SpokenTermDetection_LibriSpeechTestOther
-SpeechCommandRecognition_GoogleSpeechCommandsV1
-EnhancementDetection_LibrittsTestCleanWham
-NoiseDetectiongaussian_LJSpeechMusan
-NoiseDetectiongaussian_VCTKMusan
-NoiseDetectionmusic_LJSpeechMusan
-NoiseDetectionmusic_VCTKMusan
-NoiseDetectionnoise_LJSpeechMusan
-NoiseDetectionnoise_VCTKMusan
-NoiseDetectionspeech_LJSpeechMusan
-NoiseDetectionspeech_VCTKMusan
-NoiseSNRLevelPredictiongaussian_VCTKMusan
-NoiseSNRLevelPredictionmusic_VCTKMusan
-NoiseSNRLevelPredictionnoise_VCTKMusan
-NoiseSNRLevelPredictionspeech_VCTKMusan
-ReverberationDetectionlargeroom_LJSpeechRirsNoises
-ReverberationDetectionlargeroom_VCTKRirsNoises
-ReverberationDetectionmediumroom_LJSpeechRirsNoises
-ReverberationDetectionmediumroom_VCTKRirsNoises
-ReverberationDetectionsmallroom_LJSpeechRirsNoises
-ReverberationDetectionsmallroom_VCTKRirsNoises
-AccentClassification_AccentdbExtended
-DialogueEmotionClassification_DailyTalk
-EmotionRecognition_MultimodalEmotionlinesDataset
-HowFarAreYou_3DSpeaker
-StressDetection_MIRSD
-SpoofDetection_ASVspoof2015
-SpoofDetection_ASVspoof2017
-DialogueActClassification_DailyTalk
-Intent_Classification_FluentSpeechCommands_Action
-Intent_Classification_FluentSpeechCommands_Location
-Intent_Classification_FluentSpeechCommands_Object
-SarcasmDetection_Mustard
-SpeakerCounting_LibriTTSTestClean""".split("\n")
+def get_args_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--result_path', type=str, required=True)
+    parser.add_argument("--decode_300", action="store_true")
 
-from pathlib import Path
-import json
-
+    return parser.parse_args()
 
 def cal_accuracy(predictions, training_instructions=None):
     seen_count = 0
@@ -99,12 +53,6 @@ def cal_accuracy(predictions, training_instructions=None):
     acc = {k: f"{v:.4f}" if v is not None else "" for k,v in acc.items()}
     return acc
 
-train_data_path = Path("/work/u8915687/big-superb/big-superb-train-data")
-task2path = {}
-for d in train_data_path.iterdir():
-    task2path[d.stem.split("_")[0].lower()] = d
-    
-exp_path = Path("/home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/new_train2/results/full")
 # In exp_path: 
 # - task_A.json
 # - task_B.json
@@ -119,29 +67,55 @@ exp_path = Path("/home/u8915687/lab/big-superb/LLaMA-Adapter/imagebind_LLM/exp/n
 #                 }, ...]
 # }
 
-for dataset_name in all_datasets:
-    task_data_name = dataset_name
-    task_name = task_data_name.split("_")[0].lower()
 
-    row = [task_data_name]
-    result_file = (exp_path/f"{task_data_name}.json")
-    if (result_file.exists() and
-        not task_name.startswith("how")
-       ):
-        results = json.load(result_file.open())
-        if task2path.get(task_name):
-            metadata_file = task2path.get(task_name) / "train/metadata.json"
-            metadata = json.load(metadata_file.open())
+def main(args):
+    # training dataset for getting instruction
+    train_data_path = Path("/home/u2619111/hank/Dataset/big-superb-train-data-renamed")
+    task2path = {}
+    for d in train_data_path.iterdir():
+        task2path[d.stem.lower()] = d
+        task2path[d.stem.split("_")[0].lower()] = d
 
-            # gather training instructions and remove label prompts.
-            training_instructions = set([v["instruction"].split("The answer")[0].strip() for v in metadata.values()])
+    # start calculating
+    exp_path = Path(args.result_path)
+    all_datasets = open("data/test_dataset.txt").read().split("\n")
 
-            acc = cal_accuracy(results["predictions"], training_instructions)
-            row += [acc["total_accuracy"], acc["seen_accuracy"], acc["unseen_accuracy"]]
+    data_stats = {}
+    for dataset_name in all_datasets:
+        task_data_name = dataset_name
+        task_name = task_data_name.split("_")[0].lower()
+
+        row = [task_data_name]
+        result_file = (exp_path/f"{task_data_name}.json")
+        if (result_file.exists()):
+            results = json.load(result_file.open())
+            if task2path.get(task_name) or task2path.get(task_data_name.lower()):
+                if task2path.get(task_data_name.lower()):
+                    # in training set
+                    metadata_file = task2path.get(task_data_name.lower()) / "train/metadata.json"
+                    metadata = json.load(metadata_file.open())
+                else:
+                    metadata_file = task2path.get(task_name) / "train/metadata.json"
+                    metadata = json.load(metadata_file.open())
+
+                # gather training instructions and remove label prompts.
+                training_instructions = set([v["instruction"].split("The answer")[0].strip() for v in metadata.values()])
+
+                acc = cal_accuracy(results["predictions"], training_instructions)
+                row += [acc["total_accuracy"], acc["seen_accuracy"], acc["unseen_accuracy"]]
+            else:
+                acc = cal_accuracy(results["predictions"])
+                row += [acc["total_accuracy"], "", acc["unseen_accuracy"]]
+            
+            data_stats[task_data_name] = {
+                "seen_total": int(float(acc["seen_count"])),
+                "unseen_total": int(float(acc["unseen_count"]))
+            }
         else:
-            acc = cal_accuracy(results["predictions"])
-            row += [acc["total_accuracy"], "", acc["unseen_accuracy"]]
-        
-    else:
-        row += ["", "", ""]
-    print(";".join(row))
+            row += ["", "", ""]
+        print(";".join(row))
+
+
+if __name__ == "__main__":
+    args = get_args_parser()
+    main(args=args)

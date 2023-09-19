@@ -5,7 +5,7 @@ from torch.utils.data import Dataset
 
 import util.misc as misc
 from util.misc import NativeScalerWithGradNormCount as NativeScaler
-# from llama.llama_adapter import LLaMA_adapter
+from llama.llama_adapter import LLaMA_adapter
 from llama.whisper_llama_adapter import WhisperLLaMA_adapter
 
 from data.dataset import FinetuneDataset, transform_train, BigSuperbDataset
@@ -89,7 +89,8 @@ def get_args_parser():
     parser.add_argument('--dist_on_itp', action='store_true')
     parser.add_argument('--dist_url', default='env://',
                         help='url used to set up distributed training')
-
+    
+    parser.add_argument('--encoder_type', default='whisper', type=str) # hank
     return parser
 
 
@@ -112,7 +113,12 @@ def main(args):
     llama_type = args.llama_type
     llama_ckpt_dir = os.path.join(args.llama_path, llama_type)
     llama_tokenzier_path = os.path.join(args.llama_path, 'tokenizer.model')
-    model = WhisperLLaMA_adapter(llama_ckpt_dir, llama_tokenzier_path)
+    if args.encoder_type == "whisper":
+        model = WhisperLLaMA_adapter(llama_ckpt_dir, llama_tokenzier_path)
+    elif args.encoder_type == "imagebind":
+        model = LLaMA_adapter(llama_ckpt_dir, llama_tokenzier_path)
+    else:
+        raise NotImplementedError(f"{args.encoder_type} not found")
 
     model.to(device)
 
@@ -152,10 +158,11 @@ def main(args):
     misc.load_model(model_without_ddp, args.pretrained_path)
 
     # hank
-    tokenizer = Tokenizer(model_path="/home/u8915687/lab/big-superb/Macaw-LLM2/weights/llama_7B/tokenizer.model")
-    data_path = Path("/work/u8915687/big-superb/big-superb-train-data")
-    data_path2 = Path("/work/u8915687/big-superb/big-superb-excluded-train-data-renamed")
-    all_train_dataset = BigSuperbDataset(data_path, tokenizer, data_path2=None, audio_input_type="whisper")
+    tokenizer = Tokenizer(model_path="/home/u2619111/hank/lab/big-superb/LLaMA-Adapter/imagebind_LLM/ckpts/llama/tokenizer.model")
+    data_path = Path("/home/u2619111/hank/Dataset/big-superb-train-data-renamed")
+    # data_path2 = Path("/work/u8915687/big-superb/big-superb-excluded-train-data-renamed")
+    all_datasets = open("data/train_dataset.txt").read().split("\n")
+    all_train_dataset = BigSuperbDataset(data_path, tokenizer, data_path2=None, audio_input_type=args.encoder_type, allowed_datasets=all_datasets)
     # all_val_dataset = BigSuperbDataset(data_path=data_path, data_path2=None, tokenizer=tokenizer, used_data_split="validation")
     print("All train dataset size:", len(all_train_dataset))
 
@@ -172,25 +179,11 @@ def main(args):
 
     data_loader_train = torch.utils.data.DataLoader(
         all_train_dataset, sampler=sampler_train,
-        # collate_fn=collate_fn,
         batch_size=args.batch_size,
         num_workers=args.num_workers,
         pin_memory=args.pin_mem,
         drop_last=True,
     )
-
-    # sampler_val = torch.utils.data.DistributedSampler(
-    #     all_val_dataset, num_replicas=num_tasks, rank=global_rank, shuffle=False
-    # )
-    # print("Sampler_val = %s" % str(sampler_val))
-    # data_loader_val = torch.utils.data.DataLoader(
-    #     all_val_dataset, sampler=sampler_val,
-    #     # collate_fn=collate_fn,
-    #     batch_size=args.batch_size,
-    #     num_workers=args.num_workers,
-    #     pin_memory=args.pin_mem,
-    #     drop_last=True,
-    # )
 
     # SummaryWrite
     if global_rank == 0 and args.log_dir is not None:
@@ -206,12 +199,6 @@ def main(args):
         if args.distributed:
             data_loader_train.sampler.set_epoch(epoch)
 
-        # misc.save_model_with_grad(
-        #         args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
-        #         loss_scaler=loss_scaler, epoch=epoch)
-        misc.save_model(
-                args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
-                loss_scaler=loss_scaler, epoch=epoch)
         
         train_stats = train_one_epoch(
             model, data_loader_train,
@@ -219,14 +206,22 @@ def main(args):
             log_writer=log_writer,
             args=args
         )
-        # val_stats = val_one_epoch(
-        #     model, data_loader_val, device=device, epoch=epoch
-        # )
 
-        if args.output_dir and (epoch + 1 == args.epochs):
-            misc.save_model(
+        misc.save_model_with_grad(
+                args=args, model=model, 
+                model_without_ddp=model_without_ddp,
+                optimizer=optimizer,
+                loss_scaler=loss_scaler,
+                epoch=epoch)
+        
+        misc.save_model(
                 args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
-                loss_scaler=loss_scaler, epoch=epoch)
+                loss_scaler=loss_scaler, epoch=epoch, name="latest")
+
+        # if args.output_dir and (epoch + 1 == args.epochs):
+        #     misc.save_model(
+        #         args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
+        #         loss_scaler=loss_scaler, epoch=epoch)
 
         log_stats = {**{f'train_{k}': v for k, v in train_stats.items()},
                      'epoch': epoch,

@@ -1,4 +1,4 @@
-import os
+
 import torch
 from llama.llama_adapter import LLaMA_adapter
 import util.misc as misc
@@ -11,6 +11,8 @@ from tqdm import tqdm
 import json
 import logging
 import argparse
+from data.dataset import BigSuperbDataset
+
 
 disable_caching()
 
@@ -18,7 +20,8 @@ def get_args_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--exp_path', type=str, required=True)
     parser.add_argument('--model_path', type=str, required=True)
-    parser.add_argument("--decode_300", action="store_true")
+    parser.add_argument("--decode_subset", action="store_true")
+    parser.add_argument("--output_dir", type=str, default="results")
     
     return parser.parse_args()
 
@@ -46,9 +49,7 @@ def forward_inference(self, visual_feats, tokens, start_pos: int):
         visual_proj.append(
             visual_feats[i, :, i, :]
         )
-    visual_proj = torch.stack(visual_proj)
-#     print(visual_proj)
-        # B, 1, D
+    visual_proj = torch.stack(visual_proj) # B, 1, D
     for layer in self.llama.layers[-1 * self.query_layer:]:
         h = layer(h, start_pos, freqs_cis, mask, visual_proj + prefix_query[prefix_index].repeat(_bsz, 1, 1))
         prefix_index = prefix_index + 1
@@ -76,8 +77,8 @@ def my_generate(
     assert bsz <= params.max_batch_size, (bsz, params.max_batch_size)
 
     with torch.cuda.amp.autocast():
-        # visual_query = self.forward_visual(inputs, cache_size, cache_t, cache_weight)
-        visual_query = self.forward_whisper(inputs)
+        # visual_query = self.forward_whisper(inputs)
+        visual_query = self.forward_visual(inputs, cache_size, cache_t, cache_weight)
 
     if isinstance(prompts[0], str):
         prompts = [self.tokenizer.encode(x, bos=True, eos=False) for x in prompts]
@@ -136,94 +137,18 @@ def my_generate(
     return decoded
 
 
-        
-def collate_fn(b):
-    batch = {}
-    
-    audios = []
-    prompts = []
-    labels = []
-    for data in b:
-        
-        # audio = my_load_and_transform_audio_data(
-        #                 torch.tensor(data["audio"]["array"], dtype=torch.float32
-        #             ).unsqueeze(0))[0]
-        # audios.append(audio)
-        text = data.get("text").lower() if data.get("text") else None
-        instruction = data["instruction"].lower()
-        
-        prompts.append(llama.format_prompt(instruction, text))
-        labels.append(data["label"])
-    
-    batch["audio"] = torch.stack(audios)
-    batch["prompts"] = prompts
-    batch["instructions"] = [d["instruction"] for d in b]
-    batch["labels"] = [d["label"] for d in b]
-    return batch
-
 
 def main(args):
-    all_datasets = ['SpeechBigBench/AccentClassification_AccentdbExtended',
-    'SpeechBigBench/BirdSoundDetection_Warblrb10k',
-    'SpeechBigBench/ChordClassification_AcousticGuitarAndPiano',
-    'SpeechBigBench/Deeply_Parent_Child_Vocal_Interaction',
-    'SpeechBigBench/DialogueActClassification_DailyTalk',
-    'SpeechBigBench/DialogueEmotionClassification_DailyTalk',
-    'SpeechBigBench/EmotionRecognition_MultimodalEmotionlinesDataset',
-    'SpeechBigBench/EnhancementDetection_LibrittsTestCleanWham',
-    'SpeechBigBench/EnvironmentalSoundClassification_AnimalsESC50',
-    'SpeechBigBench/EnvironmentalSoundClassification_ExteriorAndUrbanNoisesESC50',
-    'SpeechBigBench/EnvironmentalSoundClassification_HumanAndNonSpeechSoundsESC50',
-    'SpeechBigBench/EnvironmentalSoundClassification_InteriorAndDomesticSoundsESC50',
-    'SpeechBigBench/EnvironmentalSoundClassification_NaturalSoundscapesAndWaterSoundsESC50',
-    'SpeechBigBench/HowFarAreYou_3DSpeaker',
-    'SpeechBigBench/IntentClassification_FluentSpeechCommands',
-    'SpeechBigBench/Korean_Read_Speech_Corpus',
-    'SpeechBigBench/LanguageIdentification_VoxForge',
-    'SpeechBigBench/NoiseDetectiongaussian_LJSpeechMusan',
-    'SpeechBigBench/NoiseDetectiongaussian_VCTKMusan',
-    'SpeechBigBench/NoiseDetectionmusic_LJSpeechMusan',
-    'SpeechBigBench/NoiseDetectionmusic_VCTKMusan',
-    'SpeechBigBench/NoiseDetectionnoise_LJSpeechMusan',
-    'SpeechBigBench/NoiseDetectionnoise_VCTKMusan',
-    'SpeechBigBench/NoiseDetectionspeech_LJSpeechMusan',
-    'SpeechBigBench/NoiseDetectionspeech_VCTKMusan',
-    'SpeechBigBench/NoiseSNRLevelPredictiongaussian_VCTKMusan',
-    'SpeechBigBench/NoiseSNRLevelPredictionmusic_VCTKMusan',
-    'SpeechBigBench/NoiseSNRLevelPredictionnoise_VCTKMusan',
-    'SpeechBigBench/NoiseSNRLevelPredictionspeech_VCTKMusan',
-    'SpeechBigBench/ReverberationDetectionlargeroom_LJSpeechRirsNoises',
-    'SpeechBigBench/ReverberationDetectionlargeroom_VCTKRirsNoises',
-    'SpeechBigBench/ReverberationDetectionmediumroom_LJSpeechRirsNoises',
-    'SpeechBigBench/ReverberationDetectionmediumroom_VCTKRirsNoises',
-    'SpeechBigBench/ReverberationDetectionsmallroom_LJSpeechRirsNoises',
-    'SpeechBigBench/ReverberationDetectionsmallroom_VCTKRirsNoises',
-    'SpeechBigBench/SarcasmDetection_Mustard',
-    'SpeechBigBench/SpeakerCounting_LibriTTSTestClean',
-    'SpeechBigBench/SpeechCommandRecognition_GoogleSpeechCommandsV1',
-    'SpeechBigBench/SpeechDetection_LJSpeech',
-    'SpeechBigBench/SpeechDetection_LibriSpeechTestClean',
-    'SpeechBigBench/SpeechDetection_LibriSpeechTestOther',
-    'SpeechBigBench/SpeechTextMatching_LJSpeech',
-    'SpeechBigBench/SpeechTextMatching_LibriSpeechTestClean',
-    'SpeechBigBench/SpeechTextMatching_LibriSpeechTestOther',
-    'SpeechBigBench/SpokenTermDetection_LJSpeech',
-    'SpeechBigBench/SpokenTermDetection_LibriSpeechTestClean',
-    'SpeechBigBench/SpokenTermDetection_LibriSpeechTestOther',
-    'SpeechBigBench/SpoofDetection_ASVspoof2015',
-    'SpeechBigBench/SpoofDetection_ASVspoof2017',
-    'SpeechBigBench/StressDetection_MIRSD']
-
     # Config #
     
-    DATA_PATH = Path("/work/u2619111/big-superb-dataset-test")
+    DATA_PATH = Path("/home/u2619111/hank/Dataset/big-superb-train-data-renamed")
     ROOT_PATH = Path("/home/u2619111/hank/lab/big-superb/LLaMA-Adapter/imagebind_LLM")
     EXP_PATH = ROOT_PATH/args.exp_path # exp/finetune2
     pretrained_path = EXP_PATH/args.model_path # "checkpoint-4.pth"
-    is_decode_300 = args.decode_300 # true / false
+    is_decode_subset = args.decode_subset # true / false
 
-    RESULT_PATH = EXP_PATH/"results"
-    if is_decode_300:
+    RESULT_PATH = EXP_PATH/args.output_dir
+    if is_decode_subset:
         RESULT_PATH /= "subset"
     else:
         RESULT_PATH /= "full"
@@ -235,47 +160,49 @@ def main(args):
     logging.basicConfig(filename=str(RESULT_PATH/"inference.log"), level=logging.INFO, format="[%(asctime)s] [%(levelname)s] %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
     logging.info(f"pretrained_path: {pretrained_path}")
     logging.info(f"result_path: {RESULT_PATH}")
-    logging.info(f"is_decode_300: {is_decode_300}")
+    logging.info(f"is_decode_subset: {is_decode_subset}")
 
     # Config #
 
-    llama_dir = "/home/u2619111/hank/lab/big-superb/LLaMA-Adapter/imagebind_LLM/ckpts/llama/"
+    llama_dir = "/home/u2619111/hank/lab/big-superb/LLaMA-Adapter/imagebind_LLM/ckpts/llama"
 
-    model = llama.whisper_llama_adapter.load(pretrained_path, llama_dir, knn=True, max_batch_size=16)
+    model = llama.llama_adapter.load(pretrained_path, llama_dir, knn=True, max_batch_size=16)
+    # misc.load_model(model, "/home/u2619111/hank/lab/big-superb/LLaMA-Adapter/imagebind_LLM/ckpts/7B.pth")
     model.eval()
 
-    for dataset_name in all_datasets:
+    # all_datasets = open("data/test_dataset.txt").read().split("\n")
+    all_datasets = open("data/train_dataset.txt").read().split("\n")
 
-        logging.info(dataset_name)
-        task_name = dataset_name.split("/")[-1]
-        
-        dataset = load_from_disk(
-            DATA_PATH/dataset_name
-        )
-        
-        if dataset.get("test"):
-            dataset = dataset["test"]
-        elif dataset.get("train"):
-            dataset = dataset["train"]
-        else:
-            logging.info(f"Error {dataset_name}")
-            continue
+    for task_name in all_datasets:
 
-        if ("instruction" not in dataset.column_names) or ("label" not in dataset.column_names) or ("audio" not in dataset.column_names):
-            logging.info(f"Error {dataset_name}, column not found")
-            continue
+        logging.info(task_name)
+        
         if (RESULT_PATH/f"{task_name}.json").exists():
-            logging.info(f"SKIP {dataset_name}")
+            logging.info(f"SKIP {task_name}")
             continue
         
-        if is_decode_300:
-            dataset = Dataset.from_dict(dataset.shuffle(42)[:300])
+        dataset = BigSuperbDataset(DATA_PATH, tokenizer, audio_input_type="whisper", used_data_split="test", allowed_datasets=[task_name], phase="test")
 
+        if len(dataset) == 0:
+            logging.info("Dataset not found")
+            continue
+        
+        def collate_fn(b):
+            batch = {}
+            batch["ids"] = [d["id"] for d in b]
+            batch["audio"] = torch.stack([d["audio"] for d in b])
+            batch["prompts"] = [d["prompt"] for d in b]
+            batch["instructions"] = [d["instruction"] for d in b]
+            batch["labels"] = [d["label"] for d in b]
+            return batch
+        
+        torch.manual_seed(42)
         data_loader = torch.utils.data.DataLoader(
             dataset,
             batch_size=16,
-            shuffle=False,
-            collate_fn=collate_fn
+            shuffle=True,
+            collate_fn=collate_fn,
+            num_workers=4,
         )
         
         correct = 0
@@ -297,7 +224,7 @@ def main(args):
             )
 
             
-            for r,l, ins in zip(results, batch["labels"], batch["instructions"]):
+            for r,l, ins, id in zip(results, batch["labels"], batch["instructions"], batch["ids"]):
                 r = r.strip()
                 if r == l:
                     correct += 1
@@ -306,17 +233,22 @@ def main(args):
                 label_count[l] = label_count.get(l, 0) + 1
                 pred_count[r] = pred_count.get(r, 0) + 1
                 predictions.append({
+                    "id": id,
                     "pred": r,
                     "label": l,
                     "instruction": ins
                 })
+
+            if is_decode_subset and count >= 500:
+                break
+        
         logging.info(f"{correct} / {len(predictions)}")
         json.dump(
             {
-                "predictions": predictions,
-                "label_count": label_count,
+                "accuracy": correct / len(predictions),
                 "pred_count": pred_count,
-                "accuracy": correct / len(predictions)
+                "label_count": label_count,
+                "predictions": predictions,
             },
             (RESULT_PATH/f"{task_name}.json").open("w"), indent=2
         )

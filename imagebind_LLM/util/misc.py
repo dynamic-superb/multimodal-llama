@@ -21,7 +21,7 @@ from tqdm import tqdm
 import torch
 import torch.utils.data
 import torch.distributed as dist
-from torch._six import inf
+from torch import inf
 
 
 class SmoothedValue(object):
@@ -296,9 +296,9 @@ def get_grad_norm_(parameters, norm_type: float = 2.0) -> torch.Tensor:
     return total_norm
 
 
-def save_model(args, epoch, model, model_without_ddp, optimizer, loss_scaler):
+def save_model(args, epoch, model, model_without_ddp, optimizer, loss_scaler, name=None):
     output_dir = Path(args.output_dir)
-    epoch_name = str(epoch)
+    epoch_name = name if name is not None else str(epoch)
     if loss_scaler is not None:
         checkpoint_paths = [output_dir / ('checkpoint-%s.pth' % epoch_name)]
         for checkpoint_path in checkpoint_paths:
@@ -319,20 +319,17 @@ def save_model_with_grad(args, epoch, model, model_without_ddp, optimizer, loss_
     output_dir = Path(args.output_dir)
     epoch_name = str(epoch)
     if loss_scaler is not None:
-        checkpoint_paths = [output_dir / ('checkpoint-%s.pth' % epoch_name)]
+        checkpoint_paths = [output_dir / ('model-%s.pth' % epoch_name)]
         for checkpoint_path in checkpoint_paths:
 
             model_state_dict = model_without_ddp.state_dict()
             model_state_dict_with_grad = OrderedDict()
             for key, val in model_without_ddp.named_parameters():
-                if val.requires_grad:
+                if val.requires_grad or "prefix_query" in key or ".gate" in key:
                     model_state_dict_with_grad[key] = model_state_dict[key]
 
             to_save = {
                 'model': model_state_dict_with_grad,
-                'optimizer': optimizer.state_dict(),
-                'epoch': epoch,
-                'scaler': loss_scaler.state_dict(),
                 'args': args,
             }
 

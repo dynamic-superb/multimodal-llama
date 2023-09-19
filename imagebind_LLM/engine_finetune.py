@@ -35,10 +35,6 @@ def train_one_epoch(model: LLaMA_adapter,
         example_mask = batch["input_mask"]
         imgs = batch["audio"]
 
-        # print(examples.size(), examples.tolist())
-        # print(labels.size(), labels.tolist())
-        # print(imgs.size())
-
         # we use a per iteration (instead of per epoch) lr scheduler
         if data_iter_step % accum_iter == 0:
             lr_sched.adjust_learning_rate(optimizer, data_iter_step / len(data_loader) + epoch, args)
@@ -50,14 +46,19 @@ def train_one_epoch(model: LLaMA_adapter,
         loss_value = loss.item()
         c_loss_value = c_loss.item()
         m_loss_value = m_loss
-        if not math.isfinite(loss_value):
-            print("Loss is {}, stopping training".format(loss_value))
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0)
+        # if not math.isfinite(loss_value):
+        #     print("Loss is {}({}), stopping training".format(loss_value, loss))
+        #     torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0)
             # sys.exit(1)
 
         loss /= accum_iter
-        loss_scaler(loss, optimizer, parameters=model.parameters(),
+        norm = loss_scaler(loss, optimizer, parameters=model.parameters(), clip_grad=5.0,
                     update_grad=(data_iter_step + 1) % accum_iter == 0)
+        
+        if not math.isfinite(loss_value):
+            print("Loss is {}({}), norm={}".format(loss_value, loss, norm))
+
+
         if (data_iter_step + 1) % accum_iter == 0:
             optimizer.zero_grad()
 
@@ -80,7 +81,6 @@ def train_one_epoch(model: LLaMA_adapter,
             log_writer.add_scalar('c_train_loss', c_loss_value_reduce, epoch_1000x)
             log_writer.add_scalar('m_train_loss', m_loss_value_reduce, epoch_1000x)
             log_writer.add_scalar('lr', lr, epoch_1000x)
-
 
     # gather the stats from all processes
     metric_logger.synchronize_between_processes()

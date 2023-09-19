@@ -14,7 +14,7 @@ from .utils import sample_top_p
 
 from ImageBind.models import imagebind_model
 from transformers import CLIPProcessor, CLIPModel, CLIPConfig, LlamaConfig, WhisperConfig, WhisperModel, LlamaModel, LlamaTokenizer, WhisperFeatureExtractor
-
+import logging
 
 
 class WhisperLLaMA_adapter(nn.Module):
@@ -32,9 +32,9 @@ class WhisperLLaMA_adapter(nn.Module):
 
         self.whisper_proj_norm = RMSNorm(4096)
         bridge_bias = False
-        self.whisper_proj_f1 = nn.Linear(4096, 4096 * 4, bias=bridge_bias)
-        self.whisper_proj_f2 = nn.Linear(4096 * 4, 4096, bias=bridge_bias)
-        self.whisper_proj_f3 = nn.Linear(4096, 4096 * 4, bias=bridge_bias)
+        # self.whisper_proj_f1 = nn.Linear(4096, 4096 * 4, bias=bridge_bias)
+        # self.whisper_proj_f2 = nn.Linear(4096 * 4, 4096, bias=bridge_bias)
+        # self.whisper_proj_f3 = nn.Linear(4096, 4096 * 4, bias=bridge_bias)
 
         # 2. tokenizer
         self.tokenizer = Tokenizer(model_path=llama_tokenizer)
@@ -80,7 +80,7 @@ class WhisperLLaMA_adapter(nn.Module):
         if phase == 'finetune':
             for name, para in self.named_parameters():
                 if name.startswith("llama."):
-                    if 'norm' in name or 'bias' in name or 'lora' in name:
+                    if 'norm' in name or 'bias' in name or 'lora' in name or 'gate' in name:
                         trainable[name] = para
                 elif "whisper_proj" in name:
                     # hank: train the projection layers
@@ -111,9 +111,11 @@ class WhisperLLaMA_adapter(nn.Module):
         audio_feats = self.whisper_proj_cnn1(audio_feats.transpose(1, 2).contiguous())
         audio_feats = self.whisper_proj_cnn2(audio_feats).transpose(1, 2).contiguous()
         audio_feats = self.whisper_proj(audio_feats)
+        
+        audio_feats = self.whisper_proj_norm(audio_feats)
 
-        audio_feats_norm = self.whisper_proj_norm(audio_feats)
-        audio_feats = audio_feats + self.whisper_proj_f2(F.silu(self.whisper_proj_f1(audio_feats_norm)) * self.whisper_proj_f3(audio_feats_norm))
+        # audio_feats_norm = self.whisper_proj_norm(audio_feats)
+        # audio_feats = audio_feats + self.whisper_proj_f2(F.silu(self.whisper_proj_f1(audio_feats_norm)) * self.whisper_proj_f3(audio_feats_norm))
         return audio_feats
 
     # def forward_visual(self, inputs, cache_size=10, cache_t=20, cache_weight=0.5):
@@ -313,9 +315,10 @@ def load(name, llama_dir, device="cuda" if torch.cuda.is_available() else "cpu",
     adapter_ckpt = torch.load(model_path, map_location='cpu')
     model_cfg = adapter_ckpt.get('config', {})
 
-    model = LLaMA_adapter(
+    model = WhisperLLaMA_adapter(
         llama_ckpt_dir, llama_tokenzier_path, knn=knn, phase=phase, max_batch_size=max_batch_size)
 
     load_result = model.load_state_dict(adapter_ckpt['model'], strict=False)
+    logging.info(load_result)
     assert len(load_result.unexpected_keys) == 0, f"Unexpected keys: {load_result.unexpected_keys}"
     return model.to(device)
