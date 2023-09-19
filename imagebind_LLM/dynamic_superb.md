@@ -49,7 +49,7 @@ conda activate imagebind_LLM
 python bigsuperb_inference.py --exp_path "$OUTPUT_DIR" --model_path "checkpoint-latest.pth" --output_dir results --encoder_type whisper --dataset_list test_dataset.txt
 ```
 
-## paste to google sheet
+## Calculate accuracy and format for google sheet
 
 - See: `cal_acc_to_sheet.py`
 - `train_data_path` is for calculating seen/unseen accuracy
