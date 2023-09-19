@@ -1,5 +1,10 @@
 # ImageBind-LLM
 
+## Dynamic-superb
+
+> see: [dynamic_superb](dynamic_superb.md)
+
+
 ## News
 
 * [June 5, 2023] Support [3D point cloud input](https://github.com/ZrrSkywalker/Point-Bind) and image generation output. Release stable-version checkpoint.

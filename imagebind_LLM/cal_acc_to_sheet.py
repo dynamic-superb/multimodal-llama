@@ -5,7 +5,7 @@ import argparse
 def get_args_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--result_path', type=str, required=True)
-    parser.add_argument("--decode_300", action="store_true")
+    parser.add_argument('--train_data_path', type=str, required=True)
 
     return parser.parse_args()
 
@@ -70,7 +70,8 @@ def cal_accuracy(predictions, training_instructions=None):
 
 def main(args):
     # training dataset for getting instruction
-    train_data_path = Path("/home/u2619111/hank/Dataset/big-superb-train-data-renamed")
+    train_data_path = Path(args.train_data_path)
+    
     task2path = {}
     for d in train_data_path.iterdir():
         task2path[d.stem.lower()] = d

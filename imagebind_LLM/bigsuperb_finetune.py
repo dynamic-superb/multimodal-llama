@@ -6,8 +6,9 @@ from torch.utils.data import Dataset
 import util.misc as misc
 from util.misc import NativeScalerWithGradNormCount as NativeScaler
 from llama.llama_adapter import LLaMA_adapter
+from llama.whisper_llama_adapter import WhisperLLaMA_adapter
 
-from data.dataset import FinetuneDataset, transform_train
+from data.dataset import FinetuneDataset, transform_train, BigSuperbDataset
 
 import argparse
 import datetime
@@ -17,7 +18,7 @@ import os
 import time
 from pathlib import Path
 
-from engine_finetune import train_one_epoch
+from engine_finetune import train_one_epoch, val_one_epoch
 
 # hank
 from ImageBind.data import my_load_and_transform_audio_data
@@ -62,7 +63,7 @@ def get_args_parser():
     # Dataset parameters
     parser.add_argument('--data_config', default='configs/data/finetune/EN.yaml', type=str,
                         help='dataset config path')
-    parser.add_argument('--num_workers', default=10, type=int)
+    parser.add_argument('--num_workers', default=8, type=int)
     parser.add_argument('--pin_mem', action='store_true',
                         help='Pin CPU memory in DataLoader for more efficient (sometimes) transfer to GPU.')
     parser.add_argument('--no_pin_mem', action='store_false', dest='pin_mem')
@@ -88,86 +89,10 @@ def get_args_parser():
     parser.add_argument('--dist_on_itp', action='store_true')
     parser.add_argument('--dist_url', default='env://',
                         help='url used to set up distributed training')
-
+    
+    parser.add_argument('--encoder_type', default='whisper', type=str) # hank
+    parser.add_argument('--data_path', default"/path/to/data_path",type=str) # hank
     return parser
-
-
-tokenizer = Tokenizer(model_path="/home/u8915687/lab/big-superb/Macaw-LLM2/weights/llama_7B/tokenizer.model")
-
-# def collate_fn(b):
-#     batch = {}
-    
-#     audios = []
-#     prompts = []
-#     labels = []
-#     for data in b:
-#         audio = my_load_and_transform_audio_data(
-#                         torch.tensor(data["audio"]["array"], dtype=torch.float32
-#                     ).unsqueeze(0))[0]
-#         audios.append(audio)
-#         text = data.get("text").lower() if data.get("text") else None
-#         instruction = data["instruction"].lower()
-        
-#         prompts.append(llama.format_prompt(instruction, text))
-#         labels.append(data["label"])
-    
-#     batch["audio"] = torch.stack(audios)
-#     batch["prompts"] = prompts
-#     batch["instructions"] = [d["instruction"] for d in b]
-#     batch["labels"] = [d["label"] for d in b]
-#     return batch
-# def collate_fn(b):
-#     max_length = 128
-
-#     all_audios = []
-#     all_input_ids = []
-#     all_labels = []
-#     all_input_mask = []
-
-#     for data in b:
-#         audio = my_load_and_transform_audio_data(
-#             torch.tensor(data["audio"]["array"]).unsqueeze(0), dtype=torch.float32
-#         )[0]
-#         text = data.get("text").lower() if data.get("text") else None
-#         instruction = data["instruction"].lower()
-
-#         input1 = llama.format_prompt(instruction, text)
-#         input2 = input1 + data["label"]
-#         input1 = torch.tensor(
-#             tokenizer.encode(input1, bos=True, eos=False), dtype=torch.long
-#         )
-#         input2 = torch.tensor(tokenizer.encode(input2, bos=True, eos=True), dtype=torch.long)
-#         padding = max_length - input2.size(0)
-#         if padding > 0:
-#             input2 = torch.cat((input2, torch.zeros(padding, dtype=torch.long) - 1))
-#         else:
-#             input2 = input2[:max_length]
-        
-#         labels = copy.deepcopy(input2)
-#         labels[:input1.size(0)] = -1
-
-#         input2_mask = input2.ge(0)
-#         label_mask = labels.ge(0)
-#         input2[~input2_mask] = 0
-#         labels[~label_mask] = 0
-
-#         input2_mask = input2_mask.float()
-#         label_mask = label_mask.float()
-
-#         all_audios.append(audio)
-#         all_input_ids.append(input2)
-#         all_input_mask.append(input2_mask)
-#         all_labels.append(labels)
-    
-#     return {
-#         "audio": torch.stack(all_audios),
-#         "input_ids": torch.stack(all_input_ids),
-#         "labels": torch.stack(all_labels),
-#         "input_mask": torch.stack(all_input_mask)
-#     }
-
-# def collate_fn(b):
-#     pass
 
 
 def main(args):
@@ -189,7 +114,12 @@ def main(args):
     llama_type = args.llama_type
     llama_ckpt_dir = os.path.join(args.llama_path, llama_type)
     llama_tokenzier_path = os.path.join(args.llama_path, 'tokenizer.model')
-    model = LLaMA_adapter(llama_ckpt_dir, llama_tokenzier_path)
+    if args.encoder_type == "whisper":
+        model = WhisperLLaMA_adapter(llama_ckpt_dir, llama_tokenzier_path)
+    elif args.encoder_type == "imagebind":
+        model = LLaMA_adapter(llama_ckpt_dir, llama_tokenzier_path)
+    else:
+        raise NotImplementedError(f"{args.encoder_type} not found")
 
     model.to(device)
 
@@ -225,67 +155,14 @@ def main(args):
     print(optimizer)
     loss_scaler = NativeScaler()
 
+    print("Load model from:", args.pretrained_path)
     misc.load_model(model_without_ddp, args.pretrained_path)
 
     # hank
-    all_datasets = [
-        'BigSuperbPrivate/SpoofDetection_Asvspoof2017',
-        'BigSuperbPrivate/DailyTalk_DialogueActClassification',
-        'BigSuperbPrivate/PronounciationEvaluationProsodic_Speechocean762',
-        'BigSuperbPrivate/PronounciationEvaluationFluency_Speechocean762',
-        'BigSuperbPrivate/PronounciationEvaluationOverall_Speechocean762',
-        'BigSuperbPrivate/PronounciationEvaluationAccuracy_Speechocean762',
-        # 'BigSuperbPrivate/HowFarAreYou_DeeplyParentChildVocalInteraction',
-        # 'BigSuperbPrivate/HowFarAreYou_KoreanReadSpeechCorpus',
-        'BigSuperbPrivate/SpeakerVerification_Tedlium2Train',
-        'BigSuperbPrivate/SpeechDetection_Aishell1Train',
-        'BigSuperbPrivate/SpeakerVerification_LibrispeechTrainClean100',
-        'BigSuperbPrivate/SpeakerVerification_Aishell1Train',
-        'BigSuperbPrivate/SpeechDetection_Voxceleb1Train',
-        'BigSuperbPrivate/SpeakerVerification_Voxceleb1Train',
-        'BigSuperbPrivate/SpokenTermDetection_Tedlium2Train',
-        'BigSuperbPrivate/NoiseSNRLevelPredictionSpeech_VoxcelebMusan',
-        'BigSuperbPrivate/SpeechDetection_LibrispeechTrainClean100',
-        'BigSuperbPrivate/NoiseSNRLevelPredictionNoise_VoxcelebMusan',
-        'BigSuperbPrivate/SpeechDetection_Tedlium2Train',
-        'BigSuperbPrivate/EnhancementDetection_LibrittsTrainClean360Wham',
-        'BigSuperbPrivate/SpeakerCounting_LibrittsTrainClean100',
-        'BigSuperbPrivate/NoiseSNRLevelPredictionGaussian_VoxcelebMusan',
-        'BigSuperbPrivate/NoiseSNRLevelPredictionMusic_VoxcelebMusan',
-        'BigSuperbPrivate/SpeechTextMatching_Tedlium2Train',
-        'BigSuperbPrivate/ReverberationDetectionSmallRoom_VoxcelebRirsNoises',
-        'BigSuperbPrivate/ReverberationDetectionMediumRoom_VoxcelebRirsNoises',
-        'BigSuperbPrivate/SpokenTermDetection_LibrispeechTrainClean100',
-        'BigSuperbPrivate/ReverberationDetectionLargeRoom_VoxcelebRirsNoises',
-        'BigSuperbPrivate/NoiseDetectionSpeech_VoxcelebMusan',
-        'BigSuperbPrivate/NoiseDetectionNoise_VoxcelebMusan',
-        'BigSuperbPrivate/NoiseDetectionMusic_VoxcelebMusan',
-        'BigSuperbPrivate/NoiseDetectionGaussian_VoxcelebMusan',
-        'BigSuperbPrivate/SpoofDetection_ASVspoof2015',
-        'BigSuperbPrivate/SpeechTextMatching_LibrispeechTrainClean100'
-    ]
-    
-    data_path = Path("/work/u8915687/big-superb")
-    all_train_dataset = []
-    for dataset_name in all_datasets:
-        # dataset_path = (data_path/"train_datasets"/(dataset_name.split("/")[-1]))
-        dataset_path = (data_path/(dataset_name+"_train5000"))
-        train_dataset = load_from_disk(dataset_path)
-        if "text" not in train_dataset.features:
-            train_dataset = train_dataset.add_column("text", [None]*len(train_dataset))
-        train_dataset = train_dataset.remove_columns(
-            list(set(train_dataset.column_names) - {'audio', 'instruction', 'label', 'text'})
-        )
-
-        # train_dataset = train_dataset.remove_columns(
-        #     list(set(train_dataset.column_names) - {'audio', 'input_ids', 'labels', 'input_mask'})
-        # ) # only audio, input_ids, labels, input_mask
-        # assert train_dataset.features["audio"].feature.feature.feature.feature.dtype == "float32", dataset_name
-        # if train_dataset.features["audio"].feature.feature.feature.feature.dtype != "float32":
-        #     print("Error", dataset_name)
-        all_train_dataset.append(train_dataset)
-    all_train_dataset = concatenate_datasets(all_train_dataset)
-
+    tokenizer = Tokenizer(model_path=f"{args.llama_path}/tokenizer.model")
+    data_path = Path(args.data_path)
+    all_datasets = open("data/train_dataset.txt").read().split("\n")
+    all_train_dataset = BigSuperbDataset(data_path, tokenizer, data_path2=None, audio_input_type=args.encoder_type, allowed_datasets=all_datasets)
     print("All train dataset size:", len(all_train_dataset))
 
 
@@ -296,11 +173,11 @@ def main(args):
     sampler_train = torch.utils.data.DistributedSampler(
         all_train_dataset, num_replicas=num_tasks, rank=global_rank, shuffle=True
     )
+    
     print("Sampler_train = %s" % str(sampler_train))
 
     data_loader_train = torch.utils.data.DataLoader(
         all_train_dataset, sampler=sampler_train,
-        collate_fn=collate_fn, 
         batch_size=args.batch_size,
         num_workers=args.num_workers,
         pin_memory=args.pin_mem,
@@ -321,10 +198,7 @@ def main(args):
         if args.distributed:
             data_loader_train.sampler.set_epoch(epoch)
 
-        misc.save_model_with_grad(
-                args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
-                loss_scaler=loss_scaler, epoch=epoch)
-
+        
         train_stats = train_one_epoch(
             model, data_loader_train,
             optimizer, device, epoch, loss_scaler,
@@ -332,10 +206,21 @@ def main(args):
             args=args
         )
 
-        if args.output_dir and (epoch % 5 == 0 or epoch + 1 == args.epochs):
-            misc.save_model(
+        misc.save_model_with_grad(
+                args=args, model=model, 
+                model_without_ddp=model_without_ddp,
+                optimizer=optimizer,
+                loss_scaler=loss_scaler,
+                epoch=epoch)
+        
+        misc.save_model(
                 args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
-                loss_scaler=loss_scaler, epoch=epoch)
+                loss_scaler=loss_scaler, epoch=epoch, name="latest")
+
+        # if args.output_dir and (epoch + 1 == args.epochs):
+        #     misc.save_model(
+        #         args=args, model=model, model_without_ddp=model_without_ddp, optimizer=optimizer,
+        #         loss_scaler=loss_scaler, epoch=epoch)
 
         log_stats = {**{f'train_{k}': v for k, v in train_stats.items()},
                      'epoch': epoch,
