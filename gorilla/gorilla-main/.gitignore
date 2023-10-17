@@ -1,9 +1,0 @@
-build
-dist
-*.egg-info
-**/__pycache__/
-*.log
-**/*.lic
-.vscode
-.idea
-.editorconfig
