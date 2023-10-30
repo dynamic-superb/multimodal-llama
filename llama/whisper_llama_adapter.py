@@ -13,7 +13,7 @@ from util.misc import download
 from .utils import sample_top_p
 
 from ImageBind.models import imagebind_model
-from transformers import CLIPProcessor, CLIPModel, CLIPConfig, LlamaConfig, WhisperConfig, WhisperModel, LlamaModel, LlamaTokenizer, WhisperFeatureExtractor
+from transformers import CLIPProcessor, CLIPModel, CLIPConfig, LlamaConfig, WhisperConfig, WhisperModel, LlamaModel, LlamaTokenizer, WhisperFeatureExtractor, WhisperConfig
 import logging
 
 
@@ -32,9 +32,6 @@ class WhisperLLaMA_adapter(nn.Module):
 
         self.whisper_proj_norm = RMSNorm(4096)
         bridge_bias = False
-        # self.whisper_proj_f1 = nn.Linear(4096, 4096 * 4, bias=bridge_bias)
-        # self.whisper_proj_f2 = nn.Linear(4096 * 4, 4096, bias=bridge_bias)
-        # self.whisper_proj_f3 = nn.Linear(4096, 4096 * 4, bias=bridge_bias)
 
         # 2. tokenizer
         self.tokenizer = Tokenizer(model_path=llama_tokenizer)
@@ -314,11 +311,12 @@ def load(name, llama_dir, device="cuda" if torch.cuda.is_available() else "cpu",
     print(f'Loading LLaMA-Adapter from {model_path}')
     adapter_ckpt = torch.load(model_path, map_location='cpu')
     model_cfg = adapter_ckpt.get('config', {})
-
+    
     model = WhisperLLaMA_adapter(
         llama_ckpt_dir, llama_tokenzier_path, knn=knn, phase=phase, max_batch_size=max_batch_size)
 
     load_result = model.load_state_dict(adapter_ckpt['model'], strict=False)
+    print("Loaded")
     logging.info(load_result)
     assert len(load_result.unexpected_keys) == 0, f"Unexpected keys: {load_result.unexpected_keys}"
     return model.to(device)

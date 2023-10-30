@@ -193,23 +193,20 @@ class BigSuperbDataset(Dataset):
         self.phase = phase
 
         for task_path in data_path.iterdir():
+            print(task_path)
             if not self.check_allowed_datasets(task_path):
                 continue
             
             self.used_datasets.append(task_path.stem)
-            
-            # for data_split in task_path.iterdir():
-            #     if data_split.stem != self.used_data_split:
-            #         continue
-                
-            json_data = json.load((data_split/"metadata.json").open())
+
+            json_data = json.load((task_path/"metadata.json").open())
             for filename, d in json_data.items():
                 d["id"] = filename
-                d["file"] = f"{data_split}/{filename}"
+                d["file"] = f"{task_path}/{filename}"
 
                 if d.get("file2"):
                     filename2 = filename.replace(".wav", "_pair.wav").replace(".flac", "_pair.flac")
-                    d["file2"] = f"{data_split}/{filename2}"                        
+                    d["file2"] = f"{task_path}/{filename2}"
                 self.datas.append(d)
 
         # exclude
@@ -223,12 +220,11 @@ class BigSuperbDataset(Dataset):
                     if data_split.stem != self.used_data_split:
                         continue
                     
-                    json_data = json.load((data_split/"metadata.json").open())
-                    for file_name, d in json_data.items():
-                        d["file"] = str(data_split/file_name)
+                    json_data = json.load((task_path/"metadata.json").open())
+                    for filename, d in json_data.items():
+                        d["file"] = str(data_split/filename)
                                 
                         self.datas.append(d)
-
 
         # Audio loader
         self.clip_sampler = ConstantClipsPerVideoSampler(

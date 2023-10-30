@@ -1,21 +1,20 @@
 
+import argparse
+import json
+import logging
 import torch
-from llama.llama_adapter import LLaMA_adapter
 from datasets import disable_caching
 from llama import Tokenizer
 import llama
 from pathlib import Path
 from tqdm import tqdm
-import json
-import logging
-import argparse
 from data.dataset import BigSuperbDataset
 
 disable_caching()
 
 def get_args_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--exp_path', type=str, required=True)
+    # parser.add_argument('--exp_path', type=str, required=True)
     parser.add_argument('--model_path', type=str, required=True)
     parser.add_argument("--output_dir", type=str, default="results")
     parser.add_argument("--encoder_type", type=str, default="whisper")
@@ -162,9 +161,9 @@ def main(args):
     logging.info(f"result_path: {RESULT_PATH}")
 
     # Config #
-
+    # Load pre-trained weights
     llama_dir = args.llama_path
-    tokenizer = Tokenizer(model_path=f"{llama_dir}tokenizer.model")
+    tokenizer = Tokenizer(model_path=f"{llama_dir}/tokenizer.model")
     if args.encoder_type == "whisper":
         model = llama.whisper_llama_adapter.load(pretrained_path, llama_dir, knn=True, max_batch_size=16)
     elif args.encoder_type == "imagebind":
@@ -173,16 +172,17 @@ def main(args):
         raise NotImplementedError()
     model.eval()
 
+    # Load dataset
     DATA_PATH = Path(args.data_path)
-    all_datasets = open(f"data/{args.dataset_list}").read().split("\n")
-    # all_datasets = open("data/train_dataset.txt").read().split("\n")
-    for task_name in all_datasets:
+    dataset_list = open(f"{args.dataset_list}").read().split("\n")
+    for task_name in dataset_list:
 
         logging.info(task_name)
         
         if (RESULT_PATH/f"{task_name}.json").exists():
             logging.info(f"SKIP {task_name}")
             continue
+
         dataset = BigSuperbDataset(DATA_PATH, tokenizer, audio_input_type=args.encoder_type, used_data_split="test", allowed_datasets=[task_name], phase="test")
 
         if len(dataset) == 0:

@@ -19,8 +19,11 @@ You can use the Preprocessing Scripts in [dynamic-superb/api/preprocess](https:/
 
 ## Setup
 - Python environment
-  - Follow the setup of [Imagebind-LLM and LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM#setup).
-  - `pip install -r requirements_dynamicsuperb.txt`
+```
+conda create --name multimodal-llama python=3.10
+conda activate multimodal-llama
+pip install -r requirements.txt
+```
 
 - Download the model weight
   - Download LLaMA-1 7B from Meta.
@@ -28,7 +31,7 @@ You can use the Preprocessing Scripts in [dynamic-superb/api/preprocess](https:/
     - [whisper-llama-latest.pth](https://huggingface.co/DynamicSuperb/multimodal-llama/resolve/main/whisper-llama-latest.pth)
     - [imagebind-llama-latest.pth](https://huggingface.co/DynamicSuperb/multimodal-llama/resolve/main/imagebind-llama-latest.pth)
 
-Organize the downloaded file in the following structure:
+- Organize the downloaded file in the following structure:
 ```
 ckpts/
 ├── llama_model_weights/
@@ -54,7 +57,7 @@ python dynamicsuperb_inference.py \
 --encoder_type whisper \
 --output_dir results/whisper \
 --dataset_list data/test_dataset.txt \
---data_path /path/to/datasets
+--data_path /path/to/dataset \
 --llama_path ckpts/llama_model_weights
 ```
 
